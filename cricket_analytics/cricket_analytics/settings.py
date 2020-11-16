@@ -26,7 +26,7 @@ SECRET_KEY = '96tvp*9(5lk5kp8@00in@ey0+wj*u&clqc=v*48568ynl@s#(j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sportsanalytics.pythonanywhere.com']
 
 
 # Application definition
