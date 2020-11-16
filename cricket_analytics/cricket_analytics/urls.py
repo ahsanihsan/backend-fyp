@@ -10,7 +10,7 @@ urlpatterns = [
 
     # url(r'^admin/', include(admin.site.urls)),
     # url('api/authentication',include('authentication.urls')),
-    # url('api/predict/',include('predictor.urls')),
+    url('api/predict/', include('predictor.urls')),
 ]
 
 if settings.DEBUG:
