@@ -1,5 +1,6 @@
 import json
 import sys
+from django.views.decorators.csrf import csrf_exempt
 from django.shortcuts import render, HttpResponse, redirect
 import pandas as pd
 import numpy as np
@@ -8,6 +9,7 @@ import math
 # Create your views here.
 
 
+@csrf_exempt
 def who_will_win(request):
     body = json.loads(request.body)
     input = pd.DataFrame({
@@ -37,6 +39,7 @@ def who_will_win(request):
     return HttpResponse(json.dumps({"error": False, "prediction": pred[0], "data": data.T.to_dict().values()}), content_type="application/json")
 
 
+@csrf_exempt
 def score_of_teams(request):
     body = json.loads(request.body)
     input = pd.DataFrame({
@@ -60,6 +63,7 @@ def score_of_teams(request):
     return HttpResponse(json.dumps({"error": False, "prediction": {"team_a": math.floor(pred_a[0]), "team_b": math.floor(pred_b[0])}, "data": data.T.to_dict().values()}), content_type="application/json")
 
 
+@csrf_exempt
 def runrate(request):
     body = json.loads(request.body)
     input = pd.DataFrame({
@@ -86,6 +90,7 @@ def runrate(request):
     return HttpResponse(json.dumps({"error": False, "prediction": [pred1[0], pred2[0], pred3[0], pred4[0], pred5[0]], "data": data.T.to_dict().values()}), content_type="application/json")
 
 
+@csrf_exempt
 def will_batsman_get_out(request):
     body = json.loads(request.body)
     input = pd.DataFrame({
@@ -116,6 +121,7 @@ def will_batsman_get_out(request):
     return HttpResponse(json.dumps({"error": False, "prediction": bool(pred[0]), "data": data.T.to_dict().values()}), content_type="application/json")
 
 
+@csrf_exempt
 def what_score_will_batsman_make(request):
     body = json.loads(request.body)
     input = pd.DataFrame({
