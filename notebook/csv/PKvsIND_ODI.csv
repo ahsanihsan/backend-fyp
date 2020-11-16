@@ -1,0 +1,543 @@
+id,city,month,match_type,team_a,team_b,toss_won,toss_decision,venue,score_a,score_b,winner
+1,,October,ODI,Pakistan,West Indies,Pakistan,bat,Sharjah Cricket Stadium,337,278,Pakistan
+2,London,June,ODI,Pakistan,West Indies,West Indies,field,Kennington Oval,170,172,West Indies
+3,Abu Dhabi,November,ODI,Pakistan,West Indies,Pakistan,bat,Sheikh Zayed Stadium,232,208,Pakistan
+4,Christchurch,February,ODI,Pakistan,West Indies,Pakistan,field,Hagley Oval,160,310,West Indies
+5,St Lucia,April,ODI,West Indies,Pakistan,Pakistan,field,"Beausejour Stadium, Gros Islet",220,223,Pakistan
+6,Guyana,April,ODI,West Indies,Pakistan,West Indies,field,Providence Stadium,208,282,Pakistan
+7,Abu Dhabi,October,ODI,Pakistan,West Indies,Pakistan,bat,Sheikh Zayed Stadium,308,172,Pakistan
+8,Karachi,December,ODI,Pakistan,West Indies,Pakistan,field,National Stadium,239,238,Pakistan
+9,St Lucia,July,ODI,West Indies,Pakistan,West Indies,field,"Beausejour Stadium, Gros Islet",229,229,draw
+10,Abu Dhabi,November,ODI,Pakistan,West Indies,West Indies,bat,Sheikh Zayed Stadium,295,294,Pakistan
+11,Johannesburg,September,ODI,Pakistan,West Indies,West Indies,bat,New Wanderers Stadium,134,133,Pakistan
+12,Dubai,February,ODI,Pakistan,West Indies,Pakistan,bat,ICC Academy,240,206,Pakistan
+13,St Lucia,April,ODI,West Indies,Pakistan,West Indies,bat,"Beausejour Stadium, Gros Islet",221,222,Pakistan
+14,Dubai,February,ODI,Pakistan,West Indies,West Indies,bat,Dubai International Cricket Stadium,70,216,West Indies
+15,Guyana,July,ODI,West Indies,Pakistan,West Indies,field,Providence Stadium,98,224,Pakistan
+16,,September,ODI,Pakistan,West Indies,West Indies,field,Sharjah Cricket Stadium,284,175,Pakistan
+17,Jamaica,March,ODI,West Indies,Pakistan,Pakistan,field,"Sabina Park, Kingston",241,187,West Indies
+18,Leicester,July,ODI,Pakistan,West Indies,Pakistan,field,Grace Road,117,285,West Indies
+19,Barbados,May,ODI,West Indies,Pakistan,West Indies,field,"Kensington Oval, Bridgetown",154,248,West Indies
+20,Guyana,July,ODI,West Indies,Pakistan,Pakistan,field,Providence Stadium,232,195,West Indies
+21,Barbados,April,ODI,West Indies,Pakistan,Pakistan,field,"Kensington Oval, Bridgetown",171,177,Pakistan
+22,Lahore,December,ODI,Pakistan,West Indies,Pakistan,field,Gaddafi Stadium,192,207,Pakistan
+23,,December,ODI,Pakistan,West Indies,Pakistan,bat,Multan Cricket Stadium,209,212,West Indies
+24,Mirpur,March,ODI,Pakistan,West Indies,West Indies,bat,Shere Bangla National Stadium,113,112,Pakistan
+25,Faisalabad,December,ODI,Pakistan,West Indies,Pakistan,field,Iqbal Stadium,154,151,Pakistan
+26,Guyana,April,ODI,West Indies,Pakistan,West Indies,bat,Providence Stadium,233,236,Pakistan
+27,Nottingham,May,ODI,Pakistan,West Indies,West Indies,field,Trent Bridge,105,108,West Indies
+28,Guyana,April,ODI,West Indies,Pakistan,West Indies,field,Providence Stadium,309,308,West Indies
+29,Guyana,May,ODI,West Indies,Pakistan,Pakistan,bat,Providence Stadium,140,139,West Indies
+30,St Lucia,July,ODI,West Indies,Pakistan,Pakistan,field,"Beausejour Stadium, Gros Islet",261,189,Pakistan
+31,St Lucia,July,ODI,West Indies,Pakistan,Pakistan,field,"Beausejour Stadium, Gros Islet",242,243,Pakistan
+32,Cape Town,September,T20,New Zealand,Pakistan,New Zealand,bat,Newlands,143,147,Pakistan
+33,,November,T20,Pakistan,New Zealand,Pakistan,bat,Sharjah Cricket Stadium,89,93,New Zealand
+34,Auckland,January,T20,Pakistan,New Zealand,Pakistan,bat,Eden Park,201,153,Pakistan
+35,,November,T20,New Zealand,Pakistan,New Zealand,field,Dubai International Cricket Stadium,112,161,Pakistan
+36,,December,T20,New Zealand,Pakistan,Pakistan,field,Dubai International Cricket Stadium,144,127,New Zealand
+37,Auckland,January,T20,New Zealand,Pakistan,New Zealand,field,Eden Park,155,171,Pakistan
+38,,November,T20,New Zealand,Pakistan,Pakistan,bat,Dubai International Cricket Stadium,146,153,Pakistan
+39,Wellington,January,T20,Pakistan,New Zealand,New Zealand,field,Westpac Stadium,105,106,New Zealand
+40,,November,T20,Pakistan,New Zealand,Pakistan,bat,Dubai International Cricket Stadium,166,119,Pakistan
+41,Nelson,November,T20,New Zealand,Pakistan,New Zealand,bat,Saxton Oval,118,104,New Zealand
+42,Abu Dhabi,October,T20,Pakistan,New Zealand,Pakistan,bat,Sheikh Zayed Stadium,148,146,Pakistan
+43,Barbados,May,T20,New Zealand,Pakistan,Pakistan,field,"Kensington Oval, Bridgetown",133,132,New Zealand
+44,Christchurch,December,T20,New Zealand,Pakistan,Pakistan,bat,AMI Stadium,80,183,Pakistan
+45,,December,T20,New Zealand,Pakistan,Pakistan,field,Dubai International Cricket Stadium,135,140,Pakistan
+46,Hamilton,December,T20,New Zealand,Pakistan,Pakistan,field,Seddon Park,185,146,New Zealand
+47,London,June,T20,New Zealand,Pakistan,New Zealand,bat,Kennington Oval,99,100,Pakistan
+48,Guyana,November,T20,New Zealand,Pakistan,Pakistan,field,Providence Stadium,144,90,New Zealand
+49,,November,T20,New Zealand,Pakistan,New Zealand,bat,Sharjah Cricket Stadium,150,111,New Zealand
+50,Auckland,December,T20,New Zealand,Pakistan,New Zealand,field,Eden Park,146,143,New Zealand
+51,,March,T20,New Zealand,Pakistan,New Zealand,bat,Sylhet Stadium,167,108,New Zealand
+52,,November,T20,New Zealand,Pakistan,New Zealand,bat,Dubai International Cricket Stadium,153,154,Pakistan
+53,Hamilton,January,T20,New Zealand,Pakistan,Pakistan,bat,Seddon Park,171,168,New Zealand
+54,,November,T20,New Zealand,Pakistan,New Zealand,bat,Sharjah Cricket Stadium,126,84,New Zealand
+55,,September,T20,New Zealand,Pakistan,Pakistan,bat,Pallekele International Cricket Stadium,164,177,Pakistan
+56,Mount Maunganui,January,T20,Pakistan,New Zealand,Pakistan,bat,Bay Oval,181,163,Pakistan
+57,Wellington,January,T20,New Zealand,Pakistan,Pakistan,field,Westpac Stadium,196,101,New Zealand
+58,Chandigarh,March,T20,New Zealand,Pakistan,New Zealand,bat,"Punjab Cricket Association IS Bindra Stadium, Mohali",180,158,New Zealand
+59,Manchester,September,T20,Pakistan,England,England,field,Old Trafford,190,185,Pakistan
+60,Manchester,September,T20,England,Pakistan,England,bat,Old Trafford,135,139,Pakistan
+61,,February,T20,England,Pakistan,England,field,Dubai International Cricket Stadium,136,144,Pakistan
+62,London,June,T20,England,Pakistan,Pakistan,field,Kennington Oval,185,137,England
+63,Cardiff,May,T20,England,Pakistan,Pakistan,bat,Sophia Gardens,175,173,England
+64,Loughborough,September,T20,England,Pakistan,Pakistan,bat,Haslegrave Ground,91,87,England
+65,Manchester,August,T20,Pakistan,England,England,field,Old Trafford,195,199,England
+66,,February,T20,England,Pakistan,Pakistan,field,Dubai International Cricket Stadium,148,149,Pakistan
+67,Abu Dhabi,February,T20,England,Pakistan,England,bat,Sheikh Zayed Stadium,129,124,England
+68,Kuala Lumpur,December,T20,England,Pakistan,England,bat,Kinrara Academy Oval,170,144,England
+69,Southampton,July,T20,England,Pakistan,England,bat,The Rose Bowl,138,103,England
+70,,February,T20,England,Pakistan,Pakistan,bat,Dubai International Cricket Stadium,130,129,England
+71,Bristol,August,T20,England,Pakistan,England,bat,County Ground,144,148,Pakistan
+72,,February,T20,England,Pakistan,England,bat,Dubai International Cricket Stadium,150,112,England
+73,Barbados,May,T20,England,Pakistan,England,field,"Kensington Oval, Bridgetown",151,147,England
+74,Cardiff,September,T20,England,Pakistan,England,field,Sophia Gardens,129,126,England
+75,Kuala Lumpur,December,T20,England,Pakistan,Pakistan,field,Kinrara Academy Oval,154,125,England
+76,Kuala Lumpur,December,T20,England,Pakistan,England,bat,Kinrara Academy Oval,185,101,England
+77,Chennai,March,T20,England,Pakistan,England,bat,"MA Chidambaram Stadium, Chepauk",148,80,England
+78,Chelmsford,July,T20,England,Pakistan,England,bat,County Ground,170,113,England
+79,Cardiff,September,T20,England,Pakistan,Pakistan,bat,Sophia Gardens,90,89,England
+80,Loughborough,July,T20,England,Pakistan,Pakistan,bat,Haslegrave Ground,115,116,Pakistan
+81,Bristol,July,T20,England,Pakistan,England,bat,County Ground,187,119,England
+82,Canberra,February,T20,England,Pakistan,Pakistan,field,Manuka Oval,158,116,England
+83,Loughborough,July,T20,England,Pakistan,England,bat,Haslegrave Ground,145,75,England
+84,Loughborough,September,T20,England,Pakistan,England,bat,Haslegrave Ground,162,81,England
+85,,November,T20,England,Pakistan,England,bat,Dubai International Cricket Stadium,160,146,England
+86,,November,T20,England,Pakistan,England,bat,Dubai International Cricket Stadium,172,169,England
+87,,September,T20,England,Pakistan,Pakistan,field,Galle International Stadium,133,90,England
+88,Dunedin,January,ODI,New Zealand,Pakistan,New Zealand,bat,University Oval,257,74,New Zealand
+89,,December,ODI,New Zealand,Pakistan,Pakistan,bat,Sharjah Cricket Stadium,217,364,Pakistan
+90,Christchurch,January,ODI,New Zealand,Pakistan,New Zealand,field,AMI Stadium,250,293,Pakistan
+91,,November,ODI,Pakistan,New Zealand,Pakistan,bat,Sharjah Cricket Stadium,147,148,New Zealand
+92,Wellington,January,ODI,New Zealand,Pakistan,New Zealand,field,Westpac Stadium,213,210,New Zealand
+93,Abu Dhabi,November,ODI,New Zealand,Pakistan,New Zealand,bat,Sheikh Zayed Stadium,211,204,New Zealand
+94,Wellington,January,ODI,New Zealand,Pakistan,Pakistan,field,Basin Reserve,315,166,New Zealand
+95,Chandigarh,October,ODI,New Zealand,Pakistan,Pakistan,field,"Punjab Cricket Association Stadium, Mohali",274,223,New Zealand
+96,Hamilton,January,ODI,Pakistan,New Zealand,Pakistan,bat,Seddon Park,262,263,New Zealand
+97,Johannesburg,October,ODI,New Zealand,Pakistan,Pakistan,bat,New Wanderers Stadium,234,233,New Zealand
+98,Auckland,February,ODI,New Zealand,Pakistan,Pakistan,field,Eden Park,311,254,New Zealand
+99,Napier,February,ODI,New Zealand,Pakistan,New Zealand,bat,McLean Park,262,264,Pakistan
+100,Abu Dhabi,November,ODI,New Zealand,Pakistan,Pakistan,bat,Sheikh Zayed Stadium,149,287,Pakistan
+101,Taunton,July,ODI,New Zealand,Pakistan,Pakistan,bat,County Ground,147,144,New Zealand
+102,Birmingham,June,ODI,New Zealand,Pakistan,New Zealand,bat,Edgbaston,237,241,Pakistan
+103,Abu Dhabi,November,ODI,New Zealand,Pakistan,New Zealand,bat,Sheikh Zayed Stadium,209,212,Pakistan
+104,Abu Dhabi,December,ODI,New Zealand,Pakistan,New Zealand,bat,Sheikh Zayed Stadium,299,292,New Zealand
+105,,November,ODI,Pakistan,New Zealand,Pakistan,bat,Dubai International Cricket Stadium,279,35,draw
+106,Abu Dhabi,December,ODI,New Zealand,Pakistan,New Zealand,bat,Sheikh Zayed Stadium,275,207,New Zealand
+107,,December,ODI,New Zealand,Pakistan,Pakistan,field,Dubai International Cricket Stadium,246,250,Pakistan
+108,Abu Dhabi,November,ODI,New Zealand,Pakistan,New Zealand,bat,Sheikh Zayed Stadium,266,219,New Zealand
+109,Wellington,January,ODI,New Zealand,Pakistan,Pakistan,bat,Westpac Stadium,125,124,New Zealand
+110,Napier,February,ODI,New Zealand,Pakistan,New Zealand,bat,McLean Park,369,250,New Zealand
+111,Wellington,January,ODI,New Zealand,Pakistan,Pakistan,field,Basin Reserve,280,210,New Zealand
+112,Nelson,January,ODI,Pakistan,New Zealand,Pakistan,bat,Saxton Oval,246,151,New Zealand
+113,Lincoln,November,ODI,New Zealand,Pakistan,New Zealand,bat,Bert Sutcliffe Oval,309,142,New Zealand
+114,,October,ODI,New Zealand,Pakistan,New Zealand,bat,Sharjah Cricket Stadium,240,232,New Zealand
+115,,December,ODI,New Zealand,Pakistan,Pakistan,bat,Sharjah Cricket Stadium,255,252,New Zealand
+116,,March,ODI,New Zealand,Pakistan,New Zealand,bat,Pallekele International Cricket Stadium,302,192,New Zealand
+117,Abu Dhabi,November,ODI,New Zealand,Pakistan,New Zealand,bat,Sheikh Zayed Stadium,303,239,New Zealand
+118,Lincoln,November,ODI,New Zealand,Pakistan,Pakistan,bat,Bert Sutcliffe Oval,267,263,New Zealand
+119,,November,ODI,New Zealand,Pakistan,New Zealand,bat,Sharjah Cricket Stadium,155,156,Pakistan
+120,Hamilton,February,ODI,New Zealand,Pakistan,New Zealand,field,Seddon Park,227,268,Pakistan
+121,Wellington,January,ODI,New Zealand,Pakistan,New Zealand,bat,Basin Reserve,271,256,New Zealand
+122,Auckland,January,ODI,New Zealand,Pakistan,Pakistan,bat,Eden Park,265,290,New Zealand
+123,Nelson,November,ODI,New Zealand,Pakistan,New Zealand,field,Saxton Oval,162,158,New Zealand
+124,Karachi,April,T20,Pakistan,West Indies,Pakistan,bat,National Stadium,205,123,Pakistan
+125,Karachi,February,T20,Pakistan,West Indies,Pakistan,bat,Southend Club Cricket Stadium,150,138,Pakistan
+126,Karachi,April,T20,West Indies,Pakistan,West Indies,bat,National Stadium,153,154,Pakistan
+127,Karachi,April,T20,Pakistan,West Indies,West Indies,field,National Stadium,203,60,Pakistan
+128,Canberra,February,T20,Pakistan,West Indies,West Indies,bat,Manuka Oval,127,124,Pakistan
+129,Trinidad,March,T20,West Indies,Pakistan,West Indies,field,"Queen's Park Oval, Port of Spain",129,132,Pakistan
+130,St Lucia,April,T20,West Indies,Pakistan,West Indies,bat,"Beausejour Stadium, Gros Islet",150,143,West Indies
+131,Karachi,January,T20,Pakistan,West Indies,West Indies,bat,Southend Club Cricket Stadium,89,160,West Indies
+132,St Vincent,July,T20,West Indies,Pakistan,West Indies,bat,"Arnos Vale Ground, Kingstown",152,158,Pakistan
+133,Chennai,March,T20,Pakistan,West Indies,Pakistan,field,"MA Chidambaram Stadium, Chepauk",99,103,West Indies
+134,,September,T20,Pakistan,West Indies,West Indies,field,Dubai International Cricket Stadium,160,144,Pakistan
+135,Mirpur,April,T20,Pakistan,West Indies,West Indies,bat,Shere Bangla National Stadium,82,166,West Indies
+136,St Vincent,July,T20,West Indies,Pakistan,Pakistan,bat,"Arnos Vale Ground, Kingstown",124,135,Pakistan
+137,Grenada,October,T20,West Indies,Pakistan,West Indies,field,"National Cricket Stadium, St George's",78,74,West Indies
+138,Barbados,March,T20,West Indies,Pakistan,Pakistan,field,"Kensington Oval, Bridgetown",111,115,Pakistan
+139,,September,T20,Pakistan,West Indies,Pakistan,field,Dubai International Cricket Stadium,116,115,Pakistan
+140,Trinidad,April,T20,West Indies,Pakistan,Pakistan,field,"Queen's Park Oval, Port of Spain",124,127,Pakistan
+141,Abu Dhabi,September,T20,Pakistan,West Indies,Pakistan,field,Sheikh Zayed Stadium,108,103,Pakistan
+142,Trinidad,April,T20,West Indies,Pakistan,Pakistan,bat,"Queen's Park Oval, Port of Spain",138,137,West Indies
+143,Abu Dhabi,February,ODI,England,Pakistan,England,bat,Sheikh Zayed Stadium,250,230,England
+144,Loughborough,July,ODI,England,Pakistan,Pakistan,bat,Haslegrave Ground,157,156,England
+145,Southampton,September,ODI,England,Pakistan,Pakistan,field,The Rose Bowl,271,274,Pakistan
+146,Nottingham,August,ODI,England,Pakistan,England,bat,Trent Bridge,444,275,England
+147,Leeds,September,ODI,England,Pakistan,Pakistan,bat,Headingley,252,247,England
+148,Kuala Lumpur,December,ODI,England,Pakistan,England,bat,Kinrara Academy Oval,284,209,England
+149,Leicester,June,ODI,England,Pakistan,Pakistan,field,Grace Road,377,107,England
+150,Cardiff,August,ODI,England,Pakistan,Pakistan,field,Sophia Gardens,202,46,draw
+151,,November,ODI,England,Pakistan,England,bat,Dubai International Cricket Stadium,355,271,England
+152,Abu Dhabi,November,ODI,England,Pakistan,England,bat,Sheikh Zayed Stadium,216,217,Pakistan
+153,Southampton,September,ODI,England,Pakistan,England,bat,The Rose Bowl,256,135,England
+154,Southampton,August,ODI,England,Pakistan,Pakistan,bat,The Rose Bowl,194,260,England
+155,Southampton,May,ODI,England,Pakistan,Pakistan,field,The Rose Bowl,373,361,England
+156,Chester-le-Street,September,ODI,England,Pakistan,Pakistan,field,Riverside Ground,274,250,England
+157,Nottingham,May,ODI,England,Pakistan,England,field,Trent Bridge,341,340,England
+158,Leeds,May,ODI,England,Pakistan,England,bat,Headingley,351,297,England
+159,Abu Dhabi,February,ODI,England,Pakistan,England,bat,Sheikh Zayed Stadium,260,130,England
+160,Abu Dhabi,November,ODI,England,Pakistan,England,bat,Sheikh Zayed Stadium,283,188,England
+161,Nottingham,June,ODI,England,Pakistan,England,field,Trent Bridge,334,348,Pakistan
+162,,February,ODI,England,Pakistan,Pakistan,bat,Dubai International Cricket Stadium,241,237,England
+163,,November,ODI,England,Pakistan,Pakistan,bat,Sharjah Cricket Stadium,210,208,England
+164,Cardiff,September,ODI,England,Pakistan,Pakistan,field,Sophia Gardens,302,304,Pakistan
+165,Nottingham,September,ODI,England,Pakistan,Pakistan,bat,Trent Bridge,237,235,England
+166,,July,ODI,England,Pakistan,England,bat,Louth Cricket Club,227,116,England
+167,Cardiff,June,ODI,England,Pakistan,Pakistan,field,Sophia Gardens,211,215,Pakistan
+168,London,September,ODI,England,Pakistan,Pakistan,field,Lord's,166,169,Pakistan
+169,Leeds,September,ODI,England,Pakistan,Pakistan,bat,Headingley,295,294,England
+170,Taunton,June,ODI,England,Pakistan,England,bat,County Ground,366,164,England
+171,London,September,ODI,England,Pakistan,Pakistan,bat,Kennington Oval,218,241,Pakistan
+172,Leicester,June,ODI,England,Pakistan,England,field,Grace Road,166,165,England
+173,,February,ODI,England,Pakistan,Pakistan,bat,Dubai International Cricket Stadium,226,222,England
+174,Birmingham,September,ODI,England,Pakistan,England,field,Edgbaston,155,154,England
+175,Bristol,May,ODI,England,Pakistan,England,field,County Ground,359,358,England
+176,Kuala Lumpur,December,ODI,England,Pakistan,England,bat,Kinrara Academy Oval,327,200,England
+177,London,September,ODI,England,Pakistan,Pakistan,bat,Lord's,227,265,Pakistan
+178,Worcester,June,ODI,England,Pakistan,Pakistan,field,"County Ground, New Road",378,166,England
+179,London,August,ODI,England,Pakistan,Pakistan,bat,Lord's,255,251,England
+180,Lahore,October,T20,Pakistan,Bangladesh,Pakistan,bat,Gaddafi Stadium,126,112,Pakistan
+181,Lahore,January,T20,Pakistan,Bangladesh,Bangladesh,bat,Gaddafi Stadium,142,141,Pakistan
+182,Karachi,October,T20,Pakistan,Bangladesh,Pakistan,bat,Southend Club Cricket Stadium,114,80,Pakistan
+183,St Lucia,May,T20,Bangladesh,Pakistan,Pakistan,bat,"Beausejour Stadium, Gros Islet",151,172,Pakistan
+184,Mirpur,November,T20,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium,85,135,Pakistan
+185,Nairobi,September,T20,Bangladesh,Pakistan,Bangladesh,field,Gymkhana Club Ground,161,191,Pakistan
+186,Karachi,April,T20,Pakistan,Bangladesh,Pakistan,bat,National Stadium,203,101,Pakistan
+187,Delhi,March,T20,Bangladesh,Pakistan,Bangladesh,bat,Feroz Shah Kotla,113,114,Pakistan
+188,Mirpur,March,T20,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium,140,190,Pakistan
+189,Lahore,January,T20,Pakistan,Bangladesh,Bangladesh,bat,Gaddafi Stadium,137,136,Pakistan
+190,Mirpur,April,T20,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium,143,141,Bangladesh
+191,,October,T20,Bangladesh,Pakistan,Pakistan,field,Guanggong International Cricket Stadium,82,83,Pakistan
+192,Kuala Lumpur,June,T20,Pakistan,Bangladesh,Bangladesh,field,Kinrara Academy Oval,95,96,Bangladesh
+193,Karachi,September,T20,Pakistan,Bangladesh,Pakistan,bat,Southend Club Cricket Stadium,124,95,Pakistan
+194,Kolkata,March,T20,Bangladesh,Pakistan,Pakistan,bat,Eden Gardens,146,201,Pakistan
+195,Mirpur,March,T20,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium,131,129,Bangladesh
+196,Cape Town,September,T20,Bangladesh,Pakistan,Pakistan,field,Newlands,140,141,Pakistan
+197,,September,T20,Bangladesh,Pakistan,Bangladesh,bat,Pallekele International Cricket Stadium,175,178,Pakistan
+198,Nairobi,September,T20,Kenya,Pakistan,Kenya,bat,Gymkhana Club Ground,92,93,Pakistan
+199,Dublin,July,T20,Ireland,Pakistan,Pakistan,bat,YMCA Cricket Club,110,148,Pakistan
+200,Doha,January,T20,Ireland,Pakistan,Ireland,field,West End Park International Cricket Stadium,98,97,Ireland
+201,London,June,T20,Ireland,Pakistan,Pakistan,bat,Kennington Oval,120,159,Pakistan
+202,,March,T20,Ireland,Pakistan,Pakistan,bat,Sylhet Stadium,105,119,Pakistan
+203,Guyana,November,T20,Pakistan,Ireland,Pakistan,bat,Providence Stadium,139,101,Pakistan
+204,Dublin,July,T20,Ireland,Pakistan,Pakistan,field,YMCA Cricket Club,65,66,Pakistan
+205,,October,ODI,Pakistan,South Africa,Pakistan,bat,Multan Cricket Stadium,230,233,South Africa
+206,Benoni,May,ODI,South Africa,Pakistan,Pakistan,field,Willowmoore Park,265,265,draw
+207,,November,ODI,Pakistan,South Africa,South Africa,bat,Sharjah Cricket Stadium,151,268,South Africa
+208,Johannesburg,January,ODI,South Africa,Pakistan,Pakistan,field,The Wanderers Stadium,164,168,Pakistan
+209,Durban,February,ODI,South Africa,Pakistan,Pakistan,bat,Kingsmead,210,351,Pakistan
+210,,March,ODI,Pakistan,South Africa,Pakistan,bat,Sharjah Cricket Stadium,153,156,South Africa
+211,Bloemfontein,March,ODI,South Africa,Pakistan,Pakistan,field,Chevrolet Park,315,190,South Africa
+212,Johannesburg,March,ODI,South Africa,Pakistan,Pakistan,field,New Wanderers Stadium,343,309,South Africa
+213,Abu Dhabi,November,ODI,Pakistan,South Africa,South Africa,bat,Sheikh Zayed Stadium,238,266,South Africa
+214,Port Elizabeth,January,ODI,South Africa,Pakistan,South Africa,bat,St George's Park,266,267,Pakistan
+215,Cape Town,November,ODI,South Africa,Pakistan,Pakistan,bat,Newlands,195,218,Pakistan
+216,Lahore,October,ODI,Pakistan,South Africa,South Africa,bat,Gaddafi Stadium,219,233,South Africa
+217,Leicester,June,ODI,Pakistan,South Africa,South Africa,field,Grace Road,206,207,South Africa
+218,Potchefstroom,May,ODI,South Africa,Pakistan,South Africa,field,Senwes Park,148,147,South Africa
+219,Colombo,February,ODI,Pakistan,South Africa,South Africa,bat,Nondescripts Cricket Club Ground,195,258,South Africa
+220,Abu Dhabi,October,ODI,Pakistan,South Africa,South Africa,bat,Sheikh Zayed Stadium,289,286,Pakistan
+221,Birmingham,June,ODI,Pakistan,South Africa,South Africa,bat,Edgbaston,167,234,South Africa
+222,Cape Town,February,ODI,South Africa,Pakistan,South Africa,field,Newlands,113,107,South Africa
+223,Centurion,March,ODI,South Africa,Pakistan,South Africa,bat,SuperSport Park,191,192,Pakistan
+224,Durban,January,ODI,South Africa,Pakistan,South Africa,field,Kingsmead,207,203,South Africa
+225,Birmingham,June,ODI,Pakistan,South Africa,South Africa,bat,Edgbaston,119,219,Pakistan
+226,Lahore,October,ODI,Pakistan,South Africa,Pakistan,bat,Gaddafi Stadium,265,240,Pakistan
+227,,November,ODI,Pakistan,South Africa,Pakistan,field,Dubai International Cricket Stadium,226,228,South Africa
+228,Centurion,February,ODI,South Africa,Pakistan,Pakistan,field,SuperSport Park,392,228,South Africa
+229,,October,ODI,Pakistan,South Africa,South Africa,bat,Sharjah Cricket Stadium,182,183,South Africa
+230,Centurion,November,ODI,South Africa,Pakistan,South Africa,field,SuperSport Park,181,179,South Africa
+231,Benoni,March,ODI,South Africa,Pakistan,Pakistan,bat,Willowmoore Park,208,205,South Africa
+232,Port Elizabeth,November,ODI,South Africa,Pakistan,South Africa,field,St George's Park,261,262,Pakistan
+233,Auckland,March,ODI,Pakistan,South Africa,South Africa,field,Eden Park,222,202,Pakistan
+234,Chandigarh,October,ODI,Pakistan,South Africa,South Africa,bat,"Punjab Cricket Association Stadium, Mohali",89,213,South Africa
+235,,November,ODI,Pakistan,South Africa,South Africa,bat,Dubai International Cricket Stadium,275,274,Pakistan
+236,Faisalabad,October,ODI,Pakistan,South Africa,South Africa,bat,Iqbal Stadium,202,197,Pakistan
+237,Durban,March,ODI,South Africa,Pakistan,South Africa,bat,Kingsmead,234,236,Pakistan
+238,Potchefstroom,May,ODI,South Africa,Pakistan,Pakistan,field,Senwes Park,63,66,Pakistan
+239,Abu Dhabi,October,ODI,Pakistan,South Africa,Pakistan,bat,Sheikh Zayed Stadium,203,207,South Africa
+240,Lahore,October,ODI,Pakistan,South Africa,South Africa,bat,Gaddafi Stadium,249,294,South Africa
+241,Cape Town,January,ODI,South Africa,Pakistan,South Africa,field,Newlands,241,240,South Africa
+242,Centurion,January,ODI,South Africa,Pakistan,Pakistan,bat,SuperSport Park,187,317,South Africa
+243,,November,ODI,Pakistan,South Africa,South Africa,bat,Dubai International Cricket Stadium,260,317,South Africa
+244,Johannesburg,February,ODI,South Africa,Pakistan,Pakistan,bat,New Wanderers Stadium,156,153,South Africa
+245,Abu Dhabi,November,ODI,Pakistan,South Africa,South Africa,bat,Sheikh Zayed Stadium,191,259,South Africa
+246,,November,ODI,Pakistan,South Africa,Pakistan,bat,Dubai International Cricket Stadium,209,143,Pakistan
+247,London,June,ODI,Pakistan,South Africa,Pakistan,bat,Lord's,308,259,Pakistan
+248,Edinburgh,June,T20,Pakistan,Scotland,Pakistan,bat,"Grange Cricket Club, Raeburn Place",204,156,Pakistan
+249,Durban,September,T20,Pakistan,Scotland,Scotland,field,Kingsmead,171,120,Pakistan
+250,Edinburgh,June,T20,Pakistan,Scotland,Pakistan,bat,"Grange Cricket Club, Raeburn Place",166,82,Pakistan
+251,Karachi,April,ODI,Pakistan,Bangladesh,Pakistan,bat,National Stadium,329,179,Pakistan
+252,,June,ODI,Bangladesh,Pakistan,Pakistan,bat,Rangiri Dambulla International Stadium,246,385,Pakistan
+253,Mirpur,April,ODI,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium,251,250,Bangladesh
+254,Mirpur,March,ODI,Bangladesh,Pakistan,Bangladesh,field,Shere Bangla National Stadium,234,236,Pakistan
+255,Karachi,July,ODI,Pakistan,Bangladesh,Bangladesh,bat,National Stadium,116,115,Pakistan
+256,,April,ODI,Pakistan,Bangladesh,Bangladesh,bat,Multan Cricket Stadium,212,210,Pakistan
+257,Lahore,April,ODI,Pakistan,Bangladesh,Pakistan,bat,Gaddafi Stadium,308,285,Pakistan
+258,Mirpur,March,ODI,Bangladesh,Pakistan,Bangladesh,field,Shere Bangla National Stadium,241,262,Pakistan
+259,Mirpur,December,ODI,Bangladesh,Pakistan,Bangladesh,bat,Shere Bangla National Stadium,91,93,Pakistan
+260,Mirpur,June,ODI,Bangladesh,Pakistan,Bangladesh,field,Shere Bangla National Stadium,163,233,Pakistan
+261,Mirpur,March,ODI,Bangladesh,Pakistan,Bangladesh,bat,Shere Bangla National Stadium,326,329,Pakistan
+262,Abu Dhabi,September,ODI,Bangladesh,Pakistan,Bangladesh,bat,Sheikh Zayed Stadium,239,202,Bangladesh
+263,Chittagong,December,ODI,Bangladesh,Pakistan,Pakistan,bat,Zahur Ahmed Chowdhury Stadium,119,177,Pakistan
+264,London,July,ODI,Bangladesh,Pakistan,Pakistan,bat,Lord's,221,315,Pakistan
+265,Mirpur,April,ODI,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium,240,239,Bangladesh
+266,Karachi,October,ODI,Pakistan,Bangladesh,Bangladesh,bat,Southend Club Cricket Stadium,124,123,Pakistan
+267,Mirpur,December,ODI,Bangladesh,Pakistan,Pakistan,bat,Shere Bangla National Stadium,186,262,Pakistan
+268,Faisalabad,April,ODI,Pakistan,Bangladesh,Bangladesh,bat,Iqbal Stadium,160,225,Pakistan
+269,Colombo,February,ODI,Bangladesh,Pakistan,Pakistan,bat,P Sara Oval,160,227,Pakistan
+270,Mirpur,April,ODI,Bangladesh,Pakistan,Bangladesh,bat,Shere Bangla National Stadium,329,250,Bangladesh
+271,Lahore,April,ODI,Pakistan,Bangladesh,Pakistan,bat,Gaddafi Stadium,322,129,Pakistan
+272,Dublin,July,ODI,Ireland,Pakistan,Pakistan,bat,YMCA Cricket Club,159,248,Pakistan
+273,Dublin,July,ODI,Ireland,Pakistan,Pakistan,bat,"Observatory Lane, Rathmines",123,280,Pakistan
+274,,March,ODI,Ireland,Pakistan,Ireland,bat,Adelaide Oval,237,241,Pakistan
+275,Dublin,May,ODI,Ireland,Pakistan,Pakistan,bat,Clontarf Cricket Club Ground,275,266,draw
+276,Jamaica,March,ODI,Ireland,Pakistan,Ireland,field,"Sabina Park, Kingston",133,132,Ireland
+277,,February,ODI,Ireland,Pakistan,Pakistan,bat,Colombo Cricket Club Ground,185,271,Pakistan
+278,Dublin,May,ODI,Ireland,Pakistan,Pakistan,field,Clontarf Cricket Club Ground,229,230,Pakistan
+279,Dublin,August,ODI,Ireland,Pakistan,Ireland,field,"The Village, Malahide",82,337,Pakistan
+280,Hambantota,February,ODI,Kenya,Pakistan,Pakistan,bat,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",112,317,Pakistan
+281,Nottingham,June,T20,Pakistan,South Africa,Pakistan,bat,Trent Bridge,149,142,Pakistan
+282,,November,T20,Pakistan,South Africa,Pakistan,bat,Dubai International Cricket Stadium,98,99,South Africa
+283,Doha,January,T20,Pakistan,South Africa,Pakistan,field,West End Park International Cricket Stadium,72,68,Pakistan
+284,St Lucia,May,T20,Pakistan,South Africa,Pakistan,bat,"Beausejour Stadium, Gros Islet",148,137,Pakistan
+285,Pietermaritzburg,May,T20,South Africa,Pakistan,Pakistan,bat,City Oval,129,128,South Africa
+286,Colombo,September,T20,Pakistan,South Africa,South Africa,bat,R Premadasa Stadium,136,133,Pakistan
+287,Pietermaritzburg,May,T20,South Africa,Pakistan,Pakistan,field,City Oval,138,139,Pakistan
+288,Abu Dhabi,October,T20,Pakistan,South Africa,Pakistan,bat,Sheikh Zayed Stadium,120,125,South Africa
+289,Johannesburg,February,T20,South Africa,Pakistan,Pakistan,field,The Wanderers Stadium,188,181,South Africa
+290,,November,T20,Pakistan,South Africa,South Africa,bat,Dubai International Cricket Stadium,144,150,South Africa
+291,,March,T20,Pakistan,South Africa,Pakistan,field,Sharjah Cricket Stadium,103,101,Pakistan
+292,Sydney,March,T20,Pakistan,South Africa,South Africa,bat,Sydney Showground Stadium,119,136,South Africa
+293,Centurion,February,T20,South Africa,Pakistan,South Africa,field,SuperSport Park,141,168,Pakistan
+294,,March,T20,Pakistan,South Africa,South Africa,field,Sharjah Cricket Stadium,106,107,South Africa
+295,Benoni,May,T20,South Africa,Pakistan,South Africa,field,Willowmoore Park,174,172,South Africa
+296,,March,T20,Pakistan,South Africa,South Africa,bat,Sharjah Cricket Stadium,84,83,Pakistan
+297,Cape Town,November,T20,South Africa,Pakistan,Pakistan,bat,Newlands,170,176,Pakistan
+298,Doha,January,T20,Pakistan,South Africa,Pakistan,field,West End Park International Cricket Stadium,65,64,Pakistan
+299,Centurion,March,T20,South Africa,Pakistan,Pakistan,bat,SuperSport Park,100,195,Pakistan
+300,Pretoria,May,T20,South Africa,Pakistan,Pakistan,field,LC de Villiers Oval,119,120,Pakistan
+301,Abu Dhabi,October,T20,Pakistan,South Africa,Pakistan,bat,Sheikh Zayed Stadium,119,120,South Africa
+302,Benoni,May,T20,South Africa,Pakistan,South Africa,field,Willowmoore Park,127,125,South Africa
+303,Cape Town,February,T20,South Africa,Pakistan,Pakistan,field,Newlands,192,186,South Africa
+304,Johannesburg,November,T20,South Africa,Pakistan,Pakistan,field,New Wanderers Stadium,153,60,South Africa
+305,Edinburgh,May,ODI,Scotland,Pakistan,Pakistan,bat,"Grange Cricket Club Ground, Raeburn Place",135,231,Pakistan
+306,Abu Dhabi,September,ODI,Afghanistan,Pakistan,Afghanistan,bat,Sheikh Zayed Stadium,257,258,Pakistan
+307,,February,ODI,Afghanistan,Pakistan,Afghanistan,bat,Sharjah Cricket Stadium,195,198,Pakistan
+308,Fatullah,February,ODI,Afghanistan,Pakistan,Afghanistan,field,Khan Shaheb Osman Ali Stadium,176,248,Pakistan
+309,Leeds,June,ODI,Afghanistan,Pakistan,Afghanistan,bat,Headingley,227,230,Pakistan
+310,,January,T20,Pakistan,Sri Lanka,Pakistan,bat,Sharjah Cricket Stadium,110,112,Sri Lanka
+311,Lahore,October,T20,Pakistan,Sri Lanka,Sri Lanka,bat,Gaddafi Stadium,134,147,Sri Lanka
+312,Abu Dhabi,October,T20,Sri Lanka,Pakistan,Pakistan,field,Sheikh Zayed Stadium,102,103,Pakistan
+313,Hambantota,June,T20,Sri Lanka,Pakistan,Pakistan,bat,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",99,122,Pakistan
+314,Colombo,October,T20,Sri Lanka,Pakistan,Sri Lanka,bat,R Premadasa Stadium,139,123,Sri Lanka
+315,Hambantota,June,T20,Sri Lanka,Pakistan,Sri Lanka,bat,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",132,95,Sri Lanka
+316,,December,T20,Pakistan,Sri Lanka,Pakistan,field,Dubai International Cricket Stadium,146,145,Pakistan
+317,London,June,T20,Pakistan,Sri Lanka,Sri Lanka,bat,Lord's,131,150,Sri Lanka
+318,Abu Dhabi,November,T20,Pakistan,Sri Lanka,Sri Lanka,bat,Sheikh Zayed Stadium,142,141,Pakistan
+319,,January,T20,Pakistan,Sri Lanka,Pakistan,bat,Sharjah Cricket Stadium,124,69,Pakistan
+320,Colombo,August,T20,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium,120,172,Pakistan
+321,London,June,T20,Pakistan,Sri Lanka,Sri Lanka,bat,Lord's,139,138,Pakistan
+322,,April,T20,Pakistan,Sri Lanka,Pakistan,bat,Sylhet Stadium,122,108,Pakistan
+323,Kuala Lumpur,June,T20,Pakistan,Sri Lanka,Sri Lanka,field,Kinrara Academy Oval,136,113,Pakistan
+324,Mirpur,March,T20,Pakistan,Sri Lanka,Pakistan,field,Shere Bangla National Stadium,151,150,Pakistan
+325,Colombo,March,T20,Sri Lanka,Pakistan,Pakistan,field,Sinhalese Sports Club Ground,124,133,Pakistan
+326,Lahore,October,T20,Pakistan,Sri Lanka,Sri Lanka,bat,Gaddafi Stadium,147,182,Sri Lanka
+327,Colombo,March,T20,Pakistan,Sri Lanka,Pakistan,bat,Nondescripts Cricket Club Ground,72,73,Sri Lanka
+328,,December,T20,Pakistan,Sri Lanka,Pakistan,field,Dubai International Cricket Stadium,187,211,Sri Lanka
+329,Lahore,October,T20,Pakistan,Sri Lanka,Pakistan,field,Gaddafi Stadium,101,165,Sri Lanka
+330,King City,October,T20,Pakistan,Sri Lanka,Pakistan,field,Maple Leaf North-West Ground,141,137,Pakistan
+331,Abu Dhabi,October,T20,Sri Lanka,Pakistan,Pakistan,field,Sheikh Zayed Stadium,124,125,Pakistan
+332,King City,October,T20,Pakistan,Sri Lanka,Sri Lanka,field,Maple Leaf North-West Ground,132,133,Sri Lanka
+333,Lahore,October,T20,Pakistan,Sri Lanka,Sri Lanka,field,Gaddafi Stadium,180,144,Pakistan
+334,Colombo,August,T20,Sri Lanka,Pakistan,Sri Lanka,bat,R Premadasa Stadium,172,174,Pakistan
+335,Johannesburg,September,T20,Pakistan,Sri Lanka,Sri Lanka,field,New Wanderers Stadium,189,156,Pakistan
+336,Colombo,July,T20,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium,146,175,Pakistan
+337,,December,T20,Afghanistan,Pakistan,Afghanistan,bat,Sharjah Cricket Stadium,137,138,Pakistan
+338,Abu Dhabi,November,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Sheikh Zayed Stadium,219,218,Pakistan
+339,Hambantota,August,ODI,Sri Lanka,Pakistan,Pakistan,field,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",275,277,Pakistan
+340,,November,ODI,Pakistan,Sri Lanka,Pakistan,bat,Dubai International Cricket Stadium,257,236,Pakistan
+341,,August,ODI,Sri Lanka,Pakistan,Sri Lanka,field,Rangiri Dambulla International Stadium,289,288,Sri Lanka
+342,,August,ODI,Sri Lanka,Pakistan,Pakistan,bat,Rangiri Dambulla International Stadium,104,102,Sri Lanka
+343,Cardiff,June,ODI,Pakistan,Sri Lanka,Pakistan,field,Sophia Gardens,237,236,Pakistan
+344,Colombo,June,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,R Premadasa Stadium,243,199,Sri Lanka
+345,Leicester,July,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Grace Road,206,221,Sri Lanka
+346,Karachi,September,ODI,Pakistan,Sri Lanka,Pakistan,bat,National Stadium,305,238,Pakistan
+347,,November,ODI,Pakistan,Sri Lanka,Pakistan,bat,Sharjah Cricket Stadium,200,174,Pakistan
+348,Colombo,February,ODI,Sri Lanka,Pakistan,Sri Lanka,field,Nondescripts Cricket Club Ground,216,212,Sri Lanka
+349,,August,ODI,Sri Lanka,Pakistan,Sri Lanka,field,Rangiri Dambulla International Stadium,169,168,Sri Lanka
+350,Abu Dhabi,October,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,Sheikh Zayed Stadium,208,209,Pakistan
+351,Abu Dhabi,December,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Sheikh Zayed Stadium,226,225,Pakistan
+352,Colombo,February,ODI,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium,266,277,Pakistan
+353,,October,ODI,Pakistan,Sri Lanka,Sri Lanka,field,Dubai International Cricket Stadium,292,209,Pakistan
+354,,July,ODI,Sri Lanka,Pakistan,Pakistan,field,Rangiri Dambulla International Stadium,232,196,Sri Lanka
+355,Hambantota,August,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",310,233,Sri Lanka
+356,,December,ODI,Pakistan,Sri Lanka,Pakistan,bat,Sharjah Cricket Stadium,322,311,Pakistan
+357,,December,ODI,Pakistan,Sri Lanka,Sri Lanka,field,Dubai International Cricket Stadium,284,287,Sri Lanka
+358,Abu Dhabi,December,ODI,Pakistan,Sri Lanka,Pakistan,bat,Sheikh Zayed Stadium,232,235,Sri Lanka
+359,Colombo,August,ODI,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium,147,279,Pakistan
+360,Mirpur,March,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Shere Bangla National Stadium,189,188,Pakistan
+361,Karachi,January,ODI,Pakistan,Sri Lanka,Pakistan,field,National Stadium,161,290,Sri Lanka
+362,Colombo,March,ODI,Sri Lanka,Pakistan,Pakistan,field,Sinhalese Sports Club Ground,224,229,Pakistan
+363,,June,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,Pallekele International Cricket Stadium,280,204,Sri Lanka
+364,Fatullah,February,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Khan Shaheb Osman Ali Stadium,284,296,Sri Lanka
+365,,November,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Dubai International Cricket Stadium,210,235,Sri Lanka
+366,Mirpur,March,ODI,Pakistan,Sri Lanka,Pakistan,bat,Shere Bangla National Stadium,260,261,Sri Lanka
+367,,October,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,Sharjah Cricket Stadium,103,105,Pakistan
+368,Colombo,March,ODI,Sri Lanka,Pakistan,Pakistan,field,R Premadasa Stadium,130,134,Pakistan
+369,Abu Dhabi,October,ODI,Pakistan,Sri Lanka,Pakistan,bat,Sheikh Zayed Stadium,219,187,Pakistan
+370,,June,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,Rangiri Dambulla International Stadium,242,226,Sri Lanka
+371,Hambantota,July,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",368,203,Sri Lanka
+372,Jaipur,October,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Sawai Mansingh Stadium,255,253,Pakistan
+373,Colombo,July,ODI,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium,181,316,Pakistan
+374,,October,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,Sharjah Cricket Stadium,173,177,Pakistan
+375,,January,ODI,Pakistan,Sri Lanka,Pakistan,bat,Sharjah Cricket Stadium,138,126,Pakistan
+376,Colombo,August,ODI,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium,175,321,Pakistan
+377,,December,ODI,Pakistan,Sri Lanka,Sri Lanka,field,Sharjah Cricket Stadium,326,213,Pakistan
+378,,November,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Dubai International Cricket Stadium,132,131,Pakistan
+379,Karachi,January,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,National Stadium,220,219,Pakistan
+380,Colombo,June,ODI,Sri Lanka,Pakistan,Pakistan,bat,R Premadasa Stadium,248,247,Sri Lanka
+381,,July,ODI,Sri Lanka,Pakistan,Pakistan,field,Rangiri Dambulla International Stadium,255,259,Pakistan
+382,,January,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Sharjah Cricket Stadium,245,242,Pakistan
+383,,March,ODI,Pakistan,Sri Lanka,Pakistan,bat,Rangiri Dambulla International Stadium,215,107,Pakistan
+384,,March,ODI,Pakistan,Sri Lanka,Pakistan,bat,Rangiri Dambulla International Stadium,250,156,Pakistan
+385,Colombo,July,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,R Premadasa Stadium,256,257,Pakistan
+386,Karachi,October,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,National Stadium,299,297,Pakistan
+387,Karachi,June,ODI,Pakistan,Sri Lanka,Pakistan,field,National Stadium,238,302,Sri Lanka
+388,,July,ODI,Sri Lanka,Pakistan,Pakistan,bat,Pallekele International Cricket Stadium,288,287,Sri Lanka
+389,,June,ODI,Sri Lanka,Pakistan,Sri Lanka,bat,Pallekele International Cricket Stadium,135,135,Pakistan
+390,Lahore,January,ODI,Pakistan,Sri Lanka,Sri Lanka,bat,Gaddafi Stadium,75,309,Sri Lanka
+391,,March,ODI,Pakistan,Zimbabwe,Zimbabwe,bat,Pallekele International Cricket Stadium,164,151,Pakistan
+392,Brisbane,March,ODI,Pakistan,Zimbabwe,Pakistan,bat,"Brisbane Cricket Ground, Woolloongabba",235,215,Pakistan
+393,,January,ODI,Pakistan,Zimbabwe,Pakistan,bat,Multan Cricket Stadium,272,235,Pakistan
+394,Bulawayo,September,ODI,Zimbabwe,Pakistan,Pakistan,bat,Queens Sports Club,242,247,Pakistan
+395,Bulawayo,July,ODI,Pakistan,Zimbabwe,Pakistan,bat,Queens Sports Club,364,233,Pakistan
+396,,August,ODI,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club,209,299,Pakistan
+397,Jamaica,March,ODI,Pakistan,Zimbabwe,Zimbabwe,field,"Sabina Park, Kingston",349,99,Pakistan
+398,,September,ODI,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club,242,270,Pakistan
+399,Lahore,May,ODI,Pakistan,Zimbabwe,Pakistan,bat,Gaddafi Stadium,296,68,draw
+400,Lahore,May,ODI,Pakistan,Zimbabwe,Pakistan,bat,Gaddafi Stadium,375,334,Pakistan
+401,,August,ODI,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club,152,260,Pakistan
+402,Faisalabad,January,ODI,Pakistan,Zimbabwe,Zimbabwe,bat,Iqbal Stadium,245,244,Pakistan
+403,Bulawayo,July,ODI,Pakistan,Zimbabwe,Pakistan,bat,Queens Sports Club,399,155,Pakistan
+404,,September,ODI,Zimbabwe,Pakistan,Zimbabwe,bat,Harare Sports Club,225,228,Pakistan
+405,Bulawayo,July,ODI,Pakistan,Zimbabwe,Zimbabwe,field,Queens Sports Club,308,107,Pakistan
+406,Bulawayo,July,ODI,Zimbabwe,Pakistan,Zimbabwe,bat,Queens Sports Club,194,195,Pakistan
+407,,October,ODI,Zimbabwe,Pakistan,Pakistan,field,Harare Sports Club,276,256,Zimbabwe
+408,,February,ODI,Pakistan,Zimbabwe,Zimbabwe,bat,Sheikhupura Stadium,187,181,Pakistan
+409,Bulawayo,July,ODI,Zimbabwe,Pakistan,Zimbabwe,bat,Queens Sports Club,67,69,Pakistan
+410,,October,ODI,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club,128,259,Pakistan
+411,Sind,January,ODI,Pakistan,Zimbabwe,Zimbabwe,bat,"Niaz Stadium, Hyderabad",239,238,Pakistan
+412,,October,ODI,Zimbabwe,Pakistan,Pakistan,field,Harare Sports Club,161,162,Pakistan
+413,Karachi,January,ODI,Pakistan,Zimbabwe,Zimbabwe,field,National Stadium,347,243,Pakistan
+414,,August,ODI,Zimbabwe,Pakistan,Pakistan,bat,Harare Sports Club,246,244,Zimbabwe
+415,Lahore,May,ODI,Pakistan,Zimbabwe,Pakistan,field,Gaddafi Stadium,269,268,Pakistan
+416,,March,ODI,Australia,Pakistan,Pakistan,bat,Adelaide Oval,216,213,Australia
+417,,October,ODI,Australia,Pakistan,Pakistan,bat,Dubai International Cricket Stadium,217,215,Australia
+418,Perth,January,ODI,Australia,Pakistan,Pakistan,bat,Western Australia Cricket Association Ground,213,212,Australia
+419,Brisbane,August,ODI,Australia,Pakistan,Australia,field,Peter Burge Oval,124,121,Australia
+420,,January,ODI,Australia,Pakistan,Australia,bat,Sydney Cricket Ground,353,267,Australia
+421,Dubai,March,ODI,Australia,Pakistan,Pakistan,field,Dubai International Cricket Stadium,327,307,Australia
+422,Taunton,June,ODI,Australia,Pakistan,Pakistan,field,The Cooper Associates County Ground,307,266,Australia
+423,,January,ODI,Australia,Pakistan,Australia,bat,Melbourne Cricket Ground,220,221,Pakistan
+424,Sharjah,March,ODI,Australia,Pakistan,Pakistan,bat,Sharjah Cricket Stadium,285,284,Australia
+425,Abu Dhabi,May,ODI,Australia,Pakistan,Pakistan,bat,Sheikh Zayed Stadium,200,197,Australia
+426,Colombo,March,ODI,Australia,Pakistan,Australia,bat,R Premadasa Stadium,176,178,Pakistan
+427,Dubai,March,ODI,Australia,Pakistan,Pakistan,field,Dubai International Cricket Stadium,277,271,Australia
+428,Abu Dhabi,March,ODI,Australia,Pakistan,Australia,bat,Sheikh Zayed Stadium,266,186,Australia
+429,Kuala Lumpur,October,ODI,Pakistan,Australia,Pakistan,bat,Kinrara Academy Oval,95,95,Australia
+430,Abu Dhabi,May,ODI,Australia,Pakistan,Australia,bat,Sheikh Zayed Stadium,250,254,Pakistan
+431,Abu Dhabi,October,ODI,Australia,Pakistan,Australia,bat,Sheikh Zayed Stadium,231,230,Australia
+432,Brisbane,August,ODI,Australia,Pakistan,Pakistan,bat,Peter Burge Oval,190,189,Australia
+433,,January,ODI,Australia,Pakistan,Australia,bat,Adelaide Oval,369,312,Australia
+434,Abu Dhabi,August,ODI,Australia,Pakistan,Australia,bat,Sheikh Zayed Stadium,248,249,Pakistan
+435,Centurion,September,ODI,Australia,Pakistan,Australia,field,SuperSport Park,206,205,Australia
+436,,January,ODI,Australia,Pakistan,Pakistan,field,Sydney Cricket Ground,267,127,Australia
+437,Sharjah,March,ODI,Australia,Pakistan,Pakistan,bat,Sharjah Cricket Stadium,281,280,Australia
+438,Brisbane,January,ODI,Australia,Pakistan,Australia,bat,"Brisbane Cricket Ground, Woolloongabba",268,176,Australia
+439,Leicester,July,ODI,Australia,Pakistan,Australia,bat,Grace Road,290,131,Australia
+440,,April,ODI,Australia,Pakistan,Pakistan,bat,Dubai Sports City Cricket Stadium,208,207,Australia
+441,Brisbane,January,ODI,Australia,Pakistan,Pakistan,bat,"Brisbane Cricket Ground, Woolloongabba",275,274,Australia
+442,,January,ODI,Australia,Pakistan,Australia,bat,Adelaide Oval,286,246,Australia
+443,,April,ODI,Australia,Pakistan,Australia,bat,Dubai Sports City Cricket Stadium,168,171,Pakistan
+444,,September,ODI,Australia,Pakistan,Australia,field,Sharjah Cricket Stadium,250,244,Australia
+445,Abu Dhabi,April,ODI,Australia,Pakistan,Australia,bat,Sheikh Zayed Stadium,198,171,Australia
+446,,October,ODI,Australia,Pakistan,Australia,bat,Sharjah Cricket Stadium,255,162,Australia
+447,,August,ODI,Australia,Pakistan,Pakistan,bat,Sharjah Cricket Stadium,199,198,Australia
+448,Perth,January,ODI,Australia,Pakistan,Australia,field,Western Australia Cricket Association Ground,265,263,Australia
+449,Perth,January,ODI,Australia,Pakistan,Australia,bat,Western Australia Cricket Association Ground,277,142,Australia
+450,Kuala Lumpur,October,ODI,Australia,Pakistan,Australia,bat,Kinrara Academy Oval,324,235,Australia
+451,Kuala Lumpur,October,ODI,Australia,Pakistan,Australia,bat,Kinrara Academy Oval,273,123,Australia
+452,,February,ODI,Pakistan,India,Pakistan,bat,Rawalpindi Cricket Stadium,265,266,India
+453,Colombo,February,ODI,India,Pakistan,India,field,P Sara Oval,70,67,India
+454,Abu Dhabi,April,ODI,India,Pakistan,India,bat,Sheikh Zayed Stadium,269,218,India
+455,Manchester,June,ODI,India,Pakistan,Pakistan,field,Old Trafford,336,212,India
+456,Karachi,June,ODI,Pakistan,India,Pakistan,bat,National Stadium,299,301,India
+457,,September,ODI,Pakistan,India,Pakistan,bat,Dubai International Cricket Stadium,162,164,India
+458,Abu Dhabi,April,ODI,India,Pakistan,India,bat,Sheikh Zayed Stadium,197,201,Pakistan
+459,Chandigarh,March,ODI,India,Pakistan,India,bat,"Punjab Cricket Association Stadium, Mohali",260,231,India
+460,,February,ODI,Pakistan,India,India,field,Multan Cricket Stadium,161,162,India
+461,Kanpur,November,ODI,India,Pakistan,Pakistan,field,Green Park,294,248,India
+462,Guwahati,November,ODI,India,Pakistan,Pakistan,bat,Nehru Stadium,242,239,India
+463,,February,ODI,India,Pakistan,India,bat,Adelaide Oval,300,224,India
+464,Lahore,February,ODI,Pakistan,India,India,field,Gaddafi Stadium,288,292,India
+465,Mirpur,June,ODI,India,Pakistan,India,bat,Shere Bangla National Stadium,330,190,India
+466,Karachi,February,ODI,Pakistan,India,India,field,National Stadium,286,287,India
+467,Karachi,July,ODI,Pakistan,India,India,bat,National Stadium,309,308,Pakistan
+468,Kolkata,January,ODI,India,Pakistan,India,field,Eden Gardens,165,250,Pakistan
+469,Centurion,September,ODI,India,Pakistan,Pakistan,bat,SuperSport Park,248,302,Pakistan
+470,Mirpur,March,ODI,India,Pakistan,Pakistan,bat,Shere Bangla National Stadium,330,329,India
+471,Gwalior,November,ODI,India,Pakistan,Pakistan,bat,Captain Roop Singh Stadium,260,255,India
+472,,June,ODI,India,Pakistan,Pakistan,bat,Rangiri Dambulla International Stadium,271,267,India
+473,Birmingham,June,ODI,India,Pakistan,Pakistan,field,Edgbaston,319,164,India
+474,,September,ODI,Pakistan,India,Pakistan,bat,Dubai International Cricket Stadium,237,238,India
+475,Peshawar,February,ODI,Pakistan,India,Pakistan,field,Arbab Niaz Stadium,311,328,Pakistan
+476,Birmingham,June,ODI,India,Pakistan,India,field,Edgbaston,102,165,India
+477,Mirpur,June,ODI,India,Pakistan,Pakistan,bat,Shere Bangla National Stadium,290,315,Pakistan
+478,Chennai,December,ODI,India,Pakistan,Pakistan,field,"MA Chidambaram Stadium, Chepauk",227,228,Pakistan
+479,Chandigarh,November,ODI,India,Pakistan,India,bat,"Punjab Cricket Association Stadium, Mohali",321,322,Pakistan
+480,London,June,ODI,India,Pakistan,India,field,Kennington Oval,158,338,Pakistan
+481,Jaipur,November,ODI,India,Pakistan,India,field,Sawai Mansingh Stadium,275,306,Pakistan
+482,Mirpur,March,ODI,India,Pakistan,Pakistan,field,Shere Bangla National Stadium,245,249,Pakistan
+483,Delhi,January,ODI,India,Pakistan,India,bat,Feroz Shah Kotla,167,157,India
+484,Derby,July,ODI,India,Pakistan,India,bat,County Ground,169,74,India
+485,,July,T20,Pakistan,Australia,Australia,field,Harare Sports Club,194,149,Pakistan
+486,,February,T20,Australia,Pakistan,Australia,bat,Melbourne Cricket Ground,127,125,Australia
+487,,October,T20,Australia,Pakistan,Pakistan,bat,Dubai International Cricket Stadium,97,96,Australia
+488,St Lucia,May,T20,Australia,Pakistan,Australia,bat,"Beausejour Stadium, Gros Islet",191,157,Australia
+489,Gold Coast,September,T20,Australia,Pakistan,Australia,bat,Kerrydale Oval,139,119,Australia
+490,Gold Coast,August,T20,Australia,Pakistan,Australia,bat,Kerrydale Oval,149,86,Australia
+491,Chandigarh,March,T20,Australia,Pakistan,Australia,bat,"Punjab Cricket Association IS Bindra Stadium, Mohali",193,172,Australia
+492,St Lucia,May,T20,Australia,Pakistan,Australia,field,"Beausejour Stadium, Gros Islet",197,191,Australia
+493,,July,T20,Australia,Pakistan,Australia,bat,Harare Sports Club,183,187,Pakistan
+494,,March,T20,Australia,Pakistan,Australia,bat,Sylhet Stadium,185,91,Australia
+495,Guyana,November,T20,Australia,Pakistan,Australia,bat,Providence Stadium,165,113,Australia
+496,Birmingham,July,T20,Australia,Pakistan,Pakistan,bat,Edgbaston,151,162,Pakistan
+497,Kuala Lumpur,October,T20,Pakistan,Australia,Australia,field,Kinrara Academy Oval,97,98,Australia
+498,Kuala Lumpur,October,T20,Australia,Pakistan,Australia,bat,Kinrara Academy Oval,195,131,Australia
+499,,October,T20,Pakistan,Australia,Pakistan,bat,Dubai International Cricket Stadium,150,117,Pakistan
+500,Colombo,October,T20,Australia,Pakistan,Australia,field,R Premadasa Stadium,117,149,Pakistan
+501,Gold Coast,September,T20,Australia,Pakistan,Pakistan,bat,Kerrydale Oval,87,84,Australia
+502,Gold Coast,August,T20,Australia,Pakistan,Pakistan,bat,Kerrydale Oval,95,92,Australia
+503,Birmingham,July,T20,Australia,Pakistan,Pakistan,bat,Edgbaston,144,167,Pakistan
+504,,September,T20,Australia,Pakistan,Australia,bat,Galle International Stadium,146,38,Australia
+505,Kuala Lumpur,October,T20,Pakistan,Australia,Australia,field,Kinrara Academy Oval,101,104,Australia
+506,,May,T20,Australia,Pakistan,Pakistan,field,Dubai International Cricket Stadium,108,109,Pakistan
+507,,September,T20,Australia,Pakistan,Pakistan,field,Dubai International Cricket Stadium,89,90,Pakistan
+508,Perth,November,T20,Australia,Pakistan,Australia,field,Perth Stadium,109,106,Australia
+509,Sydney,November,T20,Australia,Pakistan,Australia,field,Sydney Cricket Ground,41,107,draw
+510,,September,T20,Australia,Pakistan,Pakistan,field,Dubai International Cricket Stadium,168,74,Australia
+511,,July,T20,Pakistan,Australia,Australia,field,Harare Sports Club,116,117,Australia
+512,,October,T20,Pakistan,Australia,Pakistan,bat,Dubai International Cricket Stadium,147,136,Pakistan
+513,Abu Dhabi,October,T20,Pakistan,Australia,Australia,field,Sheikh Zayed Stadium,155,89,Pakistan
+514,Mirpur,March,T20,Australia,Pakistan,Australia,field,Shere Bangla National Stadium,175,191,Pakistan
+515,Canberra,November,T20,Australia,Pakistan,Pakistan,bat,Manuka Oval,151,150,Australia
+516,Johannesburg,September,T20,Australia,Pakistan,Pakistan,field,New Wanderers Stadium,164,165,Pakistan
+517,,September,T20,Zimbabwe,Pakistan,Pakistan,bat,Harare Sports Club,121,136,Pakistan
+518,,August,T20,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club,160,179,Pakistan
+519,,August,T20,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club,136,161,Pakistan
+520,,September,T20,Zimbabwe,Pakistan,Zimbabwe,field,Harare Sports Club,113,198,Pakistan
+521,,July,T20,Pakistan,Zimbabwe,Zimbabwe,field,Harare Sports Club,182,108,Pakistan
+522,Lahore,May,T20,Pakistan,Zimbabwe,Zimbabwe,bat,Gaddafi Stadium,173,172,Pakistan
+523,,September,T20,Zimbabwe,Pakistan,Pakistan,bat,Harare Sports Club,123,136,Pakistan
+524,,July,T20,Zimbabwe,Pakistan,Pakistan,field,Harare Sports Club,162,163,Pakistan
+525,Lahore,May,T20,Pakistan,Zimbabwe,Zimbabwe,bat,Gaddafi Stadium,176,175,Pakistan
+526,,September,T20,Zimbabwe,Pakistan,Pakistan,bat,Harare Sports Club,136,141,Pakistan
+527,,April,T20,India,Pakistan,India,bat,Sylhet Stadium,106,100,India
+528,Kuala Lumpur,June,T20,Pakistan,India,Pakistan,bat,Kinrara Academy Oval,72,75,India
+529,Mirpur,February,T20,India,Pakistan,India,field,Shere Bangla National Stadium,85,83,India
+530,Ahmedabad,December,T20,India,Pakistan,Pakistan,field,"Sardar Patel Stadium, Motera",192,181,India
+531,,October,T20,India,Pakistan,Pakistan,bat,Guanggong International Cricket Stadium,94,93,India
+532,Johannesburg,September,T20,India,Pakistan,India,bat,New Wanderers Stadium,157,152,India
+533,Delhi,March,T20,India,Pakistan,Pakistan,field,Feroz Shah Kotla,96,77,Pakistan
+534,Colombo,September,T20,India,Pakistan,Pakistan,bat,R Premadasa Stadium,129,128,India
+535,Kolkata,March,T20,India,Pakistan,India,field,Eden Gardens,119,118,India
+536,,October,T20,India,Pakistan,Pakistan,bat,Galle International Stadium,97,98,Pakistan
+537,Bangalore,December,T20,India,Pakistan,Pakistan,field,M Chinnaswamy Stadium,133,134,Pakistan
+538,Bangkok,December,T20,India,Pakistan,India,bat,Asian Institute of Technology Ground,121,104,India
+539,Durban,September,T20,India,Pakistan,Pakistan,field,Kingsmead,141,141,draw
+540,,October,T20,India,Pakistan,India,bat,Guanggong International Cricket Stadium,81,63,India
+541,Mirpur,March,T20,India,Pakistan,India,field,Shere Bangla National Stadium,131,130,India
+542,Guyana,November,T20,Pakistan,India,India,field,Providence Stadium,133,127,India

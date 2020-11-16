@@ -1,0 +1,764 @@
+ccollections
+defaultdict
+p0
+(csklearn.preprocessing.label
+LabelEncoder
+p1
+tp2
+Rp3
+S'city'
+p4
+ccopy_reg
+_reconstructor
+p5
+(g1
+c__builtin__
+object
+p6
+Ntp7
+Rp8
+(dp9
+S'classes_'
+p10
+cnumpy.core.multiarray
+_reconstruct
+p11
+(cnumpy
+ndarray
+p12
+(I0
+tp13
+S'b'
+p14
+tp15
+Rp16
+(I1
+(I78
+tp17
+cnumpy
+dtype
+p18
+(S'O8'
+p19
+I0
+I1
+tp20
+Rp21
+(I3
+S'|'
+p22
+NNNI-1
+I-1
+I63
+tp23
+bI00
+(lp24
+Fnan
+aS'Abu Dhabi'
+p25
+aS'Ahmedabad'
+p26
+aS'Auckland'
+p27
+aS'Bangalore'
+p28
+aS'Bangkok'
+p29
+aS'Barbados'
+p30
+aS'Benoni'
+p31
+aS'Birmingham'
+p32
+aS'Bloemfontein'
+p33
+aS'Brisbane'
+p34
+aS'Bristol'
+p35
+aS'Bulawayo'
+p36
+aS'Canberra'
+p37
+aS'Cape Town'
+p38
+aS'Cardiff'
+p39
+aS'Centurion'
+p40
+aS'Chandigarh'
+p41
+aS'Chelmsford'
+p42
+aS'Chennai'
+p43
+aS'Chester-le-Street'
+p44
+aS'Chittagong'
+p45
+aS'Christchurch'
+p46
+aS'Colombo'
+p47
+aS'Delhi'
+p48
+aS'Derby'
+p49
+aS'Doha'
+p50
+aS'Dubai'
+p51
+aS'Dublin'
+p52
+aS'Dunedin'
+p53
+aS'Durban'
+p54
+aS'Edinburgh'
+p55
+aS'Faisalabad'
+p56
+aS'Fatullah'
+p57
+aS'Gold Coast'
+p58
+aS'Grenada'
+p59
+aS'Guwahati'
+p60
+aS'Guyana'
+p61
+aS'Gwalior'
+p62
+aS'Hambantota'
+p63
+aS'Hamilton'
+p64
+aS'Jaipur'
+p65
+aS'Jamaica'
+p66
+aS'Johannesburg'
+p67
+aS'Kanpur'
+p68
+aS'Karachi'
+p69
+aS'King City'
+p70
+aS'Kolkata'
+p71
+aS'Kuala Lumpur'
+p72
+aS'Lahore'
+p73
+aS'Leeds'
+p74
+aS'Leicester'
+p75
+aS'Lincoln'
+p76
+aS'London'
+p77
+aS'Loughborough'
+p78
+aS'Manchester'
+p79
+aS'Mirpur'
+p80
+aS'Mount Maunganui'
+p81
+aS'Nairobi'
+p82
+aS'Napier'
+p83
+aS'Nelson'
+p84
+aS'Nottingham'
+p85
+aS'Perth'
+p86
+aS'Peshawar'
+p87
+aS'Pietermaritzburg'
+p88
+aS'Port Elizabeth'
+p89
+aS'Potchefstroom'
+p90
+aS'Pretoria'
+p91
+aS'Sharjah'
+p92
+aS'Sind'
+p93
+aS'Southampton'
+p94
+aS'St Lucia'
+p95
+aS'St Vincent'
+p96
+aS'Sydney'
+p97
+aS'Taunton'
+p98
+aS'Trinidad'
+p99
+aS'Wellington'
+p100
+aS'Worcester'
+p101
+atp102
+bsS'_sklearn_version'
+p103
+S'0.20.4'
+p104
+sbsS'match_type'
+p105
+g5
+(g1
+g6
+Ntp106
+Rp107
+(dp108
+g10
+g11
+(g12
+(I0
+tp109
+g14
+tp110
+Rp111
+(I1
+(I2
+tp112
+g21
+I00
+(lp113
+S'ODI'
+p114
+aS'T20'
+p115
+atp116
+bsg103
+g104
+sbsS'winner'
+p117
+g5
+(g1
+g6
+Ntp118
+Rp119
+(dp120
+g10
+g11
+(g12
+(I0
+tp121
+g14
+tp122
+Rp123
+(I1
+(I12
+tp124
+g21
+I00
+(lp125
+S'Australia'
+p126
+aS'Bangladesh'
+p127
+aS'England'
+p128
+aS'India'
+p129
+aS'Ireland'
+p130
+aS'New Zealand'
+p131
+aS'Pakistan'
+p132
+aS'South Africa'
+p133
+aS'Sri Lanka'
+p134
+aS'West Indies'
+p135
+aS'Zimbabwe'
+p136
+aS'draw'
+p137
+atp138
+bsg103
+g104
+sbsS'venue'
+p139
+g5
+(g1
+g6
+Ntp140
+Rp141
+(dp142
+g10
+g11
+(g12
+(I0
+tp143
+g14
+tp144
+Rp145
+(I1
+(I106
+tp146
+g21
+I00
+(lp147
+S'AMI Stadium'
+p148
+aS'Adelaide Oval'
+p149
+aS'Arbab Niaz Stadium'
+p150
+aS'Arnos Vale Ground, Kingstown'
+p151
+aS'Asian Institute of Technology Ground'
+p152
+aS'Basin Reserve'
+p153
+aS'Bay Oval'
+p154
+aS'Beausejour Stadium, Gros Islet'
+p155
+aS'Bert Sutcliffe Oval'
+p156
+aS'Brisbane Cricket Ground, Woolloongabba'
+p157
+aS'Captain Roop Singh Stadium'
+p158
+aS'Chevrolet Park'
+p159
+aS'City Oval'
+p160
+aS'Clontarf Cricket Club Ground'
+p161
+aS'Colombo Cricket Club Ground'
+p162
+aS'County Ground'
+p163
+aS'County Ground, New Road'
+p164
+aS'Dubai International Cricket Stadium'
+p165
+aS'Dubai Sports City Cricket Stadium'
+p166
+aS'Eden Gardens'
+p167
+aS'Eden Park'
+p168
+aS'Edgbaston'
+p169
+aS'Feroz Shah Kotla'
+p170
+aS'Gaddafi Stadium'
+p171
+aS'Galle International Stadium'
+p172
+aS'Grace Road'
+p173
+aS'Grange Cricket Club Ground, Raeburn Place'
+p174
+aS'Grange Cricket Club, Raeburn Place'
+p175
+aS'Green Park'
+p176
+aS'Guanggong International Cricket Stadium'
+p177
+aS'Gymkhana Club Ground'
+p178
+aS'Hagley Oval'
+p179
+aS'Harare Sports Club'
+p180
+aS'Haslegrave Ground'
+p181
+aS'Headingley'
+p182
+aS'ICC Academy'
+p183
+aS'Iqbal Stadium'
+p184
+aS'Kennington Oval'
+p185
+aS'Kensington Oval, Bridgetown'
+p186
+aS'Kerrydale Oval'
+p187
+aS'Khan Shaheb Osman Ali Stadium'
+p188
+aS'Kingsmead'
+p189
+aS'Kinrara Academy Oval'
+p190
+aS'LC de Villiers Oval'
+p191
+aS"Lord's"
+p192
+aS'Louth Cricket Club'
+p193
+aS'M Chinnaswamy Stadium'
+p194
+aS'MA Chidambaram Stadium, Chepauk'
+p195
+aS'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+p196
+aS'Manuka Oval'
+p197
+aS'Maple Leaf North-West Ground'
+p198
+aS'McLean Park'
+p199
+aS'Melbourne Cricket Ground'
+p200
+aS'Multan Cricket Stadium'
+p201
+aS"National Cricket Stadium, St George's"
+p202
+aS'National Stadium'
+p203
+aS'Nehru Stadium'
+p204
+aS'New Wanderers Stadium'
+p205
+aS'Newlands'
+p206
+aS'Niaz Stadium, Hyderabad'
+p207
+aS'Nondescripts Cricket Club Ground'
+p208
+aS'Observatory Lane, Rathmines'
+p209
+aS'Old Trafford'
+p210
+aS'P Sara Oval'
+p211
+aS'Pallekele International Cricket Stadium'
+p212
+aS'Perth Stadium'
+p213
+aS'Peter Burge Oval'
+p214
+aS'Providence Stadium'
+p215
+aS'Punjab Cricket Association IS Bindra Stadium, Mohali'
+p216
+aS'Punjab Cricket Association Stadium, Mohali'
+p217
+aS"Queen's Park Oval, Port of Spain"
+p218
+aS'Queens Sports Club'
+p219
+aS'R Premadasa Stadium'
+p220
+aS'Rangiri Dambulla International Stadium'
+p221
+aS'Rawalpindi Cricket Stadium'
+p222
+aS'Riverside Ground'
+p223
+aS'Sabina Park, Kingston'
+p224
+aS'Sardar Patel Stadium, Motera'
+p225
+aS'Sawai Mansingh Stadium'
+p226
+aS'Saxton Oval'
+p227
+aS'Seddon Park'
+p228
+aS'Senwes Park'
+p229
+aS'Sharjah Cricket Stadium'
+p230
+aS'Sheikh Zayed Stadium'
+p231
+aS'Sheikhupura Stadium'
+p232
+aS'Shere Bangla National Stadium'
+p233
+aS'Sinhalese Sports Club Ground'
+p234
+aS'Sophia Gardens'
+p235
+aS'Southend Club Cricket Stadium'
+p236
+aS"St George's Park"
+p237
+aS'SuperSport Park'
+p238
+aS'Sydney Cricket Ground'
+p239
+aS'Sydney Showground Stadium'
+p240
+aS'Sylhet Stadium'
+p241
+aS'The Cooper Associates County Ground'
+p242
+aS'The Rose Bowl'
+p243
+aS'The Village, Malahide'
+p244
+aS'The Wanderers Stadium'
+p245
+aS'Trent Bridge'
+p246
+aS'University Oval'
+p247
+aS'West End Park International Cricket Stadium'
+p248
+aS'Western Australia Cricket Association Ground'
+p249
+aS'Westpac Stadium'
+p250
+aS'Willowmoore Park'
+p251
+aS'YMCA Cricket Club'
+p252
+aS'Zahur Ahmed Chowdhury Stadium'
+p253
+atp254
+bsg103
+g104
+sbsS'month'
+p255
+g5
+(g1
+g6
+Ntp256
+Rp257
+(dp258
+g10
+g11
+(g12
+(I0
+tp259
+g14
+tp260
+Rp261
+(I1
+(I12
+tp262
+g21
+I00
+(lp263
+S'April'
+p264
+aS'August'
+p265
+aS'December'
+p266
+aS'February'
+p267
+aS'January'
+p268
+aS'July'
+p269
+aS'June'
+p270
+aS'March'
+p271
+aS'May'
+p272
+aS'November'
+p273
+aS'October'
+p274
+aS'September'
+p275
+atp276
+bsg103
+g104
+sbsS'toss_won'
+p277
+g5
+(g1
+g6
+Ntp278
+Rp279
+(dp280
+g10
+g11
+(g12
+(I0
+tp281
+g14
+tp282
+Rp283
+(I1
+(I14
+tp284
+g21
+I00
+(lp285
+S'Afghanistan'
+p286
+aS'Australia'
+p287
+aS'Bangladesh'
+p288
+aS'England'
+p289
+aS'India'
+p290
+aS'Ireland'
+p291
+aS'Kenya'
+p292
+aS'New Zealand'
+p293
+aS'Pakistan'
+p294
+aS'Scotland'
+p295
+aS'South Africa'
+p296
+aS'Sri Lanka'
+p297
+aS'West Indies'
+p298
+aS'Zimbabwe'
+p299
+atp300
+bsg103
+g104
+sbsS'team_a'
+p301
+g5
+(g1
+g6
+Ntp302
+Rp303
+(dp304
+g10
+g11
+(g12
+(I0
+tp305
+g14
+tp306
+Rp307
+(I1
+(I14
+tp308
+g21
+I00
+(lp309
+S'Afghanistan'
+p310
+aS'Australia'
+p311
+aS'Bangladesh'
+p312
+aS'England'
+p313
+aS'India'
+p314
+aS'Ireland'
+p315
+aS'Kenya'
+p316
+aS'New Zealand'
+p317
+aS'Pakistan'
+p318
+aS'Scotland'
+p319
+aS'South Africa'
+p320
+aS'Sri Lanka'
+p321
+aS'West Indies'
+p322
+aS'Zimbabwe'
+p323
+atp324
+bsg103
+g104
+sbsS'team_b'
+p325
+g5
+(g1
+g6
+Ntp326
+Rp327
+(dp328
+g10
+g11
+(g12
+(I0
+tp329
+g14
+tp330
+Rp331
+(I1
+(I12
+tp332
+g21
+I00
+(lp333
+S'Australia'
+p334
+aS'Bangladesh'
+p335
+aS'England'
+p336
+aS'India'
+p337
+aS'Ireland'
+p338
+aS'New Zealand'
+p339
+aS'Pakistan'
+p340
+aS'Scotland'
+p341
+aS'South Africa'
+p342
+aS'Sri Lanka'
+p343
+aS'West Indies'
+p344
+aS'Zimbabwe'
+p345
+atp346
+bsg103
+g104
+sbsS'toss_decision'
+p347
+g5
+(g1
+g6
+Ntp348
+Rp349
+(dp350
+g10
+g11
+(g12
+(I0
+tp351
+g14
+tp352
+Rp353
+(I1
+(I2
+tp354
+g21
+I00
+(lp355
+S'bat'
+p356
+aS'field'
+p357
+atp358
+bsg103
+g104
+sbs.

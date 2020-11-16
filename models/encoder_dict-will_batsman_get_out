@@ -1,0 +1,3921 @@
+ccollections
+defaultdict
+p0
+(csklearn.preprocessing.label
+LabelEncoder
+p1
+tp2
+Rp3
+S'bowling_team'
+p4
+ccopy_reg
+_reconstructor
+p5
+(g1
+c__builtin__
+object
+p6
+Ntp7
+Rp8
+(dp9
+S'classes_'
+p10
+cnumpy.core.multiarray
+_reconstruct
+p11
+(cnumpy
+ndarray
+p12
+(I0
+tp13
+S'b'
+p14
+tp15
+Rp16
+(I1
+(I14
+tp17
+cnumpy
+dtype
+p18
+(S'O8'
+p19
+I0
+I1
+tp20
+Rp21
+(I3
+S'|'
+p22
+NNNI-1
+I-1
+I63
+tp23
+bI00
+(lp24
+S'Afghanistan'
+p25
+aS'Australia'
+p26
+aS'Bangladesh'
+p27
+aS'England'
+p28
+aS'India'
+p29
+aS'Ireland'
+p30
+aS'Kenya'
+p31
+aS'New Zealand'
+p32
+aS'Pakistan'
+p33
+aS'Scotland'
+p34
+aS'South Africa'
+p35
+aS'Sri Lanka'
+p36
+aS'West Indies'
+p37
+aS'Zimbabwe'
+p38
+atp39
+bsS'_sklearn_version'
+p40
+S'0.20.4'
+p41
+sbsS'city'
+p42
+g5
+(g1
+g6
+Ntp43
+Rp44
+(dp45
+g10
+g11
+(g12
+(I0
+tp46
+g14
+tp47
+Rp48
+(I1
+(I78
+tp49
+g21
+I00
+(lp50
+S''
+p51
+aS'Abu Dhabi'
+p52
+aS'Ahmedabad'
+p53
+aS'Auckland'
+p54
+aS'Bangalore'
+p55
+aS'Bangkok'
+p56
+aS'Barbados'
+p57
+aS'Benoni'
+p58
+aS'Birmingham'
+p59
+aS'Bloemfontein'
+p60
+aS'Brisbane'
+p61
+aS'Bristol'
+p62
+aS'Bulawayo'
+p63
+aS'Canberra'
+p64
+aS'Cape Town'
+p65
+aS'Cardiff'
+p66
+aS'Centurion'
+p67
+aS'Chandigarh'
+p68
+aS'Chelmsford'
+p69
+aS'Chennai'
+p70
+aS'Chester-le-Street'
+p71
+aS'Chittagong'
+p72
+aS'Christchurch'
+p73
+aS'Colombo'
+p74
+aS'Delhi'
+p75
+aS'Derby'
+p76
+aS'Doha'
+p77
+aS'Dubai'
+p78
+aS'Dublin'
+p79
+aS'Dunedin'
+p80
+aS'Durban'
+p81
+aS'Edinburgh'
+p82
+aS'Faisalabad'
+p83
+aS'Fatullah'
+p84
+aS'Gold Coast'
+p85
+aS'Grenada'
+p86
+aS'Guwahati'
+p87
+aS'Guyana'
+p88
+aS'Gwalior'
+p89
+aS'Hambantota'
+p90
+aS'Hamilton'
+p91
+aS'Jaipur'
+p92
+aS'Jamaica'
+p93
+aS'Johannesburg'
+p94
+aS'Kanpur'
+p95
+aS'Karachi'
+p96
+aS'King City'
+p97
+aS'Kolkata'
+p98
+aS'Kuala Lumpur'
+p99
+aS'Lahore'
+p100
+aS'Leeds'
+p101
+aS'Leicester'
+p102
+aS'Lincoln'
+p103
+aS'London'
+p104
+aS'Loughborough'
+p105
+aS'Manchester'
+p106
+aS'Mirpur'
+p107
+aS'Mount Maunganui'
+p108
+aS'Nairobi'
+p109
+aS'Napier'
+p110
+aS'Nelson'
+p111
+aS'Nottingham'
+p112
+aS'Perth'
+p113
+aS'Peshawar'
+p114
+aS'Pietermaritzburg'
+p115
+aS'Port Elizabeth'
+p116
+aS'Potchefstroom'
+p117
+aS'Pretoria'
+p118
+aS'Sharjah'
+p119
+aS'Sind'
+p120
+aS'Southampton'
+p121
+aS'St Lucia'
+p122
+aS'St Vincent'
+p123
+aS'Sydney'
+p124
+aS'Taunton'
+p125
+aS'Trinidad'
+p126
+aS'Wellington'
+p127
+aS'Worcester'
+p128
+atp129
+bsg40
+g41
+sbsS'bowler'
+p130
+g5
+(g1
+g6
+Ntp131
+Rp132
+(dp133
+g10
+g11
+(g12
+(I0
+tp134
+g14
+tp135
+Rp136
+(I1
+(I679
+tp137
+g21
+I00
+(lp138
+S'A Brindle'
+p139
+aS'A Dananjaya'
+p140
+aS'A Das'
+p141
+aS'A Gardner'
+p142
+aS'A Hartley'
+p143
+aS'A Khaka'
+p144
+aS'A Martin'
+p145
+aS'A Mishra'
+p146
+aS'A Mohammed'
+p147
+aS'A Nehra'
+p148
+aS'A Nel'
+p149
+aS'A Reddy'
+p150
+aS'A Shahzad'
+p151
+aS'A Shrubsole'
+p152
+aS'A Symonds'
+p153
+aS'A Zampa'
+p154
+aS'AA Patil'
+p155
+aS'AB Agarkar'
+p156
+aS'AB Dinda'
+p157
+aS'AB de Villiers'
+p158
+aS'AC Agar'
+p159
+aS'AC Botha'
+p160
+aS'AC Evans'
+p161
+aS'AC Jayangani'
+p162
+aS'AC Kerr'
+p163
+aS'AD Mascarenhas'
+p164
+aS'AD Mathews'
+p165
+aS'AD Russell'
+p166
+aS'AE Satterthwaite'
+p167
+aS'AF Milne'
+p168
+aS'AG Cremer'
+p169
+aS'AG Prince'
+p170
+aS'AJ Finch'
+p171
+aS'AJ Hall'
+p172
+aS'AJ Kenealy'
+p173
+aS'AJ Redmond'
+p174
+aS'AJ Tye'
+p175
+aS'AK Kitchen'
+p176
+aS'AK Markram'
+p177
+aS'AK Peters'
+p178
+aS'AL Phehlukwayo'
+p179
+aS'AM McCarthy'
+p180
+aS'AM Peterson'
+p181
+aS'AM Phangiso'
+p182
+aS'AP Devcich'
+p183
+aS'AR Cusack'
+p184
+aS'AR McBrine'
+p185
+aS'AR Nurse'
+p186
+aS'AS Joseph'
+p187
+aS'ASS Fletcher'
+p188
+aS'AT Rayudu'
+p189
+aS'AU Rashid'
+p190
+aS'AY Patel'
+p191
+aS'Aamer Yamin'
+p192
+aS'Abdul Razzaq'
+p193
+aS'Abdur Rauf'
+p194
+aS'Abdur Razzak'
+p195
+aS'Abdur Rehman'
+p196
+aS'Abul Hasan'
+p197
+aS'Afif Hossain'
+p198
+aS'Aftab Ahmed'
+p199
+aS'Aftab Alam'
+p200
+aS'Ahmed Shehzad'
+p201
+aS'Aiman Anwer'
+p202
+aS'Aizaz Cheema'
+p203
+aS'Al-Amin Hossain'
+p204
+aS'Aliya Riaz'
+p205
+aS'Alok Kapali'
+p206
+aS'Aminul Islam Biplob'
+p207
+aS'Amir Hamza'
+p208
+aS'Anam Amin'
+p209
+aS'Anwar Ali'
+p210
+aS'Arafat Sunny'
+p211
+aS'Arshad Khan'
+p212
+aS'Asad Ali'
+p213
+aS'Asad Shafiq'
+p214
+aS'Asif Ali'
+p215
+aS'Asmavia Iqbal'
+p216
+aS'Azhar Ali'
+p217
+aS'Azhar Mahmood'
+p218
+aS'B Fernando'
+p219
+aS'B Kumar'
+p220
+aS'B Laughlin'
+p221
+aS'B Lee'
+p222
+aS'B Muzarabani'
+p223
+aS'B Stanlake'
+p224
+aS'BA Stokes'
+p225
+aS'BAW Mendis'
+p226
+aS'BE Hendricks'
+p227
+aS'BJ McCarthy'
+p228
+aS'BM Wheeler'
+p229
+aS'BMAJ Mendis'
+p230
+aS'BMSM Kumari'
+p231
+aS'BP Nash'
+p232
+aS'BV Vitori'
+p233
+aS'BW Hilfenhaus'
+p234
+aS'Bilal Asif'
+p235
+aS'Bilawal Bhatti'
+p236
+aS'Bismah Maroof'
+p237
+aS'C Munro'
+p238
+aS'C Raack'
+p239
+aS'C de Grandhomme'
+p240
+aS'CA Henry'
+p241
+aS'CA Ingram'
+p242
+aS'CAK Rajitha'
+p243
+aS'CB Mpofu'
+p244
+aS'CB Sole'
+p245
+aS'CBRLS Kumara'
+p246
+aS'CD Barnwell'
+p247
+aS'CD Collymore'
+p248
+aS'CH Gayle'
+p249
+aS'CH Morris'
+p250
+aS'CJ Anderson'
+p251
+aS'CJ Boyce'
+p252
+aS'CJ Chibhabha'
+p253
+aS'CJ Dala'
+p254
+aS'CJ Jordan'
+p255
+aS'CJ McKay'
+p256
+aS'CJ Metcalfe'
+p257
+aS'CK Langeveldt'
+p258
+aS'CKB Kulasekara'
+p259
+aS'CL Tryon'
+p260
+aS'CL White'
+p261
+aS'CM Wright'
+p262
+aS'CO Obuya'
+p263
+aS'CR Brathwaite'
+p264
+aS'CR Seneviratna'
+p265
+aS'CR Woakes'
+p266
+aS'CRD Fernando'
+p267
+aS'CT Mutombodzi'
+p268
+aS'D Bishoo'
+p269
+aS'D Gough'
+p270
+aS'D Hazell'
+p271
+aS'D Hemalatha'
+p272
+aS'D Langford-Smith'
+p273
+aS'D Mohammed'
+p274
+aS'D Olivier'
+p275
+aS'D Paterson'
+p276
+aS'D Pretorius'
+p277
+aS'D Wiese'
+p278
+aS'D van Niekerk'
+p279
+aS'DAS Gunaratne'
+p280
+aS'DB Sharma'
+p281
+aS'DBL Powell'
+p282
+aS'DE Bernard'
+p283
+aS'DE Bollinger'
+p284
+aS'DJ Bravo'
+p285
+aS'DJ Hussey'
+p286
+aS'DJ Willey'
+p287
+aS'DJG Sammy'
+p288
+aS'DJM Short'
+p289
+aS'DJS Dottin'
+p290
+aS'DL Vettori'
+p291
+aS'DM Kimmince'
+p292
+aS'DM de Silva'
+p293
+aS'DN Wyatt'
+p294
+aS'DP Nannes'
+p295
+aS'DP Vaidya'
+p296
+aS'DR Briggs'
+p297
+aS'DR Brown'
+p298
+aS'DR Smith'
+p299
+aS'DS Smith'
+p300
+aS'DT Christian'
+p301
+aS'DT Johnston'
+p302
+aS'DT Tiripano'
+p303
+aS'DW Steyn'
+p304
+aS'Danish Kaneria'
+p305
+aS'Dawlat Zadran'
+p306
+aS'Diana Baig'
+p307
+aS'Dolar Mahmud'
+p308
+aS'E Bisht'
+p309
+aS'E Chigumbura'
+p310
+aS'E Otieno'
+p311
+aS'EA Osborne'
+p312
+aS'EA Perry'
+p313
+aS'EAJ Richardson'
+p314
+aS'EJ Tice'
+p315
+aS'EJ Villani'
+p316
+aS'EMDY Munaweera'
+p317
+aS'Ehsan Adil'
+p318
+aS'Elias Sunny'
+p319
+aS'F Behardien'
+p320
+aS'FC Leydon-Davis'
+p321
+aS'FDM Karunaratne'
+p322
+aS'FL Mackay'
+p323
+aS'FR Davies'
+p324
+aS'Faheem Ashraf'
+p325
+aS'Fahim Ashraf'
+p326
+aS'Fahima Khatun'
+p327
+aS'Fakhar Zaman'
+p328
+aS'Farhad Reza'
+p329
+aS'Fatima Sana'
+p330
+aS'Fawad Alam'
+p331
+aS'G Sultana'
+p332
+aS'G Wareham'
+p333
+aS'G Wijekoon'
+p334
+aS'GA Elwiss'
+p335
+aS'GA Lamb'
+p336
+aS'GB Brent'
+p337
+aS'GB Hogg'
+p338
+aS'GC Smith'
+p339
+aS'GC Tonge'
+p340
+aS'GD Elliott'
+p341
+aS'GH Dockrell'
+p342
+aS'GH Lewis'
+p343
+aS'GJ Maxwell'
+p344
+aS'GP Swann'
+p345
+aS'GSNFG Jayasuriya'
+p346
+aS'Ghulam Fatima'
+p347
+aS'Gulbadin Naib'
+p348
+aS'H Davids'
+p349
+aS'H Kaur'
+p350
+aS'H Masakadza'
+p351
+aS'HA Varaiya'
+p352
+aS'HAM Samuddika'
+p353
+aS'HASD Siriwardene'
+p354
+aS'HC Knight'
+p355
+aS'HH Pandya'
+p356
+aS'HHC Gunaratne'
+p357
+aS'HK Bennett'
+p358
+aS'HK Matthews'
+p359
+aS'HL Colvin'
+p360
+aS'HL Ferling'
+p361
+aS'HM Rowe'
+p362
+aS'HMCM Bandara'
+p363
+aS'HMRKB Herath'
+p364
+aS'HNK Jensen'
+p365
+aS'HR Huddleston'
+p366
+aS'Hamid Hassan'
+p367
+aS'Hammad Azam'
+p368
+aS'Hamza Tahir'
+p369
+aS'Harbhajan Singh'
+p370
+aS'Haris Rauf'
+p371
+aS'Haris Sohail'
+p372
+aS'Hasan Ali'
+p373
+aS'Hussain Talat'
+p374
+aS'I Ranaweera'
+p375
+aS'I Sharma'
+p376
+aS'I Udana'
+p377
+aS'I Wardlaw'
+p378
+aS'IDR Bradshaw'
+p379
+aS'IG Butler'
+p380
+aS'IK Pathan'
+p381
+aS'IMHC Joyce'
+p382
+aS'IR Bell'
+p383
+aS'IS Sodhi'
+p384
+aS'Iftikhar Ahmed'
+p385
+aS'Iftikhar Anjum'
+p386
+aS'Imad Wasim'
+p387
+aS'Imran Farhat'
+p388
+aS'Imran Khan (1)'
+p389
+aS'Imran Tahir'
+p390
+aS'Iram Javed'
+p391
+aS'J Botha'
+p392
+aS'J Goswami'
+p393
+aS'J Lewis'
+p394
+aS'J Nyumbu'
+p395
+aS'J Theron'
+p396
+aS'JA Morkel'
+p397
+aS'JA Richardson'
+p398
+aS'JAR Blain'
+p399
+aS'JC Archer'
+p400
+aS'JD Nel'
+p401
+aS'JD Wildermuth'
+p402
+aS'JDF Vandersay'
+p403
+aS'JDP Oram'
+p404
+aS'JDS Neesham'
+p405
+aS'JE Root'
+p406
+aS'JE Taylor'
+p407
+aS'JEC Franklin'
+p408
+aS'JF Mooney'
+p409
+aS'JH Kallis'
+p410
+aS'JJ Bumrah'
+p411
+aS'JJ Krejza'
+p412
+aS'JK Kamande'
+p413
+aS'JL Carter'
+p414
+aS'JL Denly'
+p415
+aS'JL Gunn'
+p416
+aS'JL Hunter'
+p417
+aS'JL Jonassen'
+p418
+aS'JL Ontong'
+p419
+aS'JL Pattinson'
+p420
+aS'JM Anderson'
+p421
+aS'JM Kemp'
+p422
+aS'JM Watkin'
+p423
+aS'JN Mohammed'
+p424
+aS'JO Holder'
+p425
+aS'JP Behrendorff'
+p426
+aS'JP Duminy'
+p427
+aS'JP Faulkner'
+p428
+aS'JR Hazlewood'
+p429
+aS'JR Hopes'
+p430
+aS'JRMVB Sanjaya'
+p431
+aS'JS Patel'
+p432
+aS'JT Ball'
+p433
+aS'JW Dernbach'
+p434
+aS'JWM Dalrymple'
+p435
+aS'Jahanara Alam'
+p436
+aS'Javeria Khan'
+p437
+aS'Javeria Rauf'
+p438
+aS'Joginder Sharma'
+p439
+aS'Junaid Khan'
+p440
+aS'K Rabada'
+p441
+aS'K Ramharack'
+p442
+aS'K Santokie'
+p443
+aS'K Weeraratne'
+p444
+aS'KA Pollard'
+p445
+aS'KADA Kanchana'
+p446
+aS'KAJ Roach'
+p447
+aS'KC Brathwaite'
+p448
+aS'KD Mills'
+p449
+aS'KDK Vithanage'
+p450
+aS'KDU Prabodhani'
+p451
+aS'KH Brunt'
+p452
+aS'KJ Abbott'
+p453
+aS'KJ Garth'
+p454
+aS"KJ O'Brien"
+p455
+aS'KL Cross'
+p456
+aS'KM Beams'
+p457
+aS'KM Dabengwa'
+p458
+aS'KM Jadhav'
+p459
+aS'KM Jarvis'
+p460
+aS'KMA Paul'
+p461
+aS'KMDN Kulasekara'
+p462
+aS'KOK Williams'
+p463
+aS'KP Pietersen'
+p464
+aS'KS Lokuarachchi'
+p465
+aS'KS Williamson'
+p466
+aS'KTGD Prasad'
+p467
+aS'KW Richardson'
+p468
+aS'Kainat Imtiaz'
+p469
+aS'Kamran Hussain'
+p470
+aS'Karim Sadiq'
+p471
+aS'Khadija Tul Kubra'
+p472
+aS'Kuldeep Yadav'
+p473
+aS'L Balaji'
+p474
+aS'L Delany'
+p475
+aS'L Gregory'
+p476
+aS'L Lee'
+p477
+aS'L Ngidi'
+p478
+aS'L Sipamla'
+p479
+aS'LA Dawson'
+p480
+aS'LA Marsh'
+p481
+aS'LC Sthalekar'
+p482
+aS'LD Madushanka'
+p483
+aS'LE Kaushalya'
+p484
+aS'LE Plunkett'
+p485
+aS'LH Ferguson'
+p486
+aS'LJ Woodcock'
+p487
+aS'LJ Wright'
+p488
+aS"LK O'Reilly"
+p489
+aS'LL Tsotsobe'
+p490
+aS'LM Jongwe'
+p491
+aS'LM Kasperek'
+p492
+aS'LMM Tahuhu'
+p493
+aS'LMP Simmons'
+p494
+aS'LN McCarthy'
+p495
+aS'LN Onyango'
+p496
+aS'LN Roche'
+p497
+aS'LS Baker'
+p498
+aS'Lata Mondal'
+p499
+aS'M Daniels'
+p500
+aS'M Joshi'
+p501
+aS'M Kapp'
+p502
+aS'M Kartik'
+p503
+aS'M Klaas'
+p504
+aS'M Morkel'
+p505
+aS'M Muralitharan'
+p506
+aS'M Ntini'
+p507
+aS'MA Leask'
+p508
+aS'MA Starc'
+p509
+aS'MA Wood'
+p510
+aS'MD Gunathilaka'
+p511
+aS'MD Shanaka'
+p512
+aS'MDK Perera'
+p513
+aS'MEK Hussey'
+p514
+aS'MEMO Scott-Hayward'
+p515
+aS'MF Kendal'
+p516
+aS'MF Maharoof'
+p517
+aS'MG Johnson'
+p518
+aS'MGMCP Gunawardene'
+p519
+aS'MH Yardy'
+p520
+aS'MJ Clarke'
+p521
+aS'MJ Henry'
+p522
+aS'MJ McClenaghan'
+p523
+aS'MJ North'
+p524
+aS'MJ Santner'
+p525
+aS'MJG Nielsen'
+p526
+aS'MK Villiers'
+p527
+aS'ML Schutt'
+p528
+aS'MM Ali'
+p529
+aS'MM Lanning'
+p530
+aS'MM Letsoalo'
+p531
+aS'MM Patel'
+p532
+aS'MM Sharma'
+p533
+aS'MN Samuels'
+p534
+aS'MN Waller'
+p535
+aS'MP Stoinis'
+p536
+aS'MR Gillespie'
+p537
+aS'MR Marsh'
+p538
+aS'MR Meshram'
+p539
+aS'MRJ Watt'
+p540
+aS'MVT Fernando'
+p541
+aS'MW Machan'
+p542
+aS'Maham Tariq'
+p543
+aS'Mahedi Hasan'
+p544
+aS'Mahmudullah'
+p545
+aS'Mansoor Amjad'
+p546
+aS'Mariam Hasan'
+p547
+aS'Marina Iqbal'
+p548
+aS'Mashrafe Mortaza'
+p549
+aS'Mehedi Hasan Miraz'
+p550
+aS'Mirwais Ashraf'
+p551
+aS'Misbah-ul-Haq'
+p552
+aS'Mohammad Abbas'
+p553
+aS'Mohammad Amir'
+p554
+aS'Mohammad Ashraful'
+p555
+aS'Mohammad Asif'
+p556
+aS'Mohammad Hafeez'
+p557
+aS'Mohammad Hasnain'
+p558
+aS'Mohammad Irfan'
+p559
+aS'Mohammad Nabi'
+p560
+aS'Mohammad Nawaz (3)'
+p561
+aS'Mohammad Saifuddin'
+p562
+aS'Mohammad Sami'
+p563
+aS'Mohammad Talha'
+p564
+aS'Mohammad Yousuf'
+p565
+aS'Mohammed Shami'
+p566
+aS'Mominul Haque'
+p567
+aS'Mosaddek Hossain'
+p568
+aS'Muhammad Musa'
+p569
+aS'Mujeeb Ur Rahman'
+p570
+aS'Mustafizur Rahman'
+p571
+aS'N Mlaba'
+p572
+aS'N Niranjana'
+p573
+aS'N Pradeep'
+p574
+aS'N Shangase'
+p575
+aS'N de Klerk'
+p576
+aS'NE Bolton'
+p577
+aS'NE Farrant'
+p578
+aS'NJ Astle'
+p579
+aS'NJ Browne'
+p580
+aS'NJ Carey'
+p581
+aS'NL McCullum'
+p582
+aS'NLTC Perera'
+p583
+aS'NM Carter'
+p584
+aS'NM Coulter-Nile'
+p585
+aS'NM Hauritz'
+p586
+aS'NM Lyon'
+p587
+aS'NN Odhiambo'
+p588
+aS'NND de Silva'
+p589
+aS'NO Miller'
+p590
+aS'NR Sciver'
+p591
+aS'NW Bracken'
+p592
+aS'Naeem Islam'
+p593
+aS'Nahida Akter'
+p594
+aS'Nahida Khan'
+p595
+aS'Naila Nazir'
+p596
+aS'Nashra Sandhu'
+p597
+aS'Nasir Hossain'
+p598
+aS'Natalia Pervaiz'
+p599
+aS'Naved-ul-Hasan'
+p600
+aS'Nazmul Hossain'
+p601
+aS'Nida Dar'
+p602
+aS'O Thomas'
+p603
+aS'OF Smith'
+p604
+aS'OU Ranasinghe'
+p605
+aS'P Kumar'
+p606
+aS'P Utseya'
+p607
+aS'PADLR Sandakan'
+p608
+aS'PC de Silva'
+p609
+aS'PD Collingwood'
+p610
+aS'PJ Cummins'
+p611
+aS'PJ Ongondo'
+p612
+aS'PKD Chase'
+p613
+aS'PLS Gamage'
+p614
+aS'PM Siddle'
+p615
+aS'PP Chawla'
+p616
+aS'PR Stirling'
+p617
+aS'PRCS Kumarihami'
+p618
+aS'PS Masvaure'
+p619
+aS'PVD Chameera'
+p620
+aS'PWA Mulder'
+p621
+aS'PWH de Silva'
+p622
+aS'Panna Ghosh'
+p623
+aS'Poonam Yadav'
+p624
+aS'Preeti Bose'
+p625
+aS'Qanita Jalil'
+p626
+aS'R Ashwin'
+p627
+aS'R Clarke'
+p628
+aS'R Malhotra'
+p629
+aS'R McLaren'
+p630
+aS'R Ngarava'
+p631
+aS'R Powell'
+p632
+aS'R Rampaul'
+p633
+aS'RA Jadeja'
+p634
+aS'RAS Lakmal'
+p635
+aS'RD Berrington'
+p636
+aS'RE van der Merwe'
+p637
+aS'RG Sharma'
+p638
+aS'RJ Harris'
+p639
+aS'RJ Peterson'
+p640
+aS'RJ Sidebottom'
+p641
+aS'RJW Topley'
+p642
+aS'RK Kleinveldt'
+p643
+aS'RK Parwin'
+p644
+aS'RL Bhudia'
+p645
+aS'RM Farrell'
+p646
+aS'RM Haq'
+p647
+aS'RM West'
+p648
+aS'RML Taylor'
+p649
+aS'RP Burl'
+p650
+aS'RP Singh'
+p651
+aS'RP Yadav'
+p652
+aS'RR Emrit'
+p653
+aS'RR Hendricks'
+p654
+aS'RR Powar'
+p655
+aS'RR Sarwan'
+p656
+aS'RS Bopara'
+p657
+aS'RS Gayakwad'
+p658
+aS'RW Price'
+p659
+aS'Rahat Ali'
+p660
+aS'Rameen Shamim'
+p661
+aS'Rashid Khan'
+p662
+aS'Raza Hasan'
+p663
+aS'Ritu Moni'
+p664
+aS'Rizwan Ahmed'
+p665
+aS'Rubel Hossain'
+p666
+aS'Rumana Ahmed'
+p667
+aS'Rumman Raees'
+p668
+aS'S Badree'
+p669
+aS'S Ecclestone'
+p670
+aS'S Glenn'
+p671
+aS'S Ismail'
+p672
+aS'S Loubser'
+p673
+aS'S Luus'
+p674
+aS'S Mahmood'
+p675
+aS'S Matsikenyeri'
+p676
+aS'S Molineux'
+p677
+aS'S Pandey'
+p678
+aS'S Prasanna'
+p679
+aS'S Sharma'
+p680
+aS'S Sreesanth'
+p681
+aS'S Weerakoon'
+p682
+aS'SA Abbott'
+p683
+aS'SACA King'
+p684
+aS'SB Styris'
+p685
+aS'SC Ganguly'
+p686
+aS'SC Selman'
+p687
+aS'SC Williams'
+p688
+aS'SCJ Broad'
+p689
+aS'SD Parry'
+p690
+aS'SE Aley'
+p691
+aS'SE Bond'
+p692
+aS'SF Daley'
+p693
+aS'SF Mire'
+p694
+aS'SFM Devine'
+p695
+aS'SHA Rance'
+p696
+aS'SHT Kandamby'
+p697
+aS'SI Mahmood'
+p698
+aS'SIP Fernando'
+p699
+aS'SJ Benn'
+p700
+aS'SJ Coyte'
+p701
+aS'SK Dolawatte'
+p702
+aS'SK Naidu'
+p703
+aS'SK Raina'
+p704
+aS'SL Malinga'
+p705
+aS'SL Quintyne'
+p706
+aS'SM Pollock'
+p707
+aS'SM Sharif'
+p708
+aS'SMA Priyanjan'
+p709
+aS'SMSM Senanayake'
+p710
+aS"SNJ O'Keefe"
+p711
+aS'SO Ngoche'
+p712
+aS'SO Tikolo'
+p713
+aS'SP Narine'
+p714
+aS'SPD Smith'
+p715
+aS'SR Clark'
+p716
+aS'SR Patel'
+p717
+aS'SR Taylor'
+p718
+aS'SR Tendulkar'
+p719
+aS'SR Thompson'
+p720
+aS'SR Watson'
+p721
+aS'SS Connell'
+p722
+aS'SS Cottrell'
+p723
+aS'SS Pathirana'
+p724
+aS'SS Weerakkody'
+p725
+aS'ST Finn'
+p726
+aS'ST Gabriel'
+p727
+aS'ST Jayasuriya'
+p728
+aS'SW Bates'
+p729
+aS'SW Masakadza'
+p730
+aS'SW Tait'
+p731
+aS'Saad Nasim'
+p732
+aS'Sabbir Rahman'
+p733
+aS'Sadia Iqbal'
+p734
+aS'Sadia Yousuf'
+p735
+aS'Saeed Ajmal'
+p736
+aS'Salma Khatun'
+p737
+aS'Salman Butt'
+p738
+aS'Samiullah Khan'
+p739
+aS'Samiullah Shenwari'
+p740
+aS'Sana Mir'
+p741
+aS'Sania Khan'
+p742
+aS'Sanjida Islam'
+p743
+aS'Sarfraz Ahmed'
+p744
+aS'Shadab Khan'
+p745
+aS'Shafiul Islam'
+p746
+aS'Shahadat Hossain'
+p747
+aS'Shaheen Shah Afridi'
+p748
+aS'Shahid Afridi'
+p749
+aS'Shaila Sharmin'
+p750
+aS'Shakib Al Hasan'
+p751
+aS'Shapoor Zadran'
+p752
+aS'Shoaib Akhtar'
+p753
+aS'Shoaib Malik'
+p754
+aS'Shukhtara Rahman'
+p755
+aS'Sikandar Raza'
+p756
+aS'Sohaib Maqsood'
+p757
+aS'Sohail Khan'
+p758
+aS'Sohail Tanvir'
+p759
+aS'Soniya Dabir'
+p760
+aS'Soumya Sarkar'
+p761
+aS'Suhrawadi Shuvo'
+p762
+aS'Sumaiya Siddiqi'
+p763
+aS'Syed Rasel'
+p764
+aS'Syeda Aroob Shah'
+p765
+aS'T Mupariwa'
+p766
+aS'T Panyangara'
+p767
+aS'T Shamsi'
+p768
+aS'T Thushara'
+p769
+aS'TA Boult'
+p770
+aS'TAM Siriwardana'
+p771
+aS'TD Astle'
+p772
+aS'TD Smartt'
+p773
+aS'TG Southee'
+p774
+aS'TJ Murtagh'
+p775
+aS'TJ Vlaeminck'
+p776
+aS'TK Curran'
+p777
+aS'TL Best'
+p778
+aS'TL Chatara'
+p779
+aS'TM Dilshan'
+p780
+aS'TM Head'
+p781
+aS'TM Odoyo'
+p782
+aS'TMM Newton'
+p783
+aS'TS Chisoro'
+p784
+aS'TS Sekhukhune'
+p785
+aS'TT Bresnan'
+p786
+aS'Tanvir Ahmed (1)'
+p787
+aS'Taskin Ahmed'
+p788
+aS'UT Yadav'
+p789
+aS'Umaima Sohail'
+p790
+aS'Umar Amin'
+p791
+aS'Umar Gul'
+p792
+aS'Usman Shinwari'
+p793
+aS'V Kohli'
+p794
+aS'V Permaul'
+p795
+aS'V Sehwag'
+p796
+aS'V Shankar'
+p797
+aS'VD Philander'
+p798
+aS'WB Rankin'
+p799
+aS'WD Parnell'
+p800
+aS'WK McCallan'
+p801
+aS'WP Masakadza'
+p802
+aS'WPUJC Vaas'
+p803
+aS'Wahab Riaz'
+p804
+aS'Waqas Maqsood'
+p805
+aS'XJ Doherty'
+p806
+aS'Y Fourie'
+p807
+aS'YK Pathan'
+p808
+aS'YS Chahal'
+p809
+aS'Yasir Arafat'
+p810
+aS'Yasir Shah'
+p811
+aS'Younis Khan'
+p812
+aS'Yuvraj Singh'
+p813
+aS'Z Khan'
+p814
+aS'Zafar Gohar'
+p815
+aS'Ziaur Rahman'
+p816
+aS'Zulfiqar Babar'
+p817
+atp818
+bsg40
+g41
+sbsS'match_type'
+p819
+g5
+(g1
+g6
+Ntp820
+Rp821
+(dp822
+g10
+g11
+(g12
+(I0
+tp823
+g14
+tp824
+Rp825
+(I1
+(I2
+tp826
+g21
+I00
+(lp827
+S'ODI'
+p828
+aS'T20'
+p829
+atp830
+bsg40
+g41
+sbsS'batsman'
+p831
+g5
+(g1
+g6
+Ntp832
+Rp833
+(dp834
+g10
+g11
+(g12
+(I0
+tp835
+g14
+tp836
+Rp837
+(I1
+(I917
+tp838
+g21
+I00
+(lp839
+S'A Balbirnie'
+p840
+aS'A Brindle'
+p841
+aS'A Dananjaya'
+p842
+aS'A Das'
+p843
+aS'A Gardner'
+p844
+aS'A Khaka'
+p845
+aS'A Martin'
+p846
+aS'A Mishra'
+p847
+aS'A Mohammed'
+p848
+aS'A Nehra'
+p849
+aS'A Nel'
+p850
+aS'A Sharma'
+p851
+aS'A Shrubsole'
+p852
+aS'A Steyn'
+p853
+aS'A Symonds'
+p854
+aS'A Zampa'
+p855
+aS'AA Obanda'
+p856
+aS'AA Patil'
+p857
+aS'AB Agarkar'
+p858
+aS'AB Dinda'
+p859
+aS'AB de Villiers'
+p860
+aS'AC Agar'
+p861
+aS'AC Botha'
+p862
+aS'AC Evans'
+p863
+aS'AC Gilchrist'
+p864
+aS'AC Jayangani'
+p865
+aS'AC Kerr'
+p866
+aS'AC Voges'
+p867
+aS'AD Hales'
+p868
+aS'AD Mascarenhas'
+p869
+aS'AD Mathews'
+p870
+aS'AD Russell'
+p871
+aS'ADS Fletcher'
+p872
+aS'AE Jones'
+p873
+aS'AE Satterthwaite'
+p874
+aS'AF Milne'
+p875
+aS'AG Cremer'
+p876
+aS'AG Prince'
+p877
+aS'AJ Blackwell'
+p878
+aS'AJ Finch'
+p879
+aS'AJ Healy'
+p880
+aS'AJ Kenealy'
+p881
+aS'AJ Redmond'
+p882
+aS'AJ Strauss'
+p883
+aS'AJ Turner'
+p884
+aS'AJ Tye'
+p885
+aS'AK Kitchen'
+p886
+aS'AK Markram'
+p887
+aS'AK Perera'
+p888
+aS'AL Phehlukwayo'
+p889
+aS'AM McCarthy'
+p890
+aS'AM Peterson'
+p891
+aS'AM Phangiso'
+p892
+aS'AM Rahane'
+p893
+aS'AN Cook'
+p894
+aS'AO Suji'
+p895
+aS'AP Devcich'
+p896
+aS'AR Cusack'
+p897
+aS'AR McBrine'
+p898
+aS'AR Nurse'
+p899
+aS'AR White'
+p900
+aS'AS Joseph'
+p901
+aS'ASS Fletcher'
+p902
+aS'AT Carey'
+p903
+aS'AT Rayudu'
+p904
+aS'AU Rashid'
+p905
+aS'Aamer Yamin'
+p906
+aS'Abdul Razzaq'
+p907
+aS'Abdur Razzak'
+p908
+aS'Abdur Rehman'
+p909
+aS'Abid Ali'
+p910
+aS'Adnan Akmal'
+p911
+aS'Afif Hossain'
+p912
+aS'Aftab Ahmed'
+p913
+aS'Ahmed Shehzad'
+p914
+aS'Ahsan Ali'
+p915
+aS'Aiman Anwer'
+p916
+aS'Aizaz Cheema'
+p917
+aS'Aliya Riaz'
+p918
+aS'Alok Kapali'
+p919
+aS'Aminul Islam Biplob'
+p920
+aS'Amir Hamza'
+p921
+aS'Anam Amin'
+p922
+aS'Anamul Haque'
+p923
+aS'Anwar Ali'
+p924
+aS'Asad Ali'
+p925
+aS'Asad Shafiq'
+p926
+aS'Asghar Stanikzai'
+p927
+aS'Asif Ali'
+p928
+aS'Asmavia Iqbal'
+p929
+aS'Awais Zia'
+p930
+aS'Ayasha Rahman'
+p931
+aS'Ayesha Zafar'
+p932
+aS'Azhar Ali'
+p933
+aS'Azhar Mahmood'
+p934
+aS'B Bezuidenhout'
+p935
+aS'B Cooper'
+p936
+aS'B Fernando'
+p937
+aS'B Kumar'
+p938
+aS'B Lee'
+p939
+aS'B Muzarabani'
+p940
+aS'B Stanlake'
+p941
+aS'BA Stokes'
+p942
+aS'BAW Mendis'
+p943
+aS'BB Chari'
+p944
+aS'BB McCullum'
+p945
+aS'BC Lara'
+p946
+aS'BE Hendricks'
+p947
+aS'BJ Haddin'
+p948
+aS'BJ Hodge'
+p949
+aS'BJ McCarthy'
+p950
+aS'BJ Watling'
+p951
+aS'BKG Mendis'
+p952
+aS'BL Mooney'
+p953
+aS'BM Duckett'
+p954
+aS'BM Wheeler'
+p955
+aS'BMAJ Mendis'
+p956
+aS'BMSM Kumari'
+p957
+aS'BOP Fernando'
+p958
+aS'BP Nash'
+p959
+aS'BR McDermott'
+p960
+aS'BRM Taylor'
+p961
+aS'BV Vitori'
+p962
+aS'BW Hilfenhaus'
+p963
+aS'BYA Mendis'
+p964
+aS'Babar Azam'
+p965
+aS'Batool Fatima'
+p966
+aS'Bazid Khan'
+p967
+aS'Bilal Asif'
+p968
+aS'Bilawal Bhatti'
+p969
+aS'Bismah Maroof'
+p970
+aS'C Kieswetter'
+p971
+aS'C Munro'
+p972
+aS'C Raack'
+p973
+aS'C Zhuwao'
+p974
+aS'C de Grandhomme'
+p975
+aS'CA Henry'
+p976
+aS'CA Ingram'
+p977
+aS'CA Lynn'
+p978
+aS'CAK Walton'
+p979
+aS'CB Mpofu'
+p980
+aS'CB Sole'
+p981
+aS'CBRLS Kumara'
+p982
+aS'CD Barnwell'
+p983
+aS'CD Collymore'
+p984
+aS'CD McMillan'
+p985
+aS'CH Gayle'
+p986
+aS'CH Morris'
+p987
+aS'CJ Anderson'
+p988
+aS'CJ Chibhabha'
+p989
+aS'CJ Dala'
+p990
+aS'CJ Ferguson'
+p991
+aS'CJ Jordan'
+p992
+aS'CJ McKay'
+p993
+aS'CJ Metcalfe'
+p994
+aS'CJO Smith'
+p995
+aS'CK Coventry'
+p996
+aS'CK Kapugedera'
+p997
+aS'CK Langeveldt'
+p998
+aS'CKB Kulasekara'
+p999
+aS'CL Tryon'
+p1000
+aS'CL White'
+p1001
+aS'CM Edwards'
+p1002
+aS'CM Wright'
+p1003
+aS'CMA Shillington'
+p1004
+aS'CMW Read'
+p1005
+aS'CN Nation'
+p1006
+aS'CNIM Joyce'
+p1007
+aS'CO Obuya'
+p1008
+aS'CR Brathwaite'
+p1009
+aS'CR Ervine'
+p1010
+aS'CR Woakes'
+p1011
+aS'CRD Fernando'
+p1012
+aS'CS Baugh'
+p1013
+aS'CS MacLeod'
+p1014
+aS'CT Mutombodzi'
+p1015
+aS'D Bishoo'
+p1016
+aS'D Ganga'
+p1017
+aS'D Gough'
+p1018
+aS'D Hazell'
+p1019
+aS'D Mohammed'
+p1020
+aS'D Murphy'
+p1021
+aS'D Ramdin'
+p1022
+aS'D van Niekerk'
+p1023
+aS'DA Miller'
+p1024
+aS'DA Warner'
+p1025
+aS'DAS Gunaratne'
+p1026
+aS'DB Sharma'
+p1027
+aS'DBL Powell'
+p1028
+aS'DC Thomas'
+p1029
+aS'DE Bernard'
+p1030
+aS'DE Bollinger'
+p1031
+aS'DE Budge'
+p1032
+aS'DF Watts'
+p1033
+aS'DG Brownlie'
+p1034
+aS'DJ Bravo'
+p1035
+aS'DJ Hussey'
+p1036
+aS'DJ Malan'
+p1037
+aS'DJ Willey'
+p1038
+aS'DJG Sammy'
+p1039
+aS'DJM Short'
+p1040
+aS'DJS Dottin'
+p1041
+aS'DL Vettori'
+p1042
+aS'DM Bravo'
+p1043
+aS'DM Kimmince'
+p1044
+aS'DM Richards'
+p1045
+aS'DM de Silva'
+p1046
+aS'DN Wyatt'
+p1047
+aS'DO Obuya'
+p1048
+aS'DP Hyatt'
+p1049
+aS'DP Nannes'
+p1050
+aS'DP Vaidya'
+p1051
+aS'DPMD Jayawardene'
+p1052
+aS'DR Brown'
+p1053
+aS'DR Smith'
+p1054
+aS'DS Smith'
+p1055
+aS'DT Christian'
+p1056
+aS'DT Johnston'
+p1057
+aS'DT Tiripano'
+p1058
+aS'DW Steyn'
+p1059
+aS'Danish Kaneria'
+p1060
+aS'Dawlat Zadran'
+p1061
+aS'Dhiman Ghosh'
+p1062
+aS'Diana Baig'
+p1063
+aS'Dolar Mahmud'
+p1064
+aS'E Bisht'
+p1065
+aS'E Chigumbura'
+p1066
+aS'E Lewis'
+p1067
+aS'E Otieno'
+p1068
+aS'EA Osborne'
+p1069
+aS'EA Perry'
+p1070
+aS'EAJ Richardson'
+p1071
+aS'EC Joyce'
+p1072
+aS'EC Perry'
+p1073
+aS'EJ Tice'
+p1074
+aS'EJ Villani'
+p1075
+aS'EJG Morgan'
+p1076
+aS'ELC Flanagan'
+p1077
+aS'EMDY Munaweera'
+p1078
+aS'Ehsan Adil'
+p1079
+aS'Elias Sunny'
+p1080
+aS'F Behardien'
+p1081
+aS'F Kasteni'
+p1082
+aS'F du Plessis'
+p1083
+aS'FC Wilson'
+p1084
+aS'FDM Karunaratne'
+p1085
+aS'FL Reifer'
+p1086
+aS'Faheem Ashraf'
+p1087
+aS'Fahim Ashraf'
+p1088
+aS'Fahima Khatun'
+p1089
+aS'Faisal Iqbal'
+p1090
+aS'Fakhar Zaman'
+p1091
+aS'Fareeha Mehmood'
+p1092
+aS'Fargana Hoque'
+p1093
+aS'Farhad Reza'
+p1094
+aS'Fatima Sana'
+p1095
+aS'Fawad Alam'
+p1096
+aS'G Gambhir'
+p1097
+aS'G Wijekoon'
+p1098
+aS'GA Elwiss'
+p1099
+aS'GA Lamb'
+p1100
+aS'GB Brent'
+p1101
+aS'GB Hogg'
+p1102
+aS'GC Smith'
+p1103
+aS'GC Tonge'
+p1104
+aS'GC Wilson'
+p1105
+aS'GD Elliott'
+p1106
+aS'GD Phillips'
+p1107
+aS'GH Dockrell'
+p1108
+aS'GH Lewis'
+p1109
+aS'GH Worker'
+p1110
+aS'GJ Bailey'
+p1111
+aS'GJ Hopkins'
+p1112
+aS'GJ Maxwell'
+p1113
+aS'GL Cloete'
+p1114
+aS'GM Hamilton'
+p1115
+aS'GP Swann'
+p1116
+aS'GSNFG Jayasuriya'
+p1117
+aS'GWHM Perera'
+p1118
+aS'Ghulam Fatima'
+p1119
+aS'Gulbadin Naib'
+p1120
+aS'H Davids'
+p1121
+aS'H Kaur'
+p1122
+aS'H Klaasen'
+p1123
+aS'H Masakadza'
+p1124
+aS'HA Varaiya'
+p1125
+aS'HAM Samuddika'
+p1126
+aS'HASD Siriwardene'
+p1127
+aS'HC Knight'
+p1128
+aS'HDRL Thirimanne'
+p1129
+aS'HE van der Dussen'
+p1130
+aS'HG Munsey'
+p1131
+aS'HH Dippenaar'
+p1132
+aS'HH Gibbs'
+p1133
+aS'HH Pandya'
+p1134
+aS'HIS Mendis'
+p1135
+aS'HK Bennett'
+p1136
+aS'HK Matthews'
+p1137
+aS'HM Amla'
+p1138
+aS'HM Nicholls'
+p1139
+aS'HM Rowe'
+p1140
+aS'HMCM Bandara'
+p1141
+aS'HML Madushani'
+p1142
+aS'HMRKB Herath'
+p1143
+aS'HR Huddleston'
+p1144
+aS'Haider Ali'
+p1145
+aS'Hamid Hassan'
+p1146
+aS'Hammad Azam'
+p1147
+aS'Harbhajan Singh'
+p1148
+aS'Haris Sohail'
+p1149
+aS'Hasan Ali'
+p1150
+aS'Hashmatullah Shahidi'
+p1151
+aS'Hussain Talat'
+p1152
+aS'I Ranaweera'
+p1153
+aS'I Sharma'
+p1154
+aS'I Udana'
+p1155
+aS'I Wardlaw'
+p1156
+aS'IDR Bradshaw'
+p1157
+aS'IG Butler'
+p1158
+aS'IJL Trott'
+p1159
+aS'IK Pathan'
+p1160
+aS'IMHC Joyce'
+p1161
+aS'IR Bell'
+p1162
+aS'IS Sodhi'
+p1163
+aS'Iftikhar Ahmed'
+p1164
+aS'Iftikhar Anjum'
+p1165
+aS'Ihsanullah'
+p1166
+aS'Ikram Alikhil'
+p1167
+aS'Imad Wasim'
+p1168
+aS'Imam-ul-Haq'
+p1169
+aS'Imran Farhat'
+p1170
+aS'Imran Khan (1)'
+p1171
+aS'Imran Nazir'
+p1172
+aS'Imran Tahir'
+p1173
+aS'Imrul Kayes'
+p1174
+aS'Inzamam-ul-Haq'
+p1175
+aS'Iram Javed'
+p1176
+aS'J Botha'
+p1177
+aS'J Charles'
+p1178
+aS'J Goswami'
+p1179
+aS'J Gray'
+p1180
+aS'J Lewis'
+p1181
+aS'J Mubarak'
+p1182
+aS'J Nyumbu'
+p1183
+aS'J Theron'
+p1184
+aS'JA Morkel'
+p1185
+aS'JA Richardson'
+p1186
+aS'JAR Blain'
+p1187
+aS'JC Archer'
+p1188
+aS'JC Buttler'
+p1189
+aS'JD Nel'
+p1190
+aS'JD Ryder'
+p1191
+aS'JD Wildermuth'
+p1192
+aS'JDF Vandersay'
+p1193
+aS'JDP Oram'
+p1194
+aS'JDS Neesham'
+p1195
+aS'JE Cameron'
+p1196
+aS'JE Root'
+p1197
+aS'JE Taylor'
+p1198
+aS'JEC Franklin'
+p1199
+aS'JF Mooney'
+p1200
+aS'JH Davey'
+p1201
+aS'JH Kallis'
+p1202
+aS'JI Rodrigues'
+p1203
+aS'JJ Bumrah'
+p1204
+aS'JJ Krejza'
+p1205
+aS'JJ Roy'
+p1206
+aS'JK Kamande'
+p1207
+aS'JL Carter'
+p1208
+aS'JL Denly'
+p1209
+aS'JL Gunn'
+p1210
+aS'JL Jonassen'
+p1211
+aS'JL Ontong'
+p1212
+aS'JL Pattinson'
+p1213
+aS'JM Anderson'
+p1214
+aS'JM Bairstow'
+p1215
+aS'JM Fields'
+p1216
+aS'JM How'
+p1217
+aS'JM Kemp'
+p1218
+aS'JM Vince'
+p1219
+aS'JM Watkin'
+p1220
+aS'JN Malan'
+p1221
+aS'JN Mohammed'
+p1222
+aS'JNK Shannon'
+p1223
+aS'JO Holder'
+p1224
+aS'JP Behrendorff'
+p1225
+aS'JP Bray'
+p1226
+aS'JP Duminy'
+p1227
+aS'JP Faulkner'
+p1228
+aS'JR Hazlewood'
+p1229
+aS'JR Hopes'
+p1230
+aS'JRMVB Sanjaya'
+p1231
+aS'JS Foster'
+p1232
+aS'JS Patel'
+p1233
+aS'JT Ball'
+p1234
+aS'JWA Taylor'
+p1235
+aS'JWM Dalrymple'
+p1236
+aS'Jahanara Alam'
+p1237
+aS'Jahurul Islam'
+p1238
+aS'Javeria Khan'
+p1239
+aS'Javeria Rauf'
+p1240
+aS'Junaid Khan'
+p1241
+aS'Junaid Siddique'
+p1242
+aS'K Rabada'
+p1243
+aS'K Weeraratne'
+p1244
+aS'KA Edwards'
+p1245
+aS'KA Pollard'
+p1246
+aS'KADA Kanchana'
+p1247
+aS'KAJ Roach'
+p1248
+aS'KC Brathwaite'
+p1249
+aS'KC Sangakkara'
+p1250
+aS'KD Karthik'
+p1251
+aS'KD Mills'
+p1252
+aS'KDK Vithanage'
+p1253
+aS'KDU Prabodhani'
+p1254
+aS'KH Brunt'
+p1255
+aS'KJ Abbott'
+p1256
+aS'KJ Coetzer'
+p1257
+aS'KJ Garth'
+p1258
+aS'KJ Martin'
+p1259
+aS"KJ O'Brien"
+p1260
+aS'KL Rahul'
+p1261
+aS'KM Dabengwa'
+p1262
+aS'KM Jadhav'
+p1263
+aS'KM Jarvis'
+p1264
+aS'KMA Paul'
+p1265
+aS'KMDN Kulasekara'
+p1266
+aS'KOA Powell'
+p1267
+aS'KOK Williams'
+p1268
+aS'KP Pietersen'
+p1269
+aS'KS Lokuarachchi'
+p1270
+aS'KS Williamson'
+p1271
+aS'KT Perkins'
+p1272
+aS'KTGD Prasad'
+p1273
+aS'KW Richardson'
+p1274
+aS'Kainat Imtiaz'
+p1275
+aS'Kamran Akmal'
+p1276
+aS'Kamran Hussain'
+p1277
+aS'Karim Sadiq'
+p1278
+aS'Kaynat Hafeez'
+p1279
+aS'Khadija Tul Kubra'
+p1280
+aS'Khalid Latif'
+p1281
+aS'Khurram Manzoor'
+p1282
+aS'Khushdil Shah'
+p1283
+aS'Kycia A Knight'
+p1284
+aS'L Delany'
+p1285
+aS'L Gregory'
+p1286
+aS'L Lee'
+p1287
+aS'L Ngidi'
+p1288
+aS'L Ronchi'
+p1289
+aS'L Sipamla'
+p1290
+aS'L Vincent'
+p1291
+aS'L Winfield'
+p1292
+aS'L Wolvaardt'
+p1293
+aS'LA Dawson'
+p1294
+aS'LA Marsh'
+p1295
+aS'LAGL Kirby'
+p1296
+aS'LC Sthalekar'
+p1297
+aS'LD Chandimal'
+p1298
+aS'LD Madushanka'
+p1299
+aS'LE Bosman'
+p1300
+aS'LE Kaushalya'
+p1301
+aS'LE Plunkett'
+p1302
+aS'LH Ferguson'
+p1303
+aS'LJ Woodcock'
+p1304
+aS'LJ Wright'
+p1305
+aS'LK Ebsary'
+p1306
+aS"LK O'Reilly"
+p1307
+aS'LL Tsotsobe'
+p1308
+aS'LM Jongwe'
+p1309
+aS'LM Kasperek'
+p1310
+aS'LMM Tahuhu'
+p1311
+aS'LMP Simmons'
+p1312
+aS'LN McCarthy'
+p1313
+aS'LN Onyango'
+p1314
+aS'LN Roche'
+p1315
+aS'LPC Silva'
+p1316
+aS'LRPL Taylor'
+p1317
+aS'LS Baker'
+p1318
+aS'LS Greenway'
+p1319
+aS'Lata Mondal'
+p1320
+aS'Liton Das'
+p1321
+aS'M Bhanuka'
+p1322
+aS'M Daniels'
+p1323
+aS'M Joshi'
+p1324
+aS'M Kaif'
+p1325
+aS'M Kapp'
+p1326
+aS'M Kartik'
+p1327
+aS'M Klaas'
+p1328
+aS'M Morkel'
+p1329
+aS'M Muralitharan'
+p1330
+aS'M Ntini'
+p1331
+aS'M Raj'
+p1332
+aS'M du Preez'
+p1333
+aS'MA Leask'
+p1334
+aS'MA Ouma'
+p1335
+aS'MA Starc'
+p1336
+aS'MA Wood'
+p1337
+aS'MAA Sanjeewani'
+p1338
+aS'MADD Surangika'
+p1339
+aS'MD Gunathilaka'
+p1340
+aS'MD Shanaka'
+p1341
+aS'MDK Perera'
+p1342
+aS'MDKJ Perera'
+p1343
+aS'MDN Hansika'
+p1344
+aS'ME Trescothick'
+p1345
+aS'MEK Hussey'
+p1346
+aS'MEMO Scott-Hayward'
+p1347
+aS'MF Kendal'
+p1348
+aS'MF Maharoof'
+p1349
+aS'MG Johnson'
+p1350
+aS'MGMCP Gunawardene'
+p1351
+aS'MH Cross'
+p1352
+aS'MH Yardy'
+p1353
+aS'MJ Clarke'
+p1354
+aS'MJ Guptill'
+p1355
+aS'MJ Henry'
+p1356
+aS'MJ Lumb'
+p1357
+aS'MJ McClenaghan'
+p1358
+aS'MJ North'
+p1359
+aS'MJ Prior'
+p1360
+aS'MJ Santner'
+p1361
+aS'MJG Nielsen'
+p1362
+aS'ML Green'
+p1363
+aS'ML Hayden'
+p1364
+aS'ML Udawatte'
+p1365
+aS'MM Ali'
+p1366
+aS'MM Iqbal'
+p1367
+aS'MM Lanning'
+p1368
+aS'MM Patel'
+p1369
+aS'MN Samuels'
+p1370
+aS'MN Waller'
+p1371
+aS'MP Stoinis'
+p1372
+aS'MR Aguilleira'
+p1373
+aS'MR Marsh'
+p1374
+aS'MR Meshram'
+p1375
+aS'MRJ Watt'
+p1376
+aS'MS Atapattu'
+p1377
+aS'MS Chapman'
+p1378
+aS'MS Dhoni'
+p1379
+aS'MS Wade'
+p1380
+aS'MV Boucher'
+p1381
+aS'MV Waldron'
+p1382
+aS'MVT Fernando'
+p1383
+aS'MW Machan'
+p1384
+aS'Maham Tariq'
+p1385
+aS'Mahedi Hasan'
+p1386
+aS'Mahmudullah'
+p1387
+aS'Mansoor Amjad'
+p1388
+aS'Mariam Hasan'
+p1389
+aS'Marina Iqbal'
+p1390
+aS'Mashrafe Mortaza'
+p1391
+aS'Mehedi Hasan Miraz'
+p1392
+aS'Mirwais Ashraf'
+p1393
+aS'Misbah-ul-Haq'
+p1394
+aS'Mohammad Amir'
+p1395
+aS'Mohammad Ashraful'
+p1396
+aS'Mohammad Asif'
+p1397
+aS'Mohammad Hafeez'
+p1398
+aS'Mohammad Hasnain'
+p1399
+aS'Mohammad Irfan'
+p1400
+aS'Mohammad Mithun'
+p1401
+aS'Mohammad Nabi'
+p1402
+aS'Mohammad Naim'
+p1403
+aS'Mohammad Nawaz (3)'
+p1404
+aS'Mohammad Rizwan'
+p1405
+aS'Mohammad Saifuddin'
+p1406
+aS'Mohammad Salman'
+p1407
+aS'Mohammad Sami'
+p1408
+aS'Mohammad Shahzad'
+p1409
+aS'Mohammad Talha'
+p1410
+aS'Mohammad Yousuf'
+p1411
+aS'Mohammed Shami'
+p1412
+aS'Mominul Haque'
+p1413
+aS'Mosaddek Hossain'
+p1414
+aS'Mujeeb Ur Rahman'
+p1415
+aS'Mukhtar Ahmed'
+p1416
+aS'Muneeba Ali'
+p1417
+aS'Mushfiqur Rahim'
+p1418
+aS'Mustafizur Rahman'
+p1419
+aS'N Dickwella'
+p1420
+aS'N Niranjana'
+p1421
+aS'N Pooran'
+p1422
+aS'N Pradeep'
+p1423
+aS'N de Klerk'
+p1424
+aS'NA Moodley'
+p1425
+aS'NE Bolton'
+p1426
+aS'NE Farrant'
+p1427
+aS'NFI McCallum'
+p1428
+aS'NJ Astle'
+p1429
+aS'NJ Carey'
+p1430
+aS'NJ Maddinson'
+p1431
+aS"NJ O'Brien"
+p1432
+aS'NL McCullum'
+p1433
+aS'NLTC Perera'
+p1434
+aS'NM Carter'
+p1435
+aS'NM Coulter-Nile'
+p1436
+aS'NM Hauritz'
+p1437
+aS'NM Lyon'
+p1438
+aS'NN Odhiambo'
+p1439
+aS'NND de Silva'
+p1440
+aS'NO Miller'
+p1441
+aS'NR Sciver'
+p1442
+aS'NS Poonia'
+p1443
+aS'NT Broom'
+p1444
+aS'NW Bracken'
+p1445
+aS'NY McLean'
+p1446
+aS'Nadif Chowdhury'
+p1447
+aS'Naeem Islam'
+p1448
+aS'Nahida Akter'
+p1449
+aS'Nahida Khan'
+p1450
+aS'Nain Abidi'
+p1451
+aS'Najibullah Zadran'
+p1452
+aS'Nashra Sandhu'
+p1453
+aS'Nasir Hossain'
+p1454
+aS'Nasir Jamshed'
+p1455
+aS'Natalia Pervaiz'
+p1456
+aS'Nauman Anwar'
+p1457
+aS'Naumanullah'
+p1458
+aS'Naved-ul-Hasan'
+p1459
+aS'Nawroz Mangal'
+p1460
+aS'Nazimuddin'
+p1461
+aS'Nida Dar'
+p1462
+aS'Nigar Sultana'
+p1463
+aS'Noor Ali Zadran'
+p1464
+aS'OA Shah'
+p1465
+aS'OF Smith'
+p1466
+aS'OU Ranasinghe'
+p1467
+aS'P Kumar'
+p1468
+aS'P Utseya'
+p1469
+aS'PADLR Sandakan'
+p1470
+aS'PBB Rajapaksa'
+p1471
+aS'PC de Silva'
+p1472
+aS'PD Collingwood'
+p1473
+aS'PD McGlashan'
+p1474
+aS'PG Fulton'
+p1475
+aS'PG Raut'
+p1476
+aS'PJ Cummins'
+p1477
+aS'PJ Hughes'
+p1478
+aS'PJ Moor'
+p1479
+aS'PJ Ongondo'
+p1480
+aS'PKD Chase'
+p1481
+aS'PL Mommsen'
+p1482
+aS'PLS Gamage'
+p1483
+aS'PM Weerakkody'
+p1484
+aS'PP Chawla'
+p1485
+aS'PR Stirling'
+p1486
+aS'PRCS Kumarihami'
+p1487
+aS'PS Masvaure'
+p1488
+aS'PSP Handscomb'
+p1489
+aS'PVD Chameera'
+p1490
+aS'PWH de Silva'
+p1491
+aS'Panna Ghosh'
+p1492
+aS'Poonam Yadav'
+p1493
+aS'Q de Kock'
+p1494
+aS'Qanita Jalil'
+p1495
+aS'R Ashwin'
+p1496
+aS'R Clarke'
+p1497
+aS'R Dravid'
+p1498
+aS'R Malhotra'
+p1499
+aS'R McLaren'
+p1500
+aS'R Murray'
+p1501
+aS'R Mutumbami'
+p1502
+aS'R Ngarava'
+p1503
+aS'R Powell'
+p1504
+aS'R Rampaul'
+p1505
+aS'RA Jadeja'
+p1506
+aS'RA Rolfe'
+p1507
+aS'RAS Lakmal'
+p1508
+aS'RD Berrington'
+p1509
+aS'RE Levi'
+p1510
+aS'RE van der Merwe'
+p1511
+aS'RG Sharma'
+p1512
+aS'RH Priest'
+p1513
+aS'RJ Harris'
+p1514
+aS'RJ Nicol'
+p1515
+aS'RJ Peterson'
+p1516
+aS'RJW Topley'
+p1517
+aS'RK Kleinveldt'
+p1518
+aS'RL Bhudia'
+p1519
+aS'RL Haynes'
+p1520
+aS'RM Haq'
+p1521
+aS'RM West'
+p1522
+aS'RML Taylor'
+p1523
+aS'RP Arnold'
+p1524
+aS'RP Burl'
+p1525
+aS'RP Singh'
+p1526
+aS'RR Emrit'
+p1527
+aS'RR Hendricks'
+p1528
+aS'RR Patel'
+p1529
+aS'RR Powar'
+p1530
+aS'RR Rossouw'
+p1531
+aS'RR Sarwan'
+p1532
+aS'RR Watson'
+p1533
+aS'RS Bopara'
+p1534
+aS'RS Morton'
+p1535
+aS'RS Vandort'
+p1536
+aS'RT Ponting'
+p1537
+aS'RV Uthappa'
+p1538
+aS'RW Chakabva'
+p1539
+aS'RW Price'
+p1540
+aS'Rabiya Shah'
+p1541
+aS'Rafatullah Mohmand'
+p1542
+aS'Rahat Ali'
+p1543
+aS'Rahmat Shah'
+p1544
+aS'Rameen Shamim'
+p1545
+aS'Rameez Raja (2)'
+p1546
+aS'Raqibul Hasan'
+p1547
+aS'Rashid Khan'
+p1548
+aS'Raza Hasan'
+p1549
+aS'Ritu Moni'
+p1550
+aS'Rubel Hossain'
+p1551
+aS'Rumana Ahmed'
+p1552
+aS'Rumman Raees'
+p1553
+aS'S Badree'
+p1554
+aS'S Chanderpaul'
+p1555
+aS'S Chattergoon'
+p1556
+aS'S Dhawan'
+p1557
+aS'S Ecclestone'
+p1558
+aS'S Ismail'
+p1559
+aS'S Jafta'
+p1560
+aS'S Loubser'
+p1561
+aS'S Luus'
+p1562
+aS'S Mandhana'
+p1563
+aS'S Matsikenyeri'
+p1564
+aS'S Meghana'
+p1565
+aS'S Molineux'
+p1566
+aS'S Naik'
+p1567
+aS'S Pandey'
+p1568
+aS'S Prasanna'
+p1569
+aS'S Samarawickrama'
+p1570
+aS'S Sharma'
+p1571
+aS'S Sreesanth'
+p1572
+aS'S Verma'
+p1573
+aS'SA Abbott'
+p1574
+aS'SA Campbelle'
+p1575
+aS'SA Fritz'
+p1576
+aS'SACA King'
+p1577
+aS'SB Styris'
+p1578
+aS'SC Ganguly'
+p1579
+aS'SC Selman'
+p1580
+aS'SC Williams'
+p1581
+aS'SCJ Broad'
+p1582
+aS'SD Hope'
+p1583
+aS'SE Aley'
+p1584
+aS'SE Bond'
+p1585
+aS'SE Findlay'
+p1586
+aS'SE Marsh'
+p1587
+aS'SE Rowe'
+p1588
+aS'SF Mire'
+p1589
+aS'SFM Devine'
+p1590
+aS'SHA Rance'
+p1591
+aS'SHT Kandamby'
+p1592
+aS'SI Mahmood'
+p1593
+aS'SJ Benn'
+p1594
+aS'SJ McGlashan'
+p1595
+aS'SJ Taylor'
+p1596
+aS'SK Raina'
+p1597
+aS'SL Malinga'
+p1598
+aS'SL Quintyne'
+p1599
+aS'SM Davies'
+p1600
+aS'SM Kavanagh'
+p1601
+aS'SM Pollock'
+p1602
+aS'SM Sharif'
+p1603
+aS'SMA Priyanjan'
+p1604
+aS'SMSM Senanayake'
+p1605
+aS"SNJ O'Keefe"
+p1606
+aS'SO Hetmyer'
+p1607
+aS'SO Ngoche'
+p1608
+aS'SO Tikolo'
+p1609
+aS'SP Fleming'
+p1610
+aS'SP Narine'
+p1611
+aS'SPD Smith'
+p1612
+aS'SR Clark'
+p1613
+aS'SR Patel'
+p1614
+aS'SR Taylor'
+p1615
+aS'SR Tendulkar'
+p1616
+aS'SR Thompson'
+p1617
+aS'SR Waters'
+p1618
+aS'SR Watson'
+p1619
+aS'SRH Curtis'
+p1620
+aS'SS Connell'
+p1621
+aS'SS Pathirana'
+p1622
+aS'SS Weerakkody'
+p1623
+aS'ST Gabriel'
+p1624
+aS'ST Jayasuriya'
+p1625
+aS'SW Bates'
+p1626
+aS'SW Billings'
+p1627
+aS'SW Masakadza'
+p1628
+aS'SW Poynter'
+p1629
+aS'SW Tait'
+p1630
+aS'Saad Ali'
+p1631
+aS'Saad Nasim'
+p1632
+aS'Sabbir Rahman'
+p1633
+aS'Sadia Iqbal'
+p1634
+aS'Sadia Yousuf'
+p1635
+aS'Saeed Ajmal'
+p1636
+aS'Sahibzada Farhan'
+p1637
+aS'Salma Khatun'
+p1638
+aS'Salman Butt'
+p1639
+aS'Sami Aslam'
+p1640
+aS'Samiullah Shenwari'
+p1641
+aS'Sana Mir'
+p1642
+aS'Sania Khan'
+p1643
+aS'Sanjida Islam'
+p1644
+aS'Sarfraz Ahmed'
+p1645
+aS'Shadab Khan'
+p1646
+aS'Shafiul Islam'
+p1647
+aS'Shahadat Hossain'
+p1648
+aS'Shaheen Shah Afridi'
+p1649
+aS'Shahid Afridi'
+p1650
+aS'Shahriar Nafees'
+p1651
+aS'Shahzaib Hasan'
+p1652
+aS'Shaila Sharmin'
+p1653
+aS'Shakeel Ansar'
+p1654
+aS'Shakib Al Hasan'
+p1655
+aS'Shamima Sultana'
+p1656
+aS'Shamsur Rahman'
+p1657
+aS'Shan Masood'
+p1658
+aS'Shapoor Zadran'
+p1659
+aS'Sharjeel Khan'
+p1660
+aS'Sharmin Akhter'
+p1661
+aS'Sharmin Sultana'
+p1662
+aS'Shoaib Akhtar'
+p1663
+aS'Shoaib Khan jnr'
+p1664
+aS'Shoaib Malik'
+p1665
+aS'Shukhtara Rahman'
+p1666
+aS'Sidra Ameen'
+p1667
+aS'Sidra Nawaz'
+p1668
+aS'Sikandar Raza'
+p1669
+aS'Sohaib Maqsood'
+p1670
+aS'Sohail Khan'
+p1671
+aS'Sohail Tanvir'
+p1672
+aS'Soniya Dabir'
+p1673
+aS'Soumya Sarkar'
+p1674
+aS'Suhrawadi Shuvo'
+p1675
+aS'Sumaiya Siddiqi'
+p1676
+aS'Syed Rasel'
+p1677
+aS'Syeda Aroob Shah'
+p1678
+aS'T Banton'
+p1679
+aS'T Brits'
+p1680
+aS'T Chetty'
+p1681
+aS'T Maruma'
+p1682
+aS'T Mishra'
+p1683
+aS'T Mupariwa'
+p1684
+aS'T Panyangara'
+p1685
+aS'T Shamsi'
+p1686
+aS'T Taibu'
+p1687
+aS'T Thushara'
+p1688
+aS'TA Blundell'
+p1689
+aS'TA Boult'
+p1690
+aS'TAM Siriwardana'
+p1691
+aS'TC Bruce'
+p1692
+aS'TD Astle'
+p1693
+aS'TD Paine'
+p1694
+aS'TG Southee'
+p1695
+aS'TJ Murtagh'
+p1696
+aS'TK Curran'
+p1697
+aS'TK Musakanda'
+p1698
+aS'TL Best'
+p1699
+aS'TL Chatara'
+p1700
+aS'TL Seifert'
+p1701
+aS'TM Dilshan'
+p1702
+aS'TM Dowlin'
+p1703
+aS'TM Head'
+p1704
+aS'TM Odoyo'
+p1705
+aS'TMM Newton'
+p1706
+aS'TR Birt'
+p1707
+aS'TS Chisoro'
+p1708
+aS'TS Kamunhukamwe'
+p1709
+aS'TS Sekhukhune'
+p1710
+aS'TT Beaumont'
+p1711
+aS'TT Bresnan'
+p1712
+aS'TT Samaraweera'
+p1713
+aS'TWM Latham'
+p1714
+aS'Tamim Iqbal'
+p1715
+aS'Tanvir Ahmed (1)'
+p1716
+aS'Taufeeq Umar'
+p1717
+aS'Tazia Akhter'
+p1718
+aS'UT Khawaja'
+p1719
+aS'Umaima Sohail'
+p1720
+aS'Umar Akmal'
+p1721
+aS'Umar Amin'
+p1722
+aS'Umar Gul'
+p1723
+aS'Usman Salahuddin'
+p1724
+aS'Usman Shinwari'
+p1725
+aS'V Kohli'
+p1726
+aS'V Krishnamurthy'
+p1727
+aS'V Permaul'
+p1728
+aS'V Sehwag'
+p1729
+aS'V Shankar'
+p1730
+aS'V Sibanda'
+p1731
+aS'VD Philander'
+p1732
+aS'VR Vanitha'
+p1733
+aS'WB Rankin'
+p1734
+aS'WD Parnell'
+p1735
+aS'WIA Fernando'
+p1736
+aS'WK McCallan'
+p1737
+aS'WP Masakadza'
+p1738
+aS'WPUJC Vaas'
+p1739
+aS'WTS Porterfield'
+p1740
+aS'WU Tharanga'
+p1741
+aS'Wahab Riaz'
+p1742
+aS'XJ Doherty'
+p1743
+aS'XM Marshall'
+p1744
+aS'Y Venugopal Rao'
+p1745
+aS'YK Pathan'
+p1746
+aS'Yasir Arafat'
+p1747
+aS'Yasir Hameed'
+p1748
+aS'Yasir Shah'
+p1749
+aS'Younis Khan'
+p1750
+aS'Yuvraj Singh'
+p1751
+aS'Z Khan'
+p1752
+aS'Zafar Gohar'
+p1753
+aS'Ziaur Rahman'
+p1754
+aS'Zulfiqar Babar'
+p1755
+aS'Zulqarnain Haider'
+p1756
+atp1757
+bsg40
+g41
+sbsS'venue'
+p1758
+g5
+(g1
+g6
+Ntp1759
+Rp1760
+(dp1761
+g10
+g11
+(g12
+(I0
+tp1762
+g14
+tp1763
+Rp1764
+(I1
+(I107
+tp1765
+g21
+I00
+(lp1766
+S'AMI Stadium'
+p1767
+aS'Adelaide Oval'
+p1768
+aS'Arbab Niaz Stadium'
+p1769
+aS'Arnos Vale Ground, Kingstown'
+p1770
+aS'Asian Institute of Technology Ground'
+p1771
+aS'Basin Reserve'
+p1772
+aS'Bay Oval'
+p1773
+aS'Beausejour Stadium, Gros Islet'
+p1774
+aS'Bert Sutcliffe Oval'
+p1775
+aS'Brisbane Cricket Ground, Woolloongabba'
+p1776
+aS'Captain Roop Singh Stadium'
+p1777
+aS'Chevrolet Park'
+p1778
+aS'City Oval'
+p1779
+aS'Clontarf Cricket Club Ground'
+p1780
+aS'Colombo Cricket Club Ground'
+p1781
+aS'County Ground'
+p1782
+aS'County Ground, New Road'
+p1783
+aS'Dubai International Cricket Stadium'
+p1784
+aS'Dubai Sports City Cricket Stadium'
+p1785
+aS'Eden Gardens'
+p1786
+aS'Eden Park'
+p1787
+aS'Edgbaston'
+p1788
+aS'Feroz Shah Kotla'
+p1789
+aS'Gaddafi Stadium'
+p1790
+aS'Galle International Stadium'
+p1791
+aS'Grace Road'
+p1792
+aS'Grange Cricket Club Ground, Raeburn Place'
+p1793
+aS'Grange Cricket Club, Raeburn Place'
+p1794
+aS'Green Park'
+p1795
+aS'Guanggong International Cricket Stadium'
+p1796
+aS'Gymkhana Club Ground'
+p1797
+aS'Hagley Oval'
+p1798
+aS'Harare Sports Club'
+p1799
+aS'Haslegrave Ground'
+p1800
+aS'Headingley'
+p1801
+aS'ICC Academy'
+p1802
+aS'Iqbal Stadium'
+p1803
+aS'Kennington Oval'
+p1804
+aS'Kensington Oval, Bridgetown'
+p1805
+aS'Kerrydale Oval'
+p1806
+aS'Khan Shaheb Osman Ali Stadium'
+p1807
+aS'Kingsmead'
+p1808
+aS'Kinrara Academy Oval'
+p1809
+aS'LC de Villiers Oval'
+p1810
+aS"Lord's"
+p1811
+aS'Louth Cricket Club'
+p1812
+aS'M Chinnaswamy Stadium'
+p1813
+aS'MA Chidambaram Stadium, Chepauk'
+p1814
+aS'Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa'
+p1815
+aS'Manuka Oval'
+p1816
+aS'Maple Leaf North-West Ground'
+p1817
+aS'McLean Park'
+p1818
+aS'Melbourne Cricket Ground'
+p1819
+aS'Multan Cricket Stadium'
+p1820
+aS"National Cricket Stadium, St George's"
+p1821
+aS'National Stadium'
+p1822
+aS'Nehru Stadium'
+p1823
+aS'New Wanderers Stadium'
+p1824
+aS'Newlands'
+p1825
+aS'Niaz Stadium, Hyderabad'
+p1826
+aS'Nondescripts Cricket Club Ground'
+p1827
+aS'Observatory Lane, Rathmines'
+p1828
+aS'Old Trafford'
+p1829
+aS'P Sara Oval'
+p1830
+aS'Pallekele International Cricket Stadium'
+p1831
+aS'Perth Stadium'
+p1832
+aS'Peter Burge Oval'
+p1833
+aS'Providence Stadium'
+p1834
+aS'Punjab Cricket Association IS Bindra Stadium, Mohali'
+p1835
+aS'Punjab Cricket Association Stadium, Mohali'
+p1836
+aS"Queen's Park Oval, Port of Spain"
+p1837
+aS'Queens Sports Club'
+p1838
+aS'Queenstown Events Centre'
+p1839
+aS'R Premadasa Stadium'
+p1840
+aS'Rangiri Dambulla International Stadium'
+p1841
+aS'Rawalpindi Cricket Stadium'
+p1842
+aS'Riverside Ground'
+p1843
+aS'Sabina Park, Kingston'
+p1844
+aS'Sardar Patel Stadium, Motera'
+p1845
+aS'Sawai Mansingh Stadium'
+p1846
+aS'Saxton Oval'
+p1847
+aS'Seddon Park'
+p1848
+aS'Senwes Park'
+p1849
+aS'Sharjah Cricket Stadium'
+p1850
+aS'Sheikh Zayed Stadium'
+p1851
+aS'Sheikhupura Stadium'
+p1852
+aS'Shere Bangla National Stadium'
+p1853
+aS'Sinhalese Sports Club Ground'
+p1854
+aS'Sophia Gardens'
+p1855
+aS'Southend Club Cricket Stadium'
+p1856
+aS"St George's Park"
+p1857
+aS'SuperSport Park'
+p1858
+aS'Sydney Cricket Ground'
+p1859
+aS'Sydney Showground Stadium'
+p1860
+aS'Sylhet Stadium'
+p1861
+aS'The Cooper Associates County Ground'
+p1862
+aS'The Rose Bowl'
+p1863
+aS'The Village, Malahide'
+p1864
+aS'The Wanderers Stadium'
+p1865
+aS'Trent Bridge'
+p1866
+aS'University Oval'
+p1867
+aS'West End Park International Cricket Stadium'
+p1868
+aS'Western Australia Cricket Association Ground'
+p1869
+aS'Westpac Stadium'
+p1870
+aS'Willowmoore Park'
+p1871
+aS'YMCA Cricket Club'
+p1872
+aS'Zahur Ahmed Chowdhury Stadium'
+p1873
+atp1874
+bsg40
+g41
+sbsS'bat_team'
+p1875
+g5
+(g1
+g6
+Ntp1876
+Rp1877
+(dp1878
+g10
+g11
+(g12
+(I0
+tp1879
+g14
+tp1880
+Rp1881
+(I1
+(I14
+tp1882
+g21
+I00
+(lp1883
+S'Afghanistan'
+p1884
+aS'Australia'
+p1885
+aS'Bangladesh'
+p1886
+aS'England'
+p1887
+aS'India'
+p1888
+aS'Ireland'
+p1889
+aS'Kenya'
+p1890
+aS'New Zealand'
+p1891
+aS'Pakistan'
+p1892
+aS'Scotland'
+p1893
+aS'South Africa'
+p1894
+aS'Sri Lanka'
+p1895
+aS'West Indies'
+p1896
+aS'Zimbabwe'
+p1897
+atp1898
+bsg40
+g41
+sbsS'position'
+p1899
+g5
+(g1
+g6
+Ntp1900
+Rp1901
+(dp1902
+g10
+g11
+(g12
+(I0
+tp1903
+g14
+tp1904
+Rp1905
+(I1
+(I11
+tp1906
+g18
+(S'i8'
+p1907
+I0
+I1
+tp1908
+Rp1909
+(I3
+S'<'
+p1910
+NNNI-1
+I-1
+I0
+tp1911
+bI00
+S'\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00'
+p1912
+tp1913
+bsg40
+g41
+sbsS'month'
+p1914
+g5
+(g1
+g6
+Ntp1915
+Rp1916
+(dp1917
+g10
+g11
+(g12
+(I0
+tp1918
+g14
+tp1919
+Rp1920
+(I1
+(I12
+tp1921
+g21
+I00
+(lp1922
+S'April'
+p1923
+aS'August'
+p1924
+aS'December'
+p1925
+aS'February'
+p1926
+aS'January'
+p1927
+aS'July'
+p1928
+aS'June'
+p1929
+aS'March'
+p1930
+aS'May'
+p1931
+aS'November'
+p1932
+aS'October'
+p1933
+aS'September'
+p1934
+atp1935
+bsg40
+g41
+sbs.

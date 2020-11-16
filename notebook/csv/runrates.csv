@@ -1,0 +1,1105 @@
+id,month,city,match_type,batting_team,bowling_team,run_rate_first_ten,run_rate_second_ten,run_rate_third_ten,run_rate_forth_ten,run_rate_fifth_ten
+1,October,,ODI,Pakistan,West Indies,6,5,7,5,9
+2,October,,ODI,West Indies,Pakistan,5,4,4,8,5
+3,June,London,ODI,Pakistan,West Indies,2,4,4,3,3
+4,June,London,ODI,West Indies,Pakistan,5,3,3,5,0
+5,November,Abu Dhabi,ODI,Pakistan,West Indies,4,3,3,6,5
+6,November,Abu Dhabi,ODI,West Indies,Pakistan,3,3,4,5,4
+7,February,Christchurch,ODI,West Indies,Pakistan,4,4,6,5,10
+8,February,Christchurch,ODI,Pakistan,West Indies,2,6,4,2,0
+9,April,St Lucia,ODI,West Indies,Pakistan,5,3,4,4,3
+10,April,St Lucia,ODI,Pakistan,West Indies,3,3,4,5,4
+11,April,Guyana,ODI,Pakistan,West Indies,5,4,4,5,9
+12,April,Guyana,ODI,West Indies,Pakistan,5,3,5,5,1
+13,October,Abu Dhabi,ODI,Pakistan,West Indies,7,3,7,6,6
+14,October,Abu Dhabi,ODI,West Indies,Pakistan,4,3,3,3,1
+15,December,Karachi,ODI,West Indies,Pakistan,4,3,4,5,5
+16,December,Karachi,ODI,Pakistan,West Indies,4,5,5,4,3
+17,July,St Lucia,ODI,Pakistan,West Indies,3,3,3,5,7
+18,July,St Lucia,ODI,West Indies,Pakistan,4,2,4,3,8
+19,November,Abu Dhabi,ODI,West Indies,Pakistan,6,6,4,5,6
+20,November,Abu Dhabi,ODI,Pakistan,West Indies,4,4,6,6,7
+21,September,Johannesburg,ODI,West Indies,Pakistan,3,2,5,1,0
+22,September,Johannesburg,ODI,Pakistan,West Indies,4,3,5,0,0
+23,February,Dubai,ODI,Pakistan,West Indies,4,4,5,4,5
+24,February,Dubai,ODI,West Indies,Pakistan,2,4,4,3,5
+25,April,St Lucia,ODI,West Indies,Pakistan,3,3,3,4,7
+26,April,St Lucia,ODI,Pakistan,West Indies,6,4,5,5,0
+27,February,Dubai,ODI,West Indies,Pakistan,2,1,5,5,5
+28,February,Dubai,ODI,Pakistan,West Indies,2,2,1,0,0
+29,July,Guyana,ODI,Pakistan,West Indies,2,3,5,6,5
+30,July,Guyana,ODI,West Indies,Pakistan,2,2,1,4,0
+31,September,,ODI,Pakistan,West Indies,6,4,5,7,5
+32,September,,ODI,West Indies,Pakistan,3,3,6,4,0
+33,March,Jamaica,ODI,West Indies,Pakistan,4,2,4,5,7
+34,March,Jamaica,ODI,Pakistan,West Indies,4,2,4,3,4
+35,July,Leicester,ODI,West Indies,Pakistan,6,3,5,6,8
+36,July,Leicester,ODI,Pakistan,West Indies,5,4,1,0,0
+37,May,Barbados,ODI,Pakistan,West Indies,3,5,3,5,6
+38,May,Barbados,ODI,West Indies,Pakistan,7,4,3,0,0
+39,July,Guyana,ODI,West Indies,Pakistan,5,3,3,4,7
+40,July,Guyana,ODI,Pakistan,West Indies,3,3,4,4,3
+41,April,Barbados,ODI,West Indies,Pakistan,5,4,3,3,1
+42,April,Barbados,ODI,Pakistan,West Indies,4,3,4,5,0
+43,December,Lahore,ODI,West Indies,Pakistan,6,2,4,3,3
+44,December,Lahore,ODI,Pakistan,West Indies,5,6,5,2,0
+45,December,,ODI,Pakistan,West Indies,3,3,4,3,6
+46,December,,ODI,West Indies,Pakistan,4,7,5,3,0
+47,March,Mirpur,ODI,West Indies,Pakistan,1,3,3,2,0
+48,March,Mirpur,ODI,Pakistan,West Indies,6,4,0,0,0
+49,December,Faisalabad,ODI,West Indies,Pakistan,2,2,3,2,4
+50,December,Faisalabad,ODI,Pakistan,West Indies,4,1,3,2,3
+51,April,Guyana,ODI,West Indies,Pakistan,4,2,3,6,6
+52,April,Guyana,ODI,Pakistan,West Indies,4,4,6,5,2
+53,May,Nottingham,ODI,Pakistan,West Indies,5,5,0,0,0
+54,May,Nottingham,ODI,West Indies,Pakistan,7,3,0,0,0
+55,April,Guyana,ODI,Pakistan,West Indies,6,5,4,6,8
+56,April,Guyana,ODI,West Indies,Pakistan,5,3,6,7,8
+57,May,Guyana,ODI,Pakistan,West Indies,3,2,4,3,0
+58,May,Guyana,ODI,West Indies,Pakistan,5,6,1,0,0
+59,July,St Lucia,ODI,West Indies,Pakistan,3,4,5,6,7
+60,July,St Lucia,ODI,Pakistan,West Indies,4,6,8,0,0
+61,July,St Lucia,ODI,West Indies,Pakistan,4,3,3,4,8
+62,July,St Lucia,ODI,Pakistan,West Indies,5,2,4,5,6
+63,September,Cape Town,T20,New Zealand,Pakistan,7,6,0,0,0
+64,September,Cape Town,T20,Pakistan,New Zealand,7,6,0,0,0
+65,November,,T20,Pakistan,New Zealand,5,3,0,0,0
+66,November,,T20,New Zealand,Pakistan,9,0,0,0,0
+67,January,Auckland,T20,Pakistan,New Zealand,10,10,0,0,0
+68,January,Auckland,T20,New Zealand,Pakistan,8,7,0,0,0
+69,November,,T20,Pakistan,New Zealand,8,7,0,0,0
+70,November,,T20,New Zealand,Pakistan,6,4,0,0,0
+71,December,,T20,New Zealand,Pakistan,6,8,0,0,0
+72,December,,T20,Pakistan,New Zealand,6,6,0,0,0
+73,January,Auckland,T20,Pakistan,New Zealand,8,9,0,0,0
+74,January,Auckland,T20,New Zealand,Pakistan,9,6,0,0,0
+75,November,,T20,Pakistan,New Zealand,7,7,0,0,0
+76,November,,T20,New Zealand,Pakistan,6,8,0,0,0
+77,January,Wellington,T20,Pakistan,New Zealand,4,6,0,0,0
+78,January,Wellington,T20,New Zealand,Pakistan,5,4,0,0,0
+79,November,,T20,Pakistan,New Zealand,8,8,0,0,0
+80,November,,T20,New Zealand,Pakistan,8,3,0,0,0
+81,November,Nelson,T20,New Zealand,Pakistan,7,4,0,0,0
+82,November,Nelson,T20,Pakistan,New Zealand,5,5,0,0,0
+83,October,Abu Dhabi,T20,Pakistan,New Zealand,7,7,0,0,0
+84,October,Abu Dhabi,T20,New Zealand,Pakistan,7,7,0,0,0
+85,May,Barbados,T20,New Zealand,Pakistan,6,6,0,0,0
+86,May,Barbados,T20,Pakistan,New Zealand,6,7,0,0,0
+87,December,Christchurch,T20,Pakistan,New Zealand,9,9,0,0,0
+88,December,Christchurch,T20,New Zealand,Pakistan,5,2,0,0,0
+89,December,,T20,New Zealand,Pakistan,7,6,0,0,0
+90,December,,T20,Pakistan,New Zealand,7,6,0,0,0
+91,December,Hamilton,T20,New Zealand,Pakistan,9,9,0,0,0
+92,December,Hamilton,T20,Pakistan,New Zealand,8,6,0,0,0
+93,June,London,T20,New Zealand,Pakistan,6,3,0,0,0
+94,June,London,T20,Pakistan,New Zealand,8,1,0,0,0
+95,November,Guyana,T20,New Zealand,Pakistan,7,7,0,0,0
+96,November,Guyana,T20,Pakistan,New Zealand,6,2,0,0,0
+97,November,,T20,New Zealand,Pakistan,8,6,0,0,0
+98,November,,T20,Pakistan,New Zealand,6,4,0,0,0
+99,December,Auckland,T20,Pakistan,New Zealand,7,6,0,0,0
+100,December,Auckland,T20,New Zealand,Pakistan,9,4,0,0,0
+101,March,,T20,New Zealand,Pakistan,8,8,0,0,0
+102,March,,T20,Pakistan,New Zealand,5,5,0,0,0
+103,November,,T20,New Zealand,Pakistan,7,8,0,0,0
+104,November,,T20,Pakistan,New Zealand,8,7,0,0,0
+105,January,Hamilton,T20,Pakistan,New Zealand,6,10,0,0,0
+106,January,Hamilton,T20,New Zealand,Pakistan,9,8,0,0,0
+107,November,,T20,New Zealand,Pakistan,4,7,0,0,0
+108,November,,T20,Pakistan,New Zealand,5,2,0,0,0
+109,September,,T20,Pakistan,New Zealand,10,7,0,0,0
+110,September,,T20,New Zealand,Pakistan,7,9,0,0,0
+111,January,Mount Maunganui,T20,Pakistan,New Zealand,8,9,0,0,0
+112,January,Mount Maunganui,T20,New Zealand,Pakistan,7,8,0,0,0
+113,January,Wellington,T20,New Zealand,Pakistan,9,10,0,0,0
+114,January,Wellington,T20,Pakistan,New Zealand,7,2,0,0,0
+115,March,Chandigarh,T20,New Zealand,Pakistan,9,8,0,0,0
+116,March,Chandigarh,T20,Pakistan,New Zealand,9,6,0,0,0
+117,September,Manchester,T20,Pakistan,England,10,9,0,0,0
+118,September,Manchester,T20,England,Pakistan,9,9,0,0,0
+119,September,Manchester,T20,England,Pakistan,8,5,0,0,0
+120,September,Manchester,T20,Pakistan,England,10,3,0,0,0
+121,February,,T20,Pakistan,England,7,7,0,0,0
+122,February,,T20,England,Pakistan,6,6,0,0,0
+123,June,London,T20,England,Pakistan,10,8,0,0,0
+124,June,London,T20,Pakistan,England,7,6,0,0,0
+125,May,Cardiff,T20,Pakistan,England,9,8,0,0,0
+126,May,Cardiff,T20,England,Pakistan,8,9,0,0,0
+127,September,Loughborough,T20,Pakistan,England,3,5,0,0,0
+128,September,Loughborough,T20,England,Pakistan,5,3,0,0,0
+129,August,Manchester,T20,Pakistan,England,9,9,0,0,0
+130,August,Manchester,T20,England,Pakistan,9,10,0,0,0
+131,February,,T20,England,Pakistan,7,7,0,0,0
+132,February,,T20,Pakistan,England,6,8,0,0,0
+133,February,Abu Dhabi,T20,England,Pakistan,6,6,0,0,0
+134,February,Abu Dhabi,T20,Pakistan,England,6,5,0,0,0
+135,December,Kuala Lumpur,T20,England,Pakistan,9,7,0,0,0
+136,December,Kuala Lumpur,T20,Pakistan,England,6,7,0,0,0
+137,July,Southampton,T20,England,Pakistan,8,5,0,0,0
+138,July,Southampton,T20,Pakistan,England,6,3,0,0,0
+139,February,,T20,Pakistan,England,5,7,0,0,0
+140,February,,T20,England,Pakistan,5,7,0,0,0
+141,August,Bristol,T20,England,Pakistan,7,7,0,0,0
+142,August,Bristol,T20,Pakistan,England,9,4,0,0,0
+143,February,,T20,England,Pakistan,8,6,0,0,0
+144,February,,T20,Pakistan,England,5,5,0,0,0
+145,May,Barbados,T20,Pakistan,England,7,6,0,0,0
+146,May,Barbados,T20,England,Pakistan,8,6,0,0,0
+147,September,Cardiff,T20,Pakistan,England,6,6,0,0,0
+148,September,Cardiff,T20,England,Pakistan,7,5,0,0,0
+149,December,Kuala Lumpur,T20,England,Pakistan,7,7,0,0,0
+150,December,Kuala Lumpur,T20,Pakistan,England,7,5,0,0,0
+151,December,Kuala Lumpur,T20,England,Pakistan,11,6,0,0,0
+152,December,Kuala Lumpur,T20,Pakistan,England,5,4,0,0,0
+153,March,Chennai,T20,England,Pakistan,7,7,0,0,0
+154,March,Chennai,T20,Pakistan,England,5,2,0,0,0
+155,August,Manchester,T20,England,Pakistan,9,3,0,0,0
+156,July,Chelmsford,T20,England,Pakistan,8,8,0,0,0
+157,July,Chelmsford,T20,Pakistan,England,6,5,0,0,0
+158,September,Cardiff,T20,Pakistan,England,4,4,0,0,0
+159,September,Cardiff,T20,England,Pakistan,6,2,0,0,0
+160,July,Loughborough,T20,Pakistan,England,5,6,0,0,0
+161,July,Loughborough,T20,England,Pakistan,5,6,0,0,0
+162,July,Bristol,T20,England,Pakistan,9,9,0,0,0
+163,July,Bristol,T20,Pakistan,England,5,6,0,0,0
+164,February,Canberra,T20,England,Pakistan,8,7,0,0,0
+165,February,Canberra,T20,Pakistan,England,5,6,0,0,0
+166,July,Loughborough,T20,England,Pakistan,8,6,0,0,0
+167,July,Loughborough,T20,Pakistan,England,3,3,0,0,0
+168,September,Loughborough,T20,England,Pakistan,8,7,0,0,0
+169,September,Loughborough,T20,Pakistan,England,4,4,0,0,0
+170,November,,T20,England,Pakistan,7,8,0,0,0
+171,November,,T20,Pakistan,England,6,7,0,0,0
+172,November,,T20,England,Pakistan,7,7,0,0,0
+173,November,,T20,Pakistan,England,6,8,0,0,0
+174,November,,T20,Pakistan,England,0,0,0,0,0
+175,November,,T20,England,Pakistan,0,0,0,0,0
+176,November,,T20,England,Pakistan,7,9,0,0,0
+177,November,,T20,Pakistan,England,8,8,0,0,0
+178,September,,T20,England,Pakistan,8,4,0,0,0
+179,September,,T20,Pakistan,England,5,3,0,0,0
+180,January,Dunedin,ODI,New Zealand,Pakistan,4,4,5,5,5
+181,January,Dunedin,ODI,Pakistan,New Zealand,1,2,3,0,0
+182,December,,ODI,Pakistan,New Zealand,6,5,5,7,11
+183,December,,ODI,New Zealand,Pakistan,5,6,5,4,0
+184,January,Christchurch,ODI,Pakistan,New Zealand,4,4,4,4,12
+185,January,Christchurch,ODI,New Zealand,Pakistan,6,3,5,3,5
+186,November,,ODI,Pakistan,New Zealand,2,4,3,2,2
+187,November,,ODI,New Zealand,Pakistan,6,6,1,0,0
+188,January,Wellington,ODI,Pakistan,New Zealand,3,4,3,7,2
+189,January,Wellington,ODI,New Zealand,Pakistan,7,4,4,5,0
+190,November,Abu Dhabi,ODI,New Zealand,Pakistan,7,4,4,3,2
+191,November,Abu Dhabi,ODI,Pakistan,New Zealand,5,3,1,6,4
+192,January,Wellington,ODI,New Zealand,Pakistan,6,4,6,5,7
+193,January,Wellington,ODI,Pakistan,New Zealand,4,5,6,0,0
+194,October,Chandigarh,ODI,New Zealand,Pakistan,4,3,3,5,9
+195,October,Chandigarh,ODI,Pakistan,New Zealand,6,4,4,4,2
+196,January,Hamilton,ODI,Pakistan,New Zealand,5,4,3,5,8
+197,January,Hamilton,ODI,New Zealand,Pakistan,6,3,3,7,4
+198,October,Johannesburg,ODI,Pakistan,New Zealand,5,3,4,5,5
+199,October,Johannesburg,ODI,New Zealand,Pakistan,4,4,4,3,6
+200,January,,ODI,Pakistan,New Zealand,3,0,0,0,0
+201,February,Auckland,ODI,New Zealand,Pakistan,7,5,4,4,9
+202,February,Auckland,ODI,Pakistan,New Zealand,5,5,6,6,1
+203,February,Napier,ODI,New Zealand,Pakistan,4,3,4,5,7
+204,February,Napier,ODI,Pakistan,New Zealand,5,3,5,4,7
+205,November,Abu Dhabi,ODI,Pakistan,New Zealand,2,3,6,5,10
+206,November,Abu Dhabi,ODI,New Zealand,Pakistan,3,5,3,2,0
+207,July,Taunton,ODI,Pakistan,New Zealand,4,2,2,4,0
+208,July,Taunton,ODI,New Zealand,Pakistan,9,5,0,0,0
+209,June,Birmingham,ODI,New Zealand,Pakistan,4,2,2,5,8
+210,June,Birmingham,ODI,Pakistan,New Zealand,4,4,4,5,5
+211,November,Abu Dhabi,ODI,New Zealand,Pakistan,5,2,3,3,5
+212,November,Abu Dhabi,ODI,Pakistan,New Zealand,4,5,6,4,0
+213,December,Abu Dhabi,ODI,New Zealand,Pakistan,5,5,3,7,7
+214,December,Abu Dhabi,ODI,Pakistan,New Zealand,3,4,4,9,6
+215,November,,ODI,Pakistan,New Zealand,5,4,5,5,7
+216,November,,ODI,New Zealand,Pakistan,3,0,0,0,0
+217,December,Abu Dhabi,ODI,New Zealand,Pakistan,4,5,3,6,7
+218,December,Abu Dhabi,ODI,Pakistan,New Zealand,3,4,4,6,2
+219,December,,ODI,New Zealand,Pakistan,5,3,3,5,7
+220,December,,ODI,Pakistan,New Zealand,3,2,6,5,6
+221,November,Abu Dhabi,ODI,New Zealand,Pakistan,5,4,4,7,5
+222,November,Abu Dhabi,ODI,Pakistan,New Zealand,4,3,4,6,3
+223,January,Wellington,ODI,Pakistan,New Zealand,3,3,3,2,0
+224,January,Wellington,ODI,New Zealand,Pakistan,8,4,0,0,0
+225,February,Napier,ODI,New Zealand,Pakistan,5,6,6,7,11
+226,February,Napier,ODI,Pakistan,New Zealand,5,6,6,5,1
+227,January,Wellington,ODI,New Zealand,Pakistan,4,4,4,5,9
+228,January,Wellington,ODI,Pakistan,New Zealand,3,5,5,4,2
+229,January,Nelson,ODI,Pakistan,New Zealand,4,4,4,3,8
+230,January,Nelson,ODI,New Zealand,Pakistan,4,8,1,0,0
+231,November,Lincoln,ODI,New Zealand,Pakistan,5,3,5,7,8
+232,November,Lincoln,ODI,Pakistan,New Zealand,4,4,3,2,0
+233,October,,ODI,New Zealand,Pakistan,5,5,3,4,4
+234,October,,ODI,Pakistan,New Zealand,5,4,4,4,4
+235,December,,ODI,Pakistan,New Zealand,5,4,4,7,4
+236,December,,ODI,New Zealand,Pakistan,6,4,4,5,4
+237,March,,ODI,New Zealand,Pakistan,4,3,4,4,12
+238,March,,ODI,Pakistan,New Zealand,3,4,3,7,0
+239,November,Abu Dhabi,ODI,New Zealand,Pakistan,6,6,4,5,7
+240,November,Abu Dhabi,ODI,Pakistan,New Zealand,5,4,3,6,3
+241,November,Lincoln,ODI,Pakistan,New Zealand,5,4,5,6,5
+242,November,Lincoln,ODI,New Zealand,Pakistan,4,4,7,7,2
+243,November,,ODI,New Zealand,Pakistan,3,3,5,2,1
+244,November,,ODI,Pakistan,New Zealand,3,4,3,2,2
+245,February,Hamilton,ODI,Pakistan,New Zealand,4,5,5,6,6
+246,February,Hamilton,ODI,New Zealand,Pakistan,4,4,4,5,3
+247,January,Wellington,ODI,New Zealand,Pakistan,7,4,3,6,5
+248,January,Wellington,ODI,Pakistan,New Zealand,3,4,3,6,7
+249,January,Auckland,ODI,Pakistan,New Zealand,6,7,7,4,2
+250,January,Auckland,ODI,New Zealand,Pakistan,5,6,6,6,1
+251,November,Nelson,ODI,Pakistan,New Zealand,4,3,3,1,2
+252,November,Nelson,ODI,New Zealand,Pakistan,7,8,0,0,0
+253,April,Karachi,T20,Pakistan,West Indies,10,10,0,0,0
+254,April,Karachi,T20,West Indies,Pakistan,5,6,0,0,0
+255,February,Karachi,T20,Pakistan,West Indies,7,7,0,0,0
+256,February,Karachi,T20,West Indies,Pakistan,7,6,0,0,0
+257,February,Karachi,T20,Pakistan,West Indies,6,7,0,0,0
+258,February,Karachi,T20,West Indies,Pakistan,6,6,0,0,0
+259,February,Karachi,T20,West Indies,Pakistan,1,0,0,0,0
+260,February,Karachi,T20,Pakistan,West Indies,0,0,0,0,0
+261,April,Karachi,T20,West Indies,Pakistan,7,8,0,0,0
+262,April,Karachi,T20,Pakistan,West Indies,9,5,0,0,0
+263,April,Karachi,T20,Pakistan,West Indies,10,10,0,0,0
+264,April,Karachi,T20,West Indies,Pakistan,4,1,0,0,0
+265,February,Canberra,T20,West Indies,Pakistan,5,7,0,0,0
+266,February,Canberra,T20,Pakistan,West Indies,7,5,0,0,0
+267,March,Trinidad,T20,Pakistan,West Indies,5,8,0,0,0
+268,March,Trinidad,T20,West Indies,Pakistan,7,5,0,0,0
+269,April,St Lucia,T20,West Indies,Pakistan,8,6,0,0,0
+270,April,St Lucia,T20,Pakistan,West Indies,7,6,0,0,0
+271,January,Karachi,T20,West Indies,Pakistan,6,9,0,0,0
+272,January,Karachi,T20,Pakistan,West Indies,6,2,0,0,0
+273,July,St Vincent,T20,West Indies,Pakistan,6,8,0,0,0
+274,July,St Vincent,T20,Pakistan,West Indies,8,7,0,0,0
+275,March,Chennai,T20,West Indies,Pakistan,5,5,0,0,0
+276,March,Chennai,T20,Pakistan,West Indies,4,5,0,0,0
+277,September,,T20,Pakistan,West Indies,8,7,0,0,0
+278,September,,T20,West Indies,Pakistan,5,9,0,0,0
+279,April,Mirpur,T20,West Indies,Pakistan,6,9,0,0,0
+280,April,Mirpur,T20,Pakistan,West Indies,4,4,0,0,0
+281,July,St Vincent,T20,Pakistan,West Indies,6,6,0,0,0
+282,July,St Vincent,T20,West Indies,Pakistan,4,8,0,0,0
+283,October,Grenada,T20,Pakistan,West Indies,3,3,0,0,0
+284,October,Grenada,T20,West Indies,Pakistan,4,2,0,0,0
+285,March,Barbados,T20,West Indies,Pakistan,4,6,0,0,0
+286,March,Barbados,T20,Pakistan,West Indies,6,5,0,0,0
+287,September,,T20,West Indies,Pakistan,4,6,0,0,0
+288,September,,T20,Pakistan,West Indies,8,3,0,0,0
+289,April,Trinidad,T20,West Indies,Pakistan,5,6,0,0,0
+290,April,Trinidad,T20,Pakistan,West Indies,7,5,0,0,0
+291,September,Abu Dhabi,T20,West Indies,Pakistan,5,4,0,0,0
+292,September,Abu Dhabi,T20,Pakistan,West Indies,7,3,0,0,0
+293,April,Trinidad,T20,Pakistan,West Indies,8,5,0,0,0
+294,April,Trinidad,T20,West Indies,Pakistan,8,5,0,0,0
+295,February,Abu Dhabi,ODI,England,Pakistan,5,4,4,5,5
+296,February,Abu Dhabi,ODI,Pakistan,England,3,5,4,5,4
+297,July,Loughborough,ODI,Pakistan,England,2,2,1,4,4
+298,July,Loughborough,ODI,England,Pakistan,5,4,4,2,0
+299,September,Southampton,ODI,England,Pakistan,6,4,4,5,6
+300,September,Southampton,ODI,Pakistan,England,4,6,4,6,5
+301,August,Nottingham,ODI,England,Pakistan,6,6,8,10,12
+302,August,Nottingham,ODI,Pakistan,England,8,4,4,8,1
+303,September,Leeds,ODI,Pakistan,England,4,5,4,3,6
+304,September,Leeds,ODI,England,Pakistan,5,4,6,3,4
+305,December,Kuala Lumpur,ODI,England,Pakistan,6,4,6,5,5
+306,December,Kuala Lumpur,ODI,Pakistan,England,3,3,5,6,1
+307,June,Leicester,ODI,England,Pakistan,4,6,8,8,9
+308,June,Leicester,ODI,Pakistan,England,3,4,2,0,0
+309,August,Cardiff,ODI,England,Pakistan,4,4,4,4,3
+310,August,Cardiff,ODI,Pakistan,England,4,0,0,0,0
+311,May,London,ODI,Pakistan,England,4,4,0,0,0
+312,November,,ODI,England,Pakistan,5,4,6,6,12
+313,November,,ODI,Pakistan,England,7,6,7,5,0
+314,November,Abu Dhabi,ODI,England,Pakistan,5,5,4,3,3
+315,November,Abu Dhabi,ODI,Pakistan,England,4,5,4,5,2
+316,September,Southampton,ODI,England,Pakistan,4,3,4,5,7
+317,September,Southampton,ODI,Pakistan,England,6,2,2,2,0
+318,August,Southampton,ODI,Pakistan,England,4,5,4,6,5
+319,August,Southampton,ODI,England,Pakistan,7,5,3,2,0
+320,May,Southampton,ODI,England,Pakistan,6,6,6,8,10
+321,May,Southampton,ODI,Pakistan,England,7,6,7,7,7
+322,September,Chester-le-Street,ODI,England,Pakistan,6,6,5,8,0
+323,September,Chester-le-Street,ODI,Pakistan,England,5,5,6,7,0
+324,May,Nottingham,ODI,Pakistan,England,6,5,6,8,7
+325,May,Nottingham,ODI,England,Pakistan,7,7,6,4,8
+326,May,Leeds,ODI,England,Pakistan,10,5,7,5,7
+327,May,Leeds,ODI,Pakistan,England,6,5,7,6,4
+328,December,Kuala Lumpur,ODI,Pakistan,England,5,4,2,2,0
+329,February,Abu Dhabi,ODI,England,Pakistan,5,3,5,5,6
+330,February,Abu Dhabi,ODI,Pakistan,England,4,3,4,1,0
+331,November,Abu Dhabi,ODI,England,Pakistan,6,5,5,6,5
+332,November,Abu Dhabi,ODI,Pakistan,England,2,3,3,5,3
+333,June,Nottingham,ODI,Pakistan,England,7,4,7,7,8
+334,June,Nottingham,ODI,England,Pakistan,6,5,8,6,7
+335,February,,ODI,Pakistan,England,4,5,3,5,5
+336,February,,ODI,England,Pakistan,4,5,4,3,6
+337,November,,ODI,Pakistan,England,4,5,3,2,4
+338,November,,ODI,England,Pakistan,4,4,5,6,0
+339,September,Cardiff,ODI,England,Pakistan,7,5,5,7,4
+340,September,Cardiff,ODI,Pakistan,England,6,5,7,6,4
+341,September,Nottingham,ODI,Pakistan,England,4,3,3,3,8
+342,September,Nottingham,ODI,England,Pakistan,4,5,4,5,3
+343,July,,ODI,England,Pakistan,2,4,4,4,6
+344,July,,ODI,Pakistan,England,4,2,2,1,0
+345,June,Cardiff,ODI,England,Pakistan,5,3,4,3,3
+346,June,Cardiff,ODI,Pakistan,England,5,6,5,4,0
+347,September,London,ODI,England,Pakistan,2,5,4,4,0
+348,September,London,ODI,Pakistan,England,3,4,5,4,0
+349,September,Leeds,ODI,Pakistan,England,6,5,4,6,6
+350,September,Leeds,ODI,England,Pakistan,6,5,6,4,6
+351,June,Taunton,ODI,England,Pakistan,5,4,5,8,11
+352,June,Taunton,ODI,Pakistan,England,3,5,3,4,0
+353,September,London,ODI,Pakistan,England,3,5,4,6,5
+354,September,London,ODI,England,Pakistan,5,4,6,4,1
+355,June,Leicester,ODI,Pakistan,England,3,4,2,4,2
+356,June,Leicester,ODI,England,Pakistan,5,4,6,0,0
+357,February,,ODI,Pakistan,England,5,4,4,4,4
+358,February,,ODI,England,Pakistan,6,5,6,4,0
+359,September,Birmingham,ODI,Pakistan,England,3,3,2,3,2
+360,September,Birmingham,ODI,England,Pakistan,5,5,4,0,0
+361,May,Bristol,ODI,Pakistan,England,6,5,7,8,8
+362,May,Bristol,ODI,England,Pakistan,8,10,6,7,3
+363,December,Kuala Lumpur,ODI,England,Pakistan,5,5,4,8,9
+364,December,Kuala Lumpur,ODI,Pakistan,England,4,5,4,4,1
+365,September,London,ODI,Pakistan,England,5,4,4,5,7
+366,September,London,ODI,England,Pakistan,7,4,3,4,3
+367,June,Worcester,ODI,England,Pakistan,7,5,5,6,12
+368,June,Worcester,ODI,Pakistan,England,3,4,4,3,1
+369,August,London,ODI,Pakistan,England,5,5,3,5,6
+370,August,London,ODI,England,Pakistan,4,5,5,7,3
+371,October,Lahore,T20,Pakistan,Bangladesh,6,5,0,0,0
+372,October,Lahore,T20,Bangladesh,Pakistan,4,7,0,0,0
+373,January,Lahore,T20,Bangladesh,Pakistan,7,7,0,0,0
+374,January,Lahore,T20,Pakistan,Bangladesh,7,6,0,0,0
+375,October,Karachi,T20,Pakistan,Bangladesh,4,6,0,0,0
+376,October,Karachi,T20,Bangladesh,Pakistan,3,4,0,0,0
+377,May,St Lucia,T20,Pakistan,Bangladesh,9,8,0,0,0
+378,May,St Lucia,T20,Bangladesh,Pakistan,7,7,0,0,0
+379,November,Mirpur,T20,Pakistan,Bangladesh,7,5,0,0,0
+380,November,Mirpur,T20,Bangladesh,Pakistan,3,4,0,0,0
+381,September,Nairobi,T20,Pakistan,Bangladesh,10,9,0,0,0
+382,September,Nairobi,T20,Bangladesh,Pakistan,10,5,0,0,0
+383,April,Karachi,T20,Pakistan,Bangladesh,10,10,0,0,0
+384,April,Karachi,T20,Bangladesh,Pakistan,8,1,0,0,0
+385,March,Delhi,T20,Bangladesh,Pakistan,4,6,0,0,0
+386,March,Delhi,T20,Pakistan,Bangladesh,7,4,0,0,0
+387,March,Mirpur,T20,Pakistan,Bangladesh,8,10,0,0,0
+388,March,Mirpur,T20,Bangladesh,Pakistan,5,8,0,0,0
+389,January,Lahore,T20,Bangladesh,Pakistan,6,7,0,0,0
+390,January,Lahore,T20,Pakistan,Bangladesh,7,5,0,0,0
+391,April,Mirpur,T20,Pakistan,Bangladesh,6,7,0,0,0
+392,April,Mirpur,T20,Bangladesh,Pakistan,8,5,0,0,0
+393,October,,T20,Bangladesh,Pakistan,4,4,0,0,0
+394,October,,T20,Pakistan,Bangladesh,5,2,0,0,0
+395,June,Kuala Lumpur,T20,Pakistan,Bangladesh,5,4,0,0,0
+396,June,Kuala Lumpur,T20,Bangladesh,Pakistan,4,4,0,0,0
+397,September,Karachi,T20,Pakistan,Bangladesh,6,5,0,0,0
+398,September,Karachi,T20,Bangladesh,Pakistan,5,4,0,0,0
+399,March,Kolkata,T20,Pakistan,Bangladesh,9,10,0,0,0
+400,March,Kolkata,T20,Bangladesh,Pakistan,7,7,0,0,0
+401,March,Mirpur,T20,Pakistan,Bangladesh,4,8,0,0,0
+402,March,Mirpur,T20,Bangladesh,Pakistan,7,5,0,0,0
+403,September,Cape Town,T20,Bangladesh,Pakistan,8,5,0,0,0
+404,September,Cape Town,T20,Pakistan,Bangladesh,8,6,0,0,0
+405,September,,T20,Bangladesh,Pakistan,10,7,0,0,0
+406,September,,T20,Pakistan,Bangladesh,10,7,0,0,0
+407,September,Nairobi,T20,Kenya,Pakistan,4,4,0,0,0
+408,September,Nairobi,T20,Pakistan,Kenya,7,1,0,0,0
+409,July,Dublin,T20,Pakistan,Ireland,7,7,0,0,0
+410,July,Dublin,T20,Ireland,Pakistan,7,3,0,0,0
+411,January,Doha,T20,Pakistan,Ireland,3,5,0,0,0
+412,January,Doha,T20,Ireland,Pakistan,4,4,0,0,0
+413,June,London,T20,Pakistan,Ireland,9,6,0,0,0
+414,June,London,T20,Ireland,Pakistan,7,4,0,0,0
+415,March,,T20,Pakistan,Ireland,5,6,0,0,0
+416,March,,T20,Ireland,Pakistan,5,5,0,0,0
+417,November,Guyana,T20,Pakistan,Ireland,5,8,0,0,0
+418,November,Guyana,T20,Ireland,Pakistan,5,4,0,0,0
+419,July,Dublin,T20,Ireland,Pakistan,2,3,0,0,0
+420,July,Dublin,T20,Pakistan,Ireland,5,1,0,0,0
+421,October,,ODI,Pakistan,South Africa,2,4,5,4,6
+422,October,,ODI,South Africa,Pakistan,6,4,6,4,0
+423,May,Benoni,ODI,South Africa,Pakistan,6,3,3,5,7
+424,May,Benoni,ODI,Pakistan,South Africa,4,3,5,5,7
+425,November,,ODI,South Africa,Pakistan,5,3,4,4,10
+426,November,,ODI,Pakistan,South Africa,2,4,5,2,0
+427,January,Johannesburg,ODI,South Africa,Pakistan,4,5,3,3,0
+428,January,Johannesburg,ODI,Pakistan,South Africa,5,5,5,0,0
+429,February,Durban,ODI,Pakistan,South Africa,8,4,6,5,10
+430,February,Durban,ODI,South Africa,Pakistan,6,5,5,3,0
+431,March,,ODI,Pakistan,South Africa,3,2,2,2,3
+432,March,,ODI,South Africa,Pakistan,3,3,4,1,2
+433,March,Bloemfontein,ODI,South Africa,Pakistan,5,5,6,6,8
+434,March,Bloemfontein,ODI,Pakistan,South Africa,5,3,6,4,0
+435,March,Johannesburg,ODI,South Africa,Pakistan,3,6,6,9,8
+436,March,Johannesburg,ODI,Pakistan,South Africa,5,6,7,7,3
+437,November,Abu Dhabi,ODI,South Africa,Pakistan,5,5,4,5,6
+438,November,Abu Dhabi,ODI,Pakistan,South Africa,3,4,4,6,3
+439,January,Port Elizabeth,ODI,South Africa,Pakistan,5,3,5,5,7
+440,January,Port Elizabeth,ODI,Pakistan,South Africa,6,5,4,6,4
+441,November,Cape Town,ODI,Pakistan,South Africa,3,3,3,5,6
+442,November,Cape Town,ODI,South Africa,Pakistan,5,2,4,3,3
+443,February,Port Elizabeth,ODI,Pakistan,South Africa,3,3,4,6,6
+444,October,Lahore,ODI,South Africa,Pakistan,5,3,4,4,5
+445,October,Lahore,ODI,Pakistan,South Africa,5,4,5,4,2
+446,June,Leicester,ODI,Pakistan,South Africa,4,2,4,4,4
+447,June,Leicester,ODI,South Africa,Pakistan,5,3,4,3,4
+448,May,Potchefstroom,ODI,Pakistan,South Africa,4,3,4,2,0
+449,May,Potchefstroom,ODI,South Africa,Pakistan,4,4,2,2,0
+450,February,Colombo,ODI,South Africa,Pakistan,5,5,4,5,6
+451,February,Colombo,ODI,Pakistan,South Africa,3,4,3,3,4
+452,October,Abu Dhabi,ODI,South Africa,Pakistan,6,4,5,5,6
+453,October,Abu Dhabi,ODI,Pakistan,South Africa,4,4,5,7,7
+454,June,Birmingham,ODI,South Africa,Pakistan,3,4,6,4,4
+455,June,Birmingham,ODI,Pakistan,South Africa,2,2,4,5,2
+456,February,Cape Town,ODI,Pakistan,South Africa,1,3,3,2,0
+457,February,Cape Town,ODI,South Africa,Pakistan,7,3,0,0,0
+458,March,Centurion,ODI,South Africa,Pakistan,6,4,3,4,0
+459,March,Centurion,ODI,Pakistan,South Africa,4,4,4,6,0
+460,January,Durban,ODI,Pakistan,South Africa,4,3,2,6,3
+461,January,Durban,ODI,South Africa,Pakistan,5,4,5,4,1
+462,June,Birmingham,ODI,South Africa,Pakistan,5,3,3,3,5
+463,June,Birmingham,ODI,Pakistan,South Africa,4,3,4,0,0
+464,October,Lahore,ODI,Pakistan,South Africa,3,4,6,4,7
+465,October,Lahore,ODI,South Africa,Pakistan,5,3,3,6,5
+466,November,,ODI,South Africa,Pakistan,3,5,4,3,6
+467,November,,ODI,Pakistan,South Africa,2,3,5,3,7
+468,February,Centurion,ODI,South Africa,Pakistan,6,8,5,4,14
+469,February,Centurion,ODI,Pakistan,South Africa,7,5,2,4,2
+470,October,,ODI,South Africa,Pakistan,4,2,4,3,3
+471,October,,ODI,Pakistan,South Africa,2,5,3,5,1
+472,November,Centurion,ODI,Pakistan,South Africa,4,3,2,4,3
+473,November,Centurion,ODI,South Africa,Pakistan,4,4,4,3,0
+474,March,Benoni,ODI,Pakistan,South Africa,3,4,4,3,3
+475,March,Benoni,ODI,South Africa,Pakistan,3,4,6,4,2
+476,November,Port Elizabeth,ODI,Pakistan,South Africa,4,5,6,5,4
+477,November,Port Elizabeth,ODI,South Africa,Pakistan,3,5,5,8,2
+478,March,Auckland,ODI,Pakistan,South Africa,4,6,4,5,1
+479,March,Auckland,ODI,South Africa,Pakistan,6,5,6,1,0
+480,October,Chandigarh,ODI,South Africa,Pakistan,3,3,4,4,5
+481,October,Chandigarh,ODI,Pakistan,South Africa,2,4,1,0,0
+482,November,,ODI,South Africa,Pakistan,5,4,5,3,8
+483,November,,ODI,Pakistan,South Africa,6,4,5,4,6
+484,October,Faisalabad,ODI,South Africa,Pakistan,4,3,3,4,3
+485,October,Faisalabad,ODI,Pakistan,South Africa,5,2,3,3,4
+486,March,Durban,ODI,South Africa,Pakistan,4,5,4,4,5
+487,March,Durban,ODI,Pakistan,South Africa,3,3,5,6,5
+488,May,Potchefstroom,ODI,South Africa,Pakistan,4,1,0,0,0
+489,May,Potchefstroom,ODI,Pakistan,South Africa,3,2,0,0,0
+490,October,Abu Dhabi,ODI,Pakistan,South Africa,4,4,5,3,2
+491,October,Abu Dhabi,ODI,South Africa,Pakistan,5,5,5,4,0
+492,October,Lahore,ODI,South Africa,Pakistan,6,4,5,6,7
+493,October,Lahore,ODI,Pakistan,South Africa,4,4,4,6,4
+494,January,Cape Town,ODI,Pakistan,South Africa,5,5,3,3,6
+495,January,Cape Town,ODI,South Africa,Pakistan,7,7,4,4,0
+496,January,Centurion,ODI,Pakistan,South Africa,4,5,6,6,8
+497,January,Centurion,ODI,South Africa,Pakistan,6,5,7,0,0
+498,November,,ODI,South Africa,Pakistan,7,5,6,3,8
+499,November,,ODI,Pakistan,South Africa,7,3,5,7,2
+500,February,Johannesburg,ODI,Pakistan,South Africa,4,3,3,3,0
+501,February,Johannesburg,ODI,South Africa,Pakistan,5,5,4,0,0
+502,November,Abu Dhabi,ODI,South Africa,Pakistan,5,5,4,4,5
+503,November,Abu Dhabi,ODI,Pakistan,South Africa,5,3,2,5,1
+504,November,,ODI,Pakistan,South Africa,4,4,4,3,5
+505,November,,ODI,South Africa,Pakistan,3,2,3,4,0
+506,June,London,ODI,Pakistan,South Africa,6,3,5,7,8
+507,June,London,ODI,South Africa,Pakistan,4,5,4,5,6
+508,June,Edinburgh,T20,Pakistan,Scotland,9,11,0,0,0
+509,June,Edinburgh,T20,Scotland,Pakistan,8,7,0,0,0
+510,September,Durban,T20,Pakistan,Scotland,7,9,0,0,0
+511,September,Durban,T20,Scotland,Pakistan,7,4,0,0,0
+512,June,Edinburgh,T20,Pakistan,Scotland,8,8,0,0,0
+513,June,Edinburgh,T20,Scotland,Pakistan,6,1,0,0,0
+514,April,Karachi,ODI,Pakistan,Bangladesh,7,4,6,7,7
+515,April,Karachi,ODI,Bangladesh,Pakistan,4,4,3,4,0
+516,June,,ODI,Pakistan,Bangladesh,7,5,6,7,12
+517,June,,ODI,Bangladesh,Pakistan,5,3,3,7,4
+518,April,Mirpur,ODI,Pakistan,Bangladesh,6,3,5,5,3
+519,April,Mirpur,ODI,Bangladesh,Pakistan,5,4,7,7,0
+520,March,Mirpur,ODI,Pakistan,Bangladesh,4,2,4,5,6
+521,March,Mirpur,ODI,Bangladesh,Pakistan,4,3,3,5,7
+522,July,Karachi,ODI,Bangladesh,Pakistan,4,3,1,1,0
+523,July,Karachi,ODI,Pakistan,Bangladesh,5,6,0,0,0
+524,April,,ODI,Bangladesh,Pakistan,3,4,3,5,4
+525,April,,ODI,Pakistan,Bangladesh,7,3,3,5,2
+526,April,Lahore,ODI,Pakistan,Bangladesh,5,8,5,5,6
+527,April,Lahore,ODI,Bangladesh,Pakistan,5,6,4,4,7
+528,March,Mirpur,ODI,Pakistan,Bangladesh,3,6,4,4,6
+529,March,Mirpur,ODI,Bangladesh,Pakistan,4,4,5,5,4
+530,December,Mirpur,ODI,Bangladesh,Pakistan,2,3,3,0,0
+531,December,Mirpur,ODI,Pakistan,Bangladesh,4,2,2,0,0
+532,June,Mirpur,ODI,Pakistan,Bangladesh,6,5,5,5,0
+533,June,Mirpur,ODI,Bangladesh,Pakistan,4,3,4,4,0
+534,March,Mirpur,ODI,Bangladesh,Pakistan,4,6,5,4,11
+535,March,Mirpur,ODI,Pakistan,Bangladesh,5,4,5,6,10
+536,September,Abu Dhabi,ODI,Bangladesh,Pakistan,3,5,5,4,4
+537,September,Abu Dhabi,ODI,Pakistan,Bangladesh,3,4,2,5,3
+538,December,Chittagong,ODI,Pakistan,Bangladesh,3,2,4,3,2
+539,December,Chittagong,ODI,Bangladesh,Pakistan,3,4,3,1,0
+540,July,London,ODI,Pakistan,Bangladesh,4,5,6,7,7
+541,July,London,ODI,Bangladesh,Pakistan,4,4,5,4,2
+542,April,Mirpur,ODI,Pakistan,Bangladesh,4,3,2,6,6
+543,April,Mirpur,ODI,Bangladesh,Pakistan,8,4,5,5,0
+544,October,Karachi,ODI,Bangladesh,Pakistan,4,1,1,2,3
+545,October,Karachi,ODI,Pakistan,Bangladesh,2,4,3,2,0
+546,December,Mirpur,ODI,Pakistan,Bangladesh,3,4,4,7,6
+547,December,Mirpur,ODI,Bangladesh,Pakistan,2,2,4,3,6
+548,April,Faisalabad,ODI,Bangladesh,Pakistan,5,3,4,4,4
+549,April,Faisalabad,ODI,Pakistan,Bangladesh,6,7,2,0,0
+550,February,Colombo,ODI,Pakistan,Bangladesh,5,2,4,5,5
+551,February,Colombo,ODI,Bangladesh,Pakistan,2,4,2,4,2
+552,April,Mirpur,ODI,Bangladesh,Pakistan,4,2,7,9,8
+553,April,Mirpur,ODI,Pakistan,Bangladesh,5,5,6,4,3
+554,April,Lahore,ODI,Pakistan,Bangladesh,3,4,6,7,9
+555,April,Lahore,ODI,Bangladesh,Pakistan,4,2,5,0,0
+556,July,Dublin,ODI,Pakistan,Ireland,4,3,5,5,5
+557,July,Dublin,ODI,Ireland,Pakistan,4,5,2,1,0
+558,July,Dublin,ODI,Pakistan,Ireland,5,2,5,8,5
+559,July,Dublin,ODI,Ireland,Pakistan,6,3,2,0,0
+560,March,,ODI,Ireland,Pakistan,5,4,4,5,4
+561,March,,ODI,Pakistan,Ireland,7,4,4,5,2
+562,May,Dublin,ODI,Pakistan,Ireland,3,4,4,8,5
+563,May,Dublin,ODI,Ireland,Pakistan,5,4,5,7,4
+564,March,Jamaica,ODI,Pakistan,Ireland,5,2,3,2,0
+565,March,Jamaica,ODI,Ireland,Pakistan,3,2,2,3,0
+566,February,,ODI,Pakistan,Ireland,5,5,5,5,5
+567,February,,ODI,Ireland,Pakistan,3,3,3,5,3
+568,May,Dublin,ODI,Ireland,Pakistan,2,4,3,7,5
+569,May,Dublin,ODI,Pakistan,Ireland,2,3,4,4,8
+570,August,Dublin,ODI,Pakistan,Ireland,5,8,8,5,6
+571,August,Dublin,ODI,Ireland,Pakistan,3,4,0,0,0
+572,February,Hambantota,ODI,Pakistan,Kenya,4,4,5,6,10
+573,February,Hambantota,ODI,Kenya,Pakistan,3,2,3,1,0
+574,June,Nottingham,T20,Pakistan,South Africa,8,6,0,0,0
+575,June,Nottingham,T20,South Africa,Pakistan,6,7,0,0,0
+576,November,,T20,Pakistan,South Africa,4,5,0,0,0
+577,November,,T20,South Africa,Pakistan,5,4,0,0,0
+578,January,Doha,T20,South Africa,Pakistan,3,3,0,0,0
+579,January,Doha,T20,Pakistan,South Africa,4,2,0,0,0
+580,May,St Lucia,T20,Pakistan,South Africa,6,7,0,0,0
+581,May,St Lucia,T20,South Africa,Pakistan,5,8,0,0,0
+582,May,Pietermaritzburg,T20,Pakistan,South Africa,5,7,0,0,0
+583,May,Pietermaritzburg,T20,South Africa,Pakistan,5,7,0,0,0
+584,September,Colombo,T20,South Africa,Pakistan,5,8,0,0,0
+585,September,Colombo,T20,Pakistan,South Africa,5,7,0,0,0
+586,May,Pietermaritzburg,T20,South Africa,Pakistan,6,7,0,0,0
+587,May,Pietermaritzburg,T20,Pakistan,South Africa,7,6,0,0,0
+588,October,Abu Dhabi,T20,Pakistan,South Africa,5,6,0,0,0
+589,October,Abu Dhabi,T20,South Africa,Pakistan,6,6,0,0,0
+590,February,Johannesburg,T20,South Africa,Pakistan,7,11,0,0,0
+591,February,Johannesburg,T20,Pakistan,South Africa,10,7,0,0,0
+592,November,,T20,South Africa,Pakistan,7,7,0,0,0
+593,November,,T20,Pakistan,South Africa,8,6,0,0,0
+594,March,,T20,South Africa,Pakistan,5,4,0,0,0
+595,March,,T20,Pakistan,South Africa,5,4,0,0,0
+596,March,Sydney,T20,South Africa,Pakistan,5,7,0,0,0
+597,March,Sydney,T20,Pakistan,South Africa,5,6,0,0,0
+598,February,Centurion,T20,Pakistan,South Africa,9,7,0,0,0
+599,February,Centurion,T20,South Africa,Pakistan,7,7,0,0,0
+600,March,,T20,Pakistan,South Africa,3,6,0,0,0
+601,March,,T20,South Africa,Pakistan,5,4,0,0,0
+602,May,Benoni,T20,Pakistan,South Africa,7,9,0,0,0
+603,May,Benoni,T20,South Africa,Pakistan,9,8,0,0,0
+604,March,,T20,South Africa,Pakistan,4,4,0,0,0
+605,March,,T20,Pakistan,South Africa,3,5,0,0,0
+606,November,Cape Town,T20,Pakistan,South Africa,6,10,0,0,0
+607,November,Cape Town,T20,South Africa,Pakistan,8,8,0,0,0
+608,January,Doha,T20,South Africa,Pakistan,3,2,0,0,0
+609,January,Doha,T20,Pakistan,South Africa,5,1,0,0,0
+610,March,Centurion,T20,Pakistan,South Africa,11,8,0,0,0
+611,March,Centurion,T20,South Africa,Pakistan,8,1,0,0,0
+612,May,Pretoria,T20,South Africa,Pakistan,4,7,0,0,0
+613,May,Pretoria,T20,Pakistan,South Africa,6,5,0,0,0
+614,October,Abu Dhabi,T20,Pakistan,South Africa,8,3,0,0,0
+615,October,Abu Dhabi,T20,South Africa,Pakistan,6,5,0,0,0
+616,May,Benoni,T20,Pakistan,South Africa,5,6,0,0,0
+617,May,Benoni,T20,South Africa,Pakistan,7,5,0,0,0
+618,February,Cape Town,T20,South Africa,Pakistan,10,8,0,0,0
+619,February,Cape Town,T20,Pakistan,South Africa,9,9,0,0,0
+620,November,Johannesburg,T20,South Africa,Pakistan,8,6,0,0,0
+621,November,Johannesburg,T20,Pakistan,South Africa,6,0,0,0,0
+622,May,Edinburgh,ODI,Pakistan,Scotland,4,3,3,4,6
+623,May,Edinburgh,ODI,Scotland,Pakistan,4,2,2,3,0
+624,September,Abu Dhabi,ODI,Afghanistan,Pakistan,3,4,4,6,7
+625,September,Abu Dhabi,ODI,Pakistan,Afghanistan,3,4,6,5,6
+626,February,,ODI,Afghanistan,Pakistan,6,3,3,3,3
+627,February,,ODI,Pakistan,Afghanistan,4,5,4,5,0
+628,February,Fatullah,ODI,Pakistan,Afghanistan,5,3,4,4,7
+629,February,Fatullah,ODI,Afghanistan,Pakistan,4,2,3,5,1
+630,June,Leeds,ODI,Afghanistan,Pakistan,5,5,3,4,4
+631,June,Leeds,ODI,Pakistan,Afghanistan,5,3,3,3,6
+632,January,,T20,Pakistan,Sri Lanka,4,6,0,0,0
+633,January,,T20,Sri Lanka,Pakistan,7,4,0,0,0
+634,October,Lahore,T20,Sri Lanka,Pakistan,7,7,0,0,0
+635,October,Lahore,T20,Pakistan,Sri Lanka,7,6,0,0,0
+636,October,Abu Dhabi,T20,Sri Lanka,Pakistan,6,3,0,0,0
+637,October,Abu Dhabi,T20,Pakistan,Sri Lanka,6,4,0,0,0
+638,June,Hambantota,T20,Pakistan,Sri Lanka,4,7,0,0,0
+639,June,Hambantota,T20,Sri Lanka,Pakistan,5,4,0,0,0
+640,October,Colombo,T20,Sri Lanka,Pakistan,6,7,0,0,0
+641,October,Colombo,T20,Pakistan,Sri Lanka,6,5,0,0,0
+642,June,Hambantota,T20,Sri Lanka,Pakistan,6,7,0,0,0
+643,June,Hambantota,T20,Pakistan,Sri Lanka,5,3,0,0,0
+644,December,,T20,Sri Lanka,Pakistan,6,7,0,0,0
+645,December,,T20,Pakistan,Sri Lanka,7,7,0,0,0
+646,June,London,T20,Sri Lanka,Pakistan,8,6,0,0,0
+647,June,London,T20,Pakistan,Sri Lanka,6,6,0,0,0
+648,November,Abu Dhabi,T20,Sri Lanka,Pakistan,9,4,0,0,0
+649,November,Abu Dhabi,T20,Pakistan,Sri Lanka,6,7,0,0,0
+650,January,,T20,Pakistan,Sri Lanka,6,6,0,0,0
+651,January,,T20,Sri Lanka,Pakistan,4,2,0,0,0
+652,July,Dublin,T20,Pakistan,Sri Lanka,5,6,0,0,0
+653,August,Colombo,T20,Pakistan,Sri Lanka,9,8,0,0,0
+654,August,Colombo,T20,Sri Lanka,Pakistan,8,3,0,0,0
+655,June,London,T20,Sri Lanka,Pakistan,6,7,0,0,0
+656,June,London,T20,Pakistan,Sri Lanka,6,7,0,0,0
+657,April,,T20,Pakistan,Sri Lanka,4,8,0,0,0
+658,April,,T20,Sri Lanka,Pakistan,4,6,0,0,0
+659,June,Kuala Lumpur,T20,Pakistan,Sri Lanka,6,7,0,0,0
+660,June,Kuala Lumpur,T20,Sri Lanka,Pakistan,6,5,0,0,0
+661,March,Mirpur,T20,Sri Lanka,Pakistan,8,6,0,0,0
+662,March,Mirpur,T20,Pakistan,Sri Lanka,8,7,0,0,0
+663,March,Colombo,T20,Sri Lanka,Pakistan,5,6,0,0,0
+664,March,Colombo,T20,Pakistan,Sri Lanka,7,5,0,0,0
+665,October,Lahore,T20,Sri Lanka,Pakistan,9,8,0,0,0
+666,October,Lahore,T20,Pakistan,Sri Lanka,7,7,0,0,0
+667,March,Colombo,T20,Pakistan,Sri Lanka,5,2,0,0,0
+668,March,Colombo,T20,Sri Lanka,Pakistan,6,1,0,0,0
+669,December,,T20,Sri Lanka,Pakistan,9,11,0,0,0
+670,December,,T20,Pakistan,Sri Lanka,9,9,0,0,0
+671,October,Lahore,T20,Sri Lanka,Pakistan,9,7,0,0,0
+672,October,Lahore,T20,Pakistan,Sri Lanka,6,3,0,0,0
+673,October,King City,T20,Sri Lanka,Pakistan,8,5,0,0,0
+674,October,King City,T20,Pakistan,Sri Lanka,6,7,0,0,0
+675,October,Abu Dhabi,T20,Sri Lanka,Pakistan,6,5,0,0,0
+676,October,Abu Dhabi,T20,Pakistan,Sri Lanka,5,6,0,0,0
+677,October,King City,T20,Pakistan,Sri Lanka,7,5,0,0,0
+678,October,King City,T20,Sri Lanka,Pakistan,7,5,0,0,0
+679,October,Lahore,T20,Pakistan,Sri Lanka,8,9,0,0,0
+680,October,Lahore,T20,Sri Lanka,Pakistan,7,7,0,0,0
+681,August,Colombo,T20,Sri Lanka,Pakistan,7,9,0,0,0
+682,August,Colombo,T20,Pakistan,Sri Lanka,7,10,0,0,0
+683,September,Johannesburg,T20,Pakistan,Sri Lanka,8,10,0,0,0
+684,September,Johannesburg,T20,Sri Lanka,Pakistan,9,6,0,0,0
+685,July,Colombo,T20,Pakistan,Sri Lanka,7,9,0,0,0
+686,July,Colombo,T20,Sri Lanka,Pakistan,6,8,0,0,0
+687,December,,T20,Afghanistan,Pakistan,7,6,0,0,0
+688,December,,T20,Pakistan,Afghanistan,6,6,0,0,0
+689,November,Abu Dhabi,ODI,Sri Lanka,Pakistan,4,4,4,3,4
+690,November,Abu Dhabi,ODI,Pakistan,Sri Lanka,3,5,4,4,3
+691,August,Hambantota,ODI,Sri Lanka,Pakistan,4,4,5,8,4
+692,August,Hambantota,ODI,Pakistan,Sri Lanka,4,5,5,9,3
+693,November,,ODI,Pakistan,Sri Lanka,4,6,5,4,5
+694,November,,ODI,Sri Lanka,Pakistan,6,4,4,3,4
+695,August,,ODI,Pakistan,Sri Lanka,6,4,3,7,7
+696,August,,ODI,Sri Lanka,Pakistan,7,4,6,5,4
+697,June,Colombo,ODI,Pakistan,Sri Lanka,1,0,0,0,0
+698,August,,ODI,Pakistan,Sri Lanka,3,3,2,0,0
+699,August,,ODI,Sri Lanka,Pakistan,6,3,0,0,0
+700,June,Cardiff,ODI,Sri Lanka,Pakistan,6,4,5,2,4
+701,June,Cardiff,ODI,Pakistan,Sri Lanka,7,4,4,4,3
+702,March,Colombo,ODI,Pakistan,Sri Lanka,3,2,5,4,5
+703,June,Colombo,ODI,Sri Lanka,Pakistan,4,3,3,7,6
+704,June,Colombo,ODI,Pakistan,Sri Lanka,3,4,4,5,2
+705,July,Leicester,ODI,Sri Lanka,Pakistan,4,3,3,4,6
+706,July,Leicester,ODI,Pakistan,Sri Lanka,3,3,6,4,3
+707,September,Karachi,ODI,Pakistan,Sri Lanka,5,5,5,6,8
+708,September,Karachi,ODI,Sri Lanka,Pakistan,3,4,5,6,3
+709,November,,ODI,Pakistan,Sri Lanka,4,2,4,4,4
+710,November,,ODI,Sri Lanka,Pakistan,5,2,3,4,1
+711,February,Colombo,ODI,Pakistan,Sri Lanka,3,4,4,3,4
+712,February,Colombo,ODI,Sri Lanka,Pakistan,4,4,3,5,3
+713,August,,ODI,Pakistan,Sri Lanka,3,2,3,3,3
+714,August,,ODI,Sri Lanka,Pakistan,4,2,4,4,1
+715,October,Abu Dhabi,ODI,Sri Lanka,Pakistan,5,3,3,2,5
+716,October,Abu Dhabi,ODI,Pakistan,Sri Lanka,5,4,5,4,1
+717,December,Abu Dhabi,ODI,Sri Lanka,Pakistan,5,4,4,4,3
+718,December,Abu Dhabi,ODI,Pakistan,Sri Lanka,6,5,4,6,0
+719,February,Colombo,ODI,Pakistan,Sri Lanka,6,4,5,5,6
+720,February,Colombo,ODI,Sri Lanka,Pakistan,4,4,3,5,8
+721,October,,ODI,Pakistan,Sri Lanka,3,5,4,6,8
+722,October,,ODI,Sri Lanka,Pakistan,5,3,4,4,3
+723,July,,ODI,Sri Lanka,Pakistan,4,4,3,3,7
+724,July,,ODI,Pakistan,Sri Lanka,4,3,3,4,3
+725,August,Hambantota,ODI,Sri Lanka,Pakistan,6,4,5,4,9
+726,August,Hambantota,ODI,Pakistan,Sri Lanka,8,3,3,6,0
+727,December,,ODI,Pakistan,Sri Lanka,5,6,4,6,9
+728,December,,ODI,Sri Lanka,Pakistan,6,3,4,7,9
+729,December,,ODI,Pakistan,Sri Lanka,4,4,5,5,8
+730,December,,ODI,Sri Lanka,Pakistan,5,3,7,5,7
+731,December,Abu Dhabi,ODI,Pakistan,Sri Lanka,5,3,4,4,5
+732,December,Abu Dhabi,ODI,Sri Lanka,Pakistan,7,3,3,3,6
+733,August,Colombo,ODI,Pakistan,Sri Lanka,5,5,6,5,6
+734,August,Colombo,ODI,Sri Lanka,Pakistan,5,3,4,1,0
+735,March,Mirpur,ODI,Sri Lanka,Pakistan,5,2,5,3,1
+736,March,Mirpur,ODI,Pakistan,Sri Lanka,3,3,5,6,0
+737,January,Karachi,ODI,Sri Lanka,Pakistan,6,4,5,5,7
+738,January,Karachi,ODI,Pakistan,Sri Lanka,4,6,4,0,0
+739,March,Colombo,ODI,Sri Lanka,Pakistan,5,3,3,3,6
+740,March,Colombo,ODI,Pakistan,Sri Lanka,7,4,3,4,2
+741,June,,ODI,Sri Lanka,Pakistan,5,4,5,5,7
+742,June,,ODI,Pakistan,Sri Lanka,5,4,3,3,3
+743,February,Fatullah,ODI,Sri Lanka,Pakistan,4,7,7,5,5
+744,February,Fatullah,ODI,Pakistan,Sri Lanka,6,4,5,6,5
+745,November,,ODI,Sri Lanka,Pakistan,5,2,2,7,5
+746,November,,ODI,Pakistan,Sri Lanka,4,3,3,5,3
+747,March,Mirpur,ODI,Pakistan,Sri Lanka,3,2,4,6,9
+748,March,Mirpur,ODI,Sri Lanka,Pakistan,6,5,5,6,3
+749,October,,ODI,Sri Lanka,Pakistan,4,4,1,0,0
+750,October,,ODI,Pakistan,Sri Lanka,5,5,0,0,0
+751,March,Colombo,ODI,Sri Lanka,Pakistan,3,2,3,3,0
+752,March,Colombo,ODI,Pakistan,Sri Lanka,3,1,2,3,2
+753,October,Abu Dhabi,ODI,Pakistan,Sri Lanka,4,3,3,4,6
+754,October,Abu Dhabi,ODI,Sri Lanka,Pakistan,3,3,3,4,3
+755,June,,ODI,Sri Lanka,Pakistan,5,3,5,4,5
+756,June,,ODI,Pakistan,Sri Lanka,2,4,7,5,2
+757,July,Hambantota,ODI,Sri Lanka,Pakistan,7,5,6,6,11
+758,July,Hambantota,ODI,Pakistan,Sri Lanka,5,6,5,3,0
+759,October,Jaipur,ODI,Sri Lanka,Pakistan,7,5,4,4,3
+760,October,Jaipur,ODI,Pakistan,Sri Lanka,6,4,3,4,6
+761,July,Colombo,ODI,Pakistan,Sri Lanka,6,4,4,6,9
+762,July,Colombo,ODI,Sri Lanka,Pakistan,5,4,4,3,0
+763,October,,ODI,Sri Lanka,Pakistan,6,3,3,4,0
+764,October,,ODI,Pakistan,Sri Lanka,4,4,3,5,0
+765,January,,ODI,Pakistan,Sri Lanka,2,2,2,4,2
+766,January,,ODI,Sri Lanka,Pakistan,3,2,3,2,0
+767,August,Colombo,ODI,Pakistan,Sri Lanka,6,4,4,6,10
+768,August,Colombo,ODI,Sri Lanka,Pakistan,7,5,3,1,0
+769,December,,ODI,Pakistan,Sri Lanka,3,5,6,6,9
+770,December,,ODI,Sri Lanka,Pakistan,5,5,3,6,1
+771,November,,ODI,Sri Lanka,Pakistan,3,4,2,2,0
+772,November,,ODI,Pakistan,Sri Lanka,7,5,0,0,0
+773,January,Karachi,ODI,Sri Lanka,Pakistan,8,3,4,4,1
+774,January,Karachi,ODI,Pakistan,Sri Lanka,3,5,4,6,2
+775,June,Colombo,ODI,Pakistan,Sri Lanka,4,5,4,5,5
+776,June,Colombo,ODI,Sri Lanka,Pakistan,3,4,3,5,7
+777,July,,ODI,Sri Lanka,Pakistan,5,4,3,6,5
+778,July,,ODI,Pakistan,Sri Lanka,5,4,6,7,2
+779,January,,ODI,Sri Lanka,Pakistan,5,4,4,3,6
+780,January,,ODI,Pakistan,Sri Lanka,4,4,5,5,4
+781,March,,ODI,Pakistan,Sri Lanka,4,4,4,3,4
+782,March,,ODI,Sri Lanka,Pakistan,3,2,2,2,0
+783,March,,ODI,Pakistan,Sri Lanka,3,4,3,6,7
+784,March,,ODI,Sri Lanka,Pakistan,3,4,3,3,0
+785,July,Colombo,ODI,Sri Lanka,Pakistan,5,4,4,4,7
+786,July,Colombo,ODI,Pakistan,Sri Lanka,7,4,7,6,0
+787,October,Karachi,ODI,Sri Lanka,Pakistan,5,4,5,6,7
+788,October,Karachi,ODI,Pakistan,Sri Lanka,7,5,6,5,5
+789,June,Karachi,ODI,Sri Lanka,Pakistan,5,5,7,6,7
+790,June,Karachi,ODI,Pakistan,Sri Lanka,4,4,3,5,6
+791,July,,ODI,Pakistan,Sri Lanka,4,4,4,7,7
+792,July,,ODI,Sri Lanka,Pakistan,10,4,4,6,3
+793,June,,ODI,Sri Lanka,Pakistan,2,3,2,4,0
+794,June,,ODI,Pakistan,Sri Lanka,3,4,4,1,0
+795,January,Lahore,ODI,Sri Lanka,Pakistan,3,7,6,6,7
+796,January,Lahore,ODI,Pakistan,Sri Lanka,3,3,0,0,0
+797,March,,ODI,Zimbabwe,Pakistan,4,3,2,4,0
+798,March,,ODI,Pakistan,Zimbabwe,4,5,4,2,0
+799,March,Brisbane,ODI,Pakistan,Zimbabwe,1,4,5,5,6
+800,March,Brisbane,ODI,Zimbabwe,Pakistan,3,3,6,3,4
+801,January,,ODI,Pakistan,Zimbabwe,3,4,4,8,6
+802,January,,ODI,Zimbabwe,Pakistan,3,4,5,4,5
+803,September,Bulawayo,ODI,Pakistan,Zimbabwe,4,6,4,4,5
+804,September,Bulawayo,ODI,Zimbabwe,Pakistan,4,3,5,4,6
+805,July,Bulawayo,ODI,Pakistan,Zimbabwe,6,6,5,7,9
+806,July,Bulawayo,ODI,Zimbabwe,Pakistan,4,5,4,4,4
+807,August,,ODI,Pakistan,Zimbabwe,5,3,5,6,9
+808,August,,ODI,Zimbabwe,Pakistan,5,4,6,4,0
+809,March,Jamaica,ODI,Pakistan,Zimbabwe,4,6,6,9,8
+810,March,Jamaica,ODI,Zimbabwe,Pakistan,3,6,0,0,0
+811,September,,ODI,Pakistan,Zimbabwe,6,3,5,5,5
+812,September,,ODI,Zimbabwe,Pakistan,4,3,5,5,5
+813,May,Lahore,ODI,Pakistan,Zimbabwe,5,6,3,5,8
+814,May,Lahore,ODI,Zimbabwe,Pakistan,6,0,0,0,0
+815,May,Lahore,ODI,Pakistan,Zimbabwe,5,6,6,9,9
+816,May,Lahore,ODI,Zimbabwe,Pakistan,5,5,5,8,8
+817,August,,ODI,Pakistan,Zimbabwe,4,3,3,6,8
+818,August,,ODI,Zimbabwe,Pakistan,4,3,3,3,0
+819,January,Faisalabad,ODI,Zimbabwe,Pakistan,3,6,4,4,6
+820,January,Faisalabad,ODI,Pakistan,Zimbabwe,5,4,5,6,3
+821,July,Bulawayo,ODI,Pakistan,Zimbabwe,6,5,7,9,10
+822,July,Bulawayo,ODI,Zimbabwe,Pakistan,5,2,4,3,0
+823,September,,ODI,Zimbabwe,Pakistan,2,4,4,4,6
+824,September,,ODI,Pakistan,Zimbabwe,4,5,4,7,1
+825,July,Bulawayo,ODI,Pakistan,Zimbabwe,3,5,6,6,7
+826,July,Bulawayo,ODI,Zimbabwe,Pakistan,4,2,2,0,0
+827,July,Bulawayo,ODI,Zimbabwe,Pakistan,2,5,3,3,3
+828,July,Bulawayo,ODI,Pakistan,Zimbabwe,6,6,4,2,0
+829,October,,ODI,Zimbabwe,Pakistan,4,4,4,5,8
+830,October,,ODI,Pakistan,Zimbabwe,3,4,5,6,6
+831,February,,ODI,Zimbabwe,Pakistan,4,3,4,3,2
+832,February,,ODI,Pakistan,Zimbabwe,7,5,5,0,0
+833,July,Bulawayo,ODI,Zimbabwe,Pakistan,3,2,0,0,0
+834,July,Bulawayo,ODI,Pakistan,Zimbabwe,6,0,0,0,0
+835,October,,ODI,Pakistan,Zimbabwe,3,4,4,4,8
+836,October,,ODI,Zimbabwe,Pakistan,3,3,3,2,0
+837,January,Sind,ODI,Zimbabwe,Pakistan,4,5,4,5,3
+838,January,Sind,ODI,Pakistan,Zimbabwe,7,6,2,4,4
+839,October,,ODI,Zimbabwe,Pakistan,4,4,3,3,0
+840,October,,ODI,Pakistan,Zimbabwe,4,4,5,1,0
+841,January,Karachi,ODI,Pakistan,Zimbabwe,5,5,8,6,8
+842,January,Karachi,ODI,Zimbabwe,Pakistan,5,6,3,3,5
+843,August,,ODI,Pakistan,Zimbabwe,4,4,5,5,4
+844,August,,ODI,Zimbabwe,Pakistan,5,3,4,4,6
+845,May,Lahore,ODI,Zimbabwe,Pakistan,4,5,4,4,7
+846,May,Lahore,ODI,Pakistan,Zimbabwe,5,4,4,6,5
+847,March,,ODI,Pakistan,Australia,3,5,4,5,2
+848,March,,ODI,Australia,Pakistan,5,5,7,3,0
+849,October,,ODI,Pakistan,Australia,4,5,5,3,2
+850,October,,ODI,Australia,Pakistan,7,3,5,4,1
+851,January,Perth,ODI,Pakistan,Australia,1,4,4,5,5
+852,January,Perth,ODI,Australia,Pakistan,5,3,3,3,5
+853,August,Brisbane,ODI,Pakistan,Australia,6,4,1,0,0
+854,August,Brisbane,ODI,Australia,Pakistan,2,7,2,0,0
+855,January,,ODI,Australia,Pakistan,7,3,7,6,10
+856,January,,ODI,Pakistan,Australia,7,7,4,6,2
+857,March,Dubai,ODI,Australia,Pakistan,6,6,4,6,9
+858,March,Dubai,ODI,Pakistan,Australia,6,5,5,6,6
+859,June,Taunton,ODI,Australia,Pakistan,6,7,6,7,3
+860,June,Taunton,ODI,Pakistan,Australia,5,5,5,7,2
+861,January,,ODI,Australia,Pakistan,5,5,3,3,4
+862,January,,ODI,Pakistan,Australia,4,4,5,4,3
+863,March,Sharjah,ODI,Pakistan,Australia,5,5,4,5,6
+864,March,Sharjah,ODI,Australia,Pakistan,5,6,5,5,4
+865,May,Abu Dhabi,ODI,Pakistan,Australia,3,3,5,4,3
+866,May,Abu Dhabi,ODI,Australia,Pakistan,3,4,3,6,2
+867,March,Colombo,ODI,Australia,Pakistan,3,4,3,2,2
+868,March,Colombo,ODI,Pakistan,Australia,5,4,4,4,0
+869,March,Dubai,ODI,Australia,Pakistan,4,4,6,5,7
+870,March,Dubai,ODI,Pakistan,Australia,5,5,5,6,5
+871,March,Abu Dhabi,ODI,Australia,Pakistan,5,5,3,4,8
+872,March,Abu Dhabi,ODI,Pakistan,Australia,2,5,4,5,1
+873,October,Kuala Lumpur,ODI,Pakistan,Australia,3,3,1,1,0
+874,October,Kuala Lumpur,ODI,Australia,Pakistan,5,3,0,0,0
+875,May,Abu Dhabi,ODI,Australia,Pakistan,7,3,3,4,6
+876,May,Abu Dhabi,ODI,Pakistan,Australia,3,6,5,5,4
+877,October,Abu Dhabi,ODI,Australia,Pakistan,4,5,4,2,6
+878,October,Abu Dhabi,ODI,Pakistan,Australia,5,3,4,5,4
+879,August,Brisbane,ODI,Pakistan,Australia,2,3,4,3,4
+880,August,Brisbane,ODI,Australia,Pakistan,3,7,6,1,0
+881,January,,ODI,Australia,Pakistan,7,5,7,7,9
+882,January,,ODI,Pakistan,Australia,5,6,6,6,6
+883,August,Abu Dhabi,ODI,Australia,Pakistan,4,3,4,6,6
+884,August,Abu Dhabi,ODI,Pakistan,Australia,6,6,5,5,1
+885,September,Centurion,ODI,Pakistan,Australia,5,3,4,3,5
+886,September,Centurion,ODI,Australia,Pakistan,5,4,3,3,3
+887,January,,ODI,Australia,Pakistan,6,3,3,5,7
+888,January,,ODI,Pakistan,Australia,3,2,4,2,0
+889,March,Sharjah,ODI,Pakistan,Australia,4,4,5,5,8
+890,March,Sharjah,ODI,Australia,Pakistan,6,4,5,6,5
+891,January,Brisbane,ODI,Australia,Pakistan,6,3,6,3,7
+892,January,Brisbane,ODI,Pakistan,Australia,4,4,3,3,0
+893,July,Leicester,ODI,Australia,Pakistan,2,4,7,5,9
+894,July,Leicester,ODI,Pakistan,Australia,2,2,2,2,2
+895,April,,ODI,Pakistan,Australia,3,4,3,5,4
+896,April,,ODI,Australia,Pakistan,5,3,4,4,2
+897,January,Brisbane,ODI,Pakistan,Australia,5,5,4,4,6
+898,January,Brisbane,ODI,Australia,Pakistan,4,5,5,6,5
+899,January,,ODI,Australia,Pakistan,4,5,4,5,8
+900,January,,ODI,Pakistan,Australia,4,4,5,6,4
+901,April,,ODI,Australia,Pakistan,5,5,1,4,0
+902,April,,ODI,Pakistan,Australia,3,4,3,4,1
+903,September,,ODI,Pakistan,Australia,4,5,5,4,5
+904,September,,ODI,Australia,Pakistan,5,4,3,6,5
+905,April,Abu Dhabi,ODI,Australia,Pakistan,4,3,2,4,4
+906,April,Abu Dhabi,ODI,Pakistan,Australia,4,4,3,2,1
+907,October,,ODI,Australia,Pakistan,4,5,5,5,5
+908,October,,ODI,Pakistan,Australia,5,3,3,3,0
+909,August,,ODI,Pakistan,Australia,4,4,5,4,1
+910,August,,ODI,Australia,Pakistan,4,3,3,4,4
+911,January,Perth,ODI,Pakistan,Australia,5,4,5,5,4
+912,January,Perth,ODI,Australia,Pakistan,5,4,5,8,2
+913,January,Perth,ODI,Australia,Pakistan,4,6,3,5,8
+914,January,Perth,ODI,Pakistan,Australia,4,2,6,1,0
+915,October,Kuala Lumpur,ODI,Australia,Pakistan,4,5,6,6,9
+916,October,Kuala Lumpur,ODI,Pakistan,Australia,5,2,5,5,5
+917,October,Kuala Lumpur,ODI,Australia,Pakistan,3,4,6,6,5
+918,October,Kuala Lumpur,ODI,Pakistan,Australia,4,3,2,2,0
+919,February,,ODI,Pakistan,India,5,4,5,5,5
+920,February,,ODI,India,Pakistan,7,6,6,5,1
+921,February,Colombo,ODI,Pakistan,India,3,1,0,1,0
+922,February,Colombo,ODI,India,Pakistan,3,3,0,0,0
+923,April,Abu Dhabi,ODI,India,Pakistan,5,4,5,5,5
+924,April,Abu Dhabi,ODI,Pakistan,India,4,2,5,7,2
+925,June,Manchester,ODI,India,Pakistan,6,5,6,7,8
+926,June,Manchester,ODI,Pakistan,India,4,5,5,6,0
+927,June,Karachi,ODI,Pakistan,India,3,5,6,7,7
+928,June,Karachi,ODI,India,Pakistan,7,8,7,6,0
+929,September,,ODI,Pakistan,India,3,5,3,4,0
+930,September,,ODI,India,Pakistan,6,6,3,0,0
+931,April,Abu Dhabi,ODI,India,Pakistan,3,4,2,4,4
+932,April,Abu Dhabi,ODI,Pakistan,India,4,4,3,3,4
+933,March,Chandigarh,ODI,India,Pakistan,7,4,5,3,5
+934,March,Chandigarh,ODI,Pakistan,India,5,3,3,4,5
+935,February,,ODI,Pakistan,India,2,4,4,3,0
+936,February,,ODI,India,Pakistan,5,4,5,1,0
+937,November,Kanpur,ODI,India,Pakistan,6,3,3,7,7
+938,November,Kanpur,ODI,Pakistan,India,8,2,3,6,4
+939,November,Guwahati,ODI,Pakistan,India,4,3,3,5,7
+940,November,Guwahati,ODI,India,Pakistan,6,5,4,4,4
+941,February,,ODI,India,Pakistan,4,6,6,5,7
+942,February,,ODI,Pakistan,India,4,5,3,6,2
+943,February,Lahore,ODI,Pakistan,India,6,3,5,5,7
+944,February,Lahore,ODI,India,Pakistan,3,6,7,5,6
+945,June,Mirpur,ODI,India,Pakistan,8,6,5,6,6
+946,June,Mirpur,ODI,Pakistan,India,6,5,4,1,0
+947,February,Karachi,ODI,Pakistan,India,6,4,5,5,7
+948,February,Karachi,ODI,India,Pakistan,5,3,5,6,7
+949,July,Karachi,ODI,India,Pakistan,9,4,4,5,6
+950,July,Karachi,ODI,Pakistan,India,8,6,6,7,3
+951,January,Kolkata,ODI,Pakistan,India,6,5,4,4,4
+952,January,Kolkata,ODI,India,Pakistan,5,2,2,3,2
+953,September,Centurion,ODI,Pakistan,India,5,3,5,8,7
+954,September,Centurion,ODI,India,Pakistan,8,4,5,5,1
+955,March,Mirpur,ODI,Pakistan,India,5,6,6,7,6
+956,March,Mirpur,ODI,India,Pakistan,6,7,5,6,6
+957,November,Gwalior,ODI,Pakistan,India,3,4,5,5,7
+958,November,Gwalior,ODI,India,Pakistan,6,4,6,4,4
+959,June,,ODI,Pakistan,India,4,5,4,5,5
+960,June,,ODI,India,Pakistan,4,5,4,5,6
+961,June,Birmingham,ODI,India,Pakistan,5,6,4,5,9
+962,June,Birmingham,ODI,Pakistan,India,5,4,6,1,0
+963,September,,ODI,Pakistan,India,3,4,5,4,6
+964,September,,ODI,India,Pakistan,5,5,8,4,0
+965,February,Peshawar,ODI,India,Pakistan,5,8,6,7,5
+966,February,Peshawar,ODI,Pakistan,India,6,5,7,7,4
+967,June,Birmingham,ODI,Pakistan,India,4,3,5,3,0
+968,June,Birmingham,ODI,India,Pakistan,6,4,0,0,0
+969,June,Mirpur,ODI,Pakistan,India,4,3,7,7,8
+970,June,Mirpur,ODI,India,Pakistan,7,5,5,5,5
+971,December,Chennai,ODI,India,Pakistan,3,4,2,5,7
+972,December,Chennai,ODI,Pakistan,India,2,5,6,4,4
+973,November,Chandigarh,ODI,India,Pakistan,6,7,6,6,5
+974,November,Chandigarh,ODI,Pakistan,India,6,3,6,8,8
+975,June,London,ODI,Pakistan,India,6,5,6,7,8
+976,June,London,ODI,India,Pakistan,4,5,5,0,0
+977,November,Jaipur,ODI,Pakistan,India,5,4,4,8,7
+978,November,Jaipur,ODI,India,Pakistan,6,3,6,5,6
+979,March,Mirpur,ODI,India,Pakistan,6,2,4,3,7
+980,March,Mirpur,ODI,Pakistan,India,7,3,3,4,5
+981,January,Delhi,ODI,India,Pakistan,4,4,3,3,1
+982,January,Delhi,ODI,Pakistan,India,2,4,3,2,2
+983,July,Derby,ODI,India,Pakistan,2,4,3,1,5
+984,July,Derby,ODI,Pakistan,India,2,1,2,1,0
+985,July,,T20,Pakistan,Australia,9,9,0,0,0
+986,July,,T20,Australia,Pakistan,7,7,0,0,0
+987,February,,T20,Australia,Pakistan,7,4,0,0,0
+988,February,,T20,Pakistan,Australia,7,5,0,0,0
+989,October,,T20,Pakistan,Australia,4,4,0,0,0
+990,October,,T20,Australia,Pakistan,6,2,0,0,0
+991,May,St Lucia,T20,Australia,Pakistan,9,9,0,0,0
+992,May,St Lucia,T20,Pakistan,Australia,9,6,0,0,0
+993,September,,T20,Pakistan,Australia,7,7,0,0,0
+994,September,,T20,Australia,Pakistan,8,6,0,0,0
+995,September,,T20,Australia,Pakistan,1,0,0,0,0
+996,September,,T20,Pakistan,Australia,1,0,0,0,0
+997,September,Gold Coast,T20,Australia,Pakistan,7,6,0,0,0
+998,September,Gold Coast,T20,Pakistan,Australia,6,5,0,0,0
+999,August,Gold Coast,T20,Australia,Pakistan,8,6,0,0,0
+1000,August,Gold Coast,T20,Pakistan,Australia,5,3,0,0,0
+1001,March,Chandigarh,T20,Australia,Pakistan,9,10,0,0,0
+1002,March,Chandigarh,T20,Pakistan,Australia,8,8,0,0,0
+1003,May,St Lucia,T20,Pakistan,Australia,8,10,0,0,0
+1004,May,St Lucia,T20,Australia,Pakistan,8,11,0,0,0
+1005,July,,T20,Australia,Pakistan,10,8,0,0,0
+1006,July,,T20,Pakistan,Australia,9,9,0,0,0
+1007,March,,T20,Australia,Pakistan,8,10,0,0,0
+1008,March,,T20,Pakistan,Australia,5,3,0,0,0
+1009,November,Guyana,T20,Australia,Pakistan,8,8,0,0,0
+1010,November,Guyana,T20,Pakistan,Australia,6,4,0,0,0
+1011,July,Birmingham,T20,Pakistan,Australia,8,7,0,0,0
+1012,July,Birmingham,T20,Australia,Pakistan,8,6,0,0,0
+1013,October,Kuala Lumpur,T20,Pakistan,Australia,5,4,0,0,0
+1014,October,Kuala Lumpur,T20,Australia,Pakistan,9,0,0,0,0
+1015,October,Kuala Lumpur,T20,Australia,Pakistan,11,8,0,0,0
+1016,October,Kuala Lumpur,T20,Pakistan,Australia,8,4,0,0,0
+1017,October,,T20,Pakistan,Australia,8,7,0,0,0
+1018,October,,T20,Australia,Pakistan,7,3,0,0,0
+1019,October,Colombo,T20,Pakistan,Australia,7,7,0,0,0
+1020,October,Colombo,T20,Australia,Pakistan,4,6,0,0,0
+1021,September,Gold Coast,T20,Pakistan,Australia,3,4,0,0,0
+1022,September,Gold Coast,T20,Australia,Pakistan,8,0,0,0,0
+1023,August,Gold Coast,T20,Pakistan,Australia,5,3,0,0,0
+1024,August,Gold Coast,T20,Australia,Pakistan,7,1,0,0,0
+1025,July,Birmingham,T20,Pakistan,Australia,8,8,0,0,0
+1026,July,Birmingham,T20,Australia,Pakistan,8,6,0,0,0
+1027,September,,T20,Australia,Pakistan,6,8,0,0,0
+1028,September,,T20,Pakistan,Australia,3,0,0,0,0
+1029,October,Kuala Lumpur,T20,Pakistan,Australia,6,3,0,0,0
+1030,October,Kuala Lumpur,T20,Australia,Pakistan,6,4,0,0,0
+1031,May,,T20,Australia,Pakistan,7,3,0,0,0
+1032,May,,T20,Pakistan,Australia,6,4,0,0,0
+1033,September,,T20,Australia,Pakistan,5,3,0,0,0
+1034,September,,T20,Pakistan,Australia,6,2,0,0,0
+1035,November,Perth,T20,Pakistan,Australia,6,4,0,0,0
+1036,November,Perth,T20,Australia,Pakistan,10,0,0,0,0
+1037,November,Sydney,T20,Pakistan,Australia,7,3,0,0,0
+1038,November,Sydney,T20,Australia,Pakistan,4,0,0,0,0
+1039,September,,T20,Australia,Pakistan,11,5,0,0,0
+1040,September,,T20,Pakistan,Australia,3,3,0,0,0
+1041,July,,T20,Pakistan,Australia,5,6,0,0,0
+1042,July,,T20,Australia,Pakistan,11,0,0,0,0
+1043,October,,T20,Pakistan,Australia,7,7,0,0,0
+1044,October,,T20,Australia,Pakistan,6,7,0,0,0
+1045,October,Abu Dhabi,T20,Pakistan,Australia,8,7,0,0,0
+1046,October,Abu Dhabi,T20,Australia,Pakistan,5,3,0,0,0
+1047,March,Mirpur,T20,Pakistan,Australia,9,9,0,0,0
+1048,March,Mirpur,T20,Australia,Pakistan,12,5,0,0,0
+1049,November,Canberra,T20,Pakistan,Australia,6,8,0,0,0
+1050,November,Canberra,T20,Australia,Pakistan,9,6,0,0,0
+1051,September,Johannesburg,T20,Australia,Pakistan,9,7,0,0,0
+1052,September,Johannesburg,T20,Pakistan,Australia,7,8,0,0,0
+1053,September,,T20,Pakistan,Zimbabwe,7,6,0,0,0
+1054,September,,T20,Zimbabwe,Pakistan,4,7,0,0,0
+1055,August,,T20,Pakistan,Zimbabwe,7,10,0,0,0
+1056,August,,T20,Zimbabwe,Pakistan,7,8,0,0,0
+1057,August,,T20,Pakistan,Zimbabwe,5,10,0,0,0
+1058,August,,T20,Zimbabwe,Pakistan,7,6,0,0,0
+1059,September,,T20,Pakistan,Zimbabwe,10,9,0,0,0
+1060,September,,T20,Zimbabwe,Pakistan,8,2,0,0,0
+1061,July,,T20,Pakistan,Zimbabwe,8,10,0,0,0
+1062,July,,T20,Zimbabwe,Pakistan,6,4,0,0,0
+1063,May,Lahore,T20,Zimbabwe,Pakistan,8,8,0,0,0
+1064,May,Lahore,T20,Pakistan,Zimbabwe,12,5,0,0,0
+1065,September,,T20,Pakistan,Zimbabwe,7,6,0,0,0
+1066,September,,T20,Zimbabwe,Pakistan,6,5,0,0,0
+1067,July,,T20,Zimbabwe,Pakistan,8,8,0,0,0
+1068,July,,T20,Pakistan,Zimbabwe,9,7,0,0,0
+1069,May,Lahore,T20,Zimbabwe,Pakistan,8,8,0,0,0
+1070,May,Lahore,T20,Pakistan,Zimbabwe,9,7,0,0,0
+1071,September,,T20,Pakistan,Zimbabwe,7,6,0,0,0
+1072,September,,T20,Zimbabwe,Pakistan,6,7,0,0,0
+1073,April,,T20,India,Pakistan,5,5,0,0,0
+1074,April,,T20,Pakistan,India,3,6,0,0,0
+1075,June,Kuala Lumpur,T20,Pakistan,India,3,3,0,0,0
+1076,June,Kuala Lumpur,T20,India,Pakistan,4,3,0,0,0
+1077,February,Mirpur,T20,Pakistan,India,5,3,0,0,0
+1078,February,Mirpur,T20,India,Pakistan,5,2,0,0,0
+1079,December,Ahmedabad,T20,India,Pakistan,8,10,0,0,0
+1080,December,Ahmedabad,T20,Pakistan,India,8,9,0,0,0
+1081,October,,T20,Pakistan,India,5,3,0,0,0
+1082,October,,T20,India,Pakistan,5,4,0,0,0
+1083,September,Johannesburg,T20,India,Pakistan,8,7,0,0,0
+1084,September,Johannesburg,T20,Pakistan,India,7,7,0,0,0
+1085,March,Delhi,T20,India,Pakistan,3,6,0,0,0
+1086,March,Delhi,T20,Pakistan,India,5,1,0,0,0
+1087,September,Colombo,T20,Pakistan,India,6,6,0,0,0
+1088,September,Colombo,T20,India,Pakistan,7,5,0,0,0
+1089,March,Kolkata,T20,Pakistan,India,5,6,0,0,0
+1090,March,Kolkata,T20,India,Pakistan,7,4,0,0,0
+1091,October,,T20,Pakistan,India,4,5,0,0,0
+1092,October,,T20,India,Pakistan,5,4,0,0,0
+1093,December,Bangalore,T20,India,Pakistan,7,5,0,0,0
+1094,December,Bangalore,T20,Pakistan,India,5,7,0,0,0
+1095,December,Bangkok,T20,India,Pakistan,6,5,0,0,0
+1096,December,Bangkok,T20,Pakistan,India,6,4,0,0,0
+1097,September,Durban,T20,India,Pakistan,7,7,0,0,0
+1098,September,Durban,T20,Pakistan,India,6,8,0,0,0
+1099,October,,T20,India,Pakistan,4,3,0,0,0
+1100,October,,T20,Pakistan,India,3,3,0,0,0
+1101,March,Mirpur,T20,Pakistan,India,6,6,0,0,0
+1102,March,Mirpur,T20,India,Pakistan,7,5,0,0,0
+1103,November,Guyana,T20,Pakistan,India,6,7,0,0,0
+1104,November,Guyana,T20,India,Pakistan,6,5,0,0,0
