@@ -26,7 +26,8 @@ will_batsman_get_out_dataset = pd.read_csv(
 what_score_will_batsman_make_dataset = pd.read_csv(
     root+'/sportsanalytics/backend-fyp/notebook/csv/what_score_will_batsman_make.csv').fillna('')
 
-who_will_win_nb = pickle.load(open(root+'/backend-fyp/models/who_will_win-nb'))
+who_will_win_nb = pickle.load(
+    open(root+'/sportsanalytics/backend-fyp/models/who_will_win-nb'))
 # runrate_lr = pickle.load(open(root+'/models/runrate-lr'))
 runrate_first_lr = pickle.load(
     open(root+'/sportsanalytics/backend-fyp/models/runrate_first-lr'))
