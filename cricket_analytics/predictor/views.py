@@ -65,23 +65,26 @@ def runrate(request):
     input = pd.DataFrame({
         'city': body['city'] or '',
         'month': body['month'] or '',
-        'match_type':body['match_type'] or '',
-        'batting_team':body['batting_team'] or '',	
-        'bowling_team':body['bowling_team'] or '',
-        
-    }, columns=['month','city','match_type', 'batting_team','bowling_team'], index=[0])
-    label_input = input.apply(lambda x: encode_dict_runrate[x.name].transform(x))
+        'match_type': body['match_type'] or '',
+        'batting_team': body['batting_team'] or '',
+        'bowling_team': body['bowling_team'] or '',
+
+    }, columns=['month', 'city', 'match_type', 'batting_team', 'bowling_team'], index=[0])
+    label_input = input.apply(
+        lambda x: encode_dict_runrate[x.name].transform(x))
     pred1 = runrate_first_lr.predict(label_input)
     pred2 = runrate_second_lr.predict(label_input)
     pred3 = runrate_third_lr.predict(label_input)
     pred4 = runrate_forth_lr.predict(label_input)
     pred5 = runrate_fifth_lr.predict(label_input)
-    data = runrate_dataset[runrate_dataset.match_type == str(input.match_type[0])]
+    data = runrate_dataset[runrate_dataset.match_type ==
+                           str(input.match_type[0])]
     data = data[data.batting_team == str(input.batting_team[0])]
     data = data[data.bowling_team == str(input.bowling_team[0])]
     data = data[data.month == str(input.month[0])]
     data = data[data.city == str(input.city[0])]
-    return HttpResponse(json.dumps({"error":False,"prediction":[pred1[0],pred2[0],pred3[0],pred4[0],pred5[0]],"data":data.T.to_dict().values()}), content_type="application/json")
+    return HttpResponse(json.dumps({"error": False, "prediction": [pred1[0], pred2[0], pred3[0], pred4[0], pred5[0]], "data": data.T.to_dict().values()}), content_type="application/json")
+
 
 def will_batsman_get_out(request):
     body = json.loads(request.body)
